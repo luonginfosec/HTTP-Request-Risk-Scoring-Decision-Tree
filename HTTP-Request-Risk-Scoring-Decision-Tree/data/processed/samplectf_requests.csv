@@ -1,0 +1,110 @@
+"id","label","source","source_url","method","url","path","query_string","headers","body","raw_request","notes"
+"burp_external_000001","0","burp_samplectf","http://localhost:3000/somepath?file=%252E%252E%252F%252E%252E%252F%252E%252E%252F%252E%252E%252Fflag%252Etxt","GET","http://localhost:3000/somepath?file=%252E%252E%252F%252E%252E%252F%252E%252E%252F%252E%252E%252Fflag%252Etxt","/somepath","file=%252E%252E%252F%252E%252E%252F%252E%252E%252F%252E%252E%252Fflag%252Etxt","{""Host"": ""localhost:3000"", ""sec-ch-ua"": ""\""Not=A?Brand\"";v=\""24\"", \""Chromium\"";v=\""140\"""", ""sec-ch-ua-mobile"": ""?0"", ""sec-ch-ua-platform"": ""\""Linux\"""", ""Accept-Language"": ""en-US,en;q=0.9"", ""Upgrade-Insecure-Requests"": ""1"", ""User-Agent"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"", ""Accept"": ""text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7"", ""Sec-Fetch-Site"": ""none"", ""Sec-Fetch-Mode"": ""navigate"", ""Sec-Fetch-User"": ""?1"", ""Sec-Fetch-Dest"": ""document"", ""Accept-Encoding"": ""gzip, deflate, br"", ""Cookie"": ""PRESENT"", ""Connection"": ""keep-alive""}","","GET /somepath?file=%252E%252E%252F%252E%252E%252F%252E%252E%252F%252E%252E%252Fflag%252Etxt HTTP/1.1
+Host: localhost:3000
+sec-ch-ua: ""Not=A?Brand"";v=""24"", ""Chromium"";v=""140""
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: ""Linux""
+Accept-Language: en-US,en;q=0.9
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Cookie: PRESENT
+Connection: keep-alive","burp_external"
+"burp_external_000002","0","burp_samplectf","http://localhost:3000/api/coolbeans","GET","http://localhost:3000/api/coolbeans","/api/coolbeans","","{""Host"": ""localhost:3000"", ""sec-ch-ua-platform"": ""\""Linux\"""", ""Accept-Language"": ""en-US,en;q=0.9"", ""sec-ch-ua"": ""\""Not=A?Brand\"";v=\""24\"", \""Chromium\"";v=\""140\"""", ""User-Agent"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"", ""sec-ch-ua-mobile"": ""?0"", ""Accept"": ""*/*"", ""Sec-Fetch-Site"": ""same-origin"", ""Sec-Fetch-Mode"": ""cors"", ""Sec-Fetch-Dest"": ""empty"", ""Referer"": ""http://localhost:3000/"", ""Accept-Encoding"": ""gzip, deflate, br"", ""Cookie"": ""PRESENT"", ""Connection"": ""keep-alive""}","","GET /api/coolbeans HTTP/1.1
+Host: localhost:3000
+sec-ch-ua-platform: ""Linux""
+Accept-Language: en-US,en;q=0.9
+sec-ch-ua: ""Not=A?Brand"";v=""24"", ""Chromium"";v=""140""
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+sec-ch-ua-mobile: ?0
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: http://localhost:3000/
+Accept-Encoding: gzip, deflate, br
+Cookie: PRESENT
+Connection: keep-alive","burp_external"
+"burp_external_000003","0","burp_samplectf","http://localhost:3000/favicon.ico","GET","http://localhost:3000/favicon.ico","/favicon.ico","","{""Host"": ""localhost:3000"", ""sec-ch-ua-platform"": ""\""Linux\"""", ""Accept-Language"": ""en-US,en;q=0.9"", ""sec-ch-ua"": ""\""Not=A?Brand\"";v=\""24\"", \""Chromium\"";v=\""140\"""", ""User-Agent"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"", ""sec-ch-ua-mobile"": ""?0"", ""Accept"": ""image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"", ""Sec-Fetch-Site"": ""same-origin"", ""Sec-Fetch-Mode"": ""no-cors"", ""Sec-Fetch-Dest"": ""image"", ""Referer"": ""http://localhost:3000/"", ""Accept-Encoding"": ""gzip, deflate, br"", ""Cookie"": ""PRESENT"", ""Connection"": ""keep-alive""}","","GET /favicon.ico HTTP/1.1
+Host: localhost:3000
+sec-ch-ua-platform: ""Linux""
+Accept-Language: en-US,en;q=0.9
+sec-ch-ua: ""Not=A?Brand"";v=""24"", ""Chromium"";v=""140""
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+sec-ch-ua-mobile: ?0
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:3000/
+Accept-Encoding: gzip, deflate, br
+Cookie: PRESENT
+Connection: keep-alive","burp_external"
+"burp_external_000004","0","burp_samplectf","http://localhost:3000/app.js","GET","http://localhost:3000/app.js","/app.js","","{""Host"": ""localhost:3000"", ""sec-ch-ua-platform"": ""\""Linux\"""", ""Accept-Language"": ""en-US,en;q=0.9"", ""sec-ch-ua"": ""\""Not=A?Brand\"";v=\""24\"", \""Chromium\"";v=\""140\"""", ""User-Agent"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"", ""sec-ch-ua-mobile"": ""?0"", ""Accept"": ""*/*"", ""Sec-Fetch-Site"": ""same-origin"", ""Sec-Fetch-Mode"": ""no-cors"", ""Sec-Fetch-Dest"": ""script"", ""Referer"": ""http://localhost:3000/"", ""Accept-Encoding"": ""gzip, deflate, br"", ""Cookie"": ""PRESENT"", ""Connection"": ""keep-alive""}","","GET /app.js HTTP/1.1
+Host: localhost:3000
+sec-ch-ua-platform: ""Linux""
+Accept-Language: en-US,en;q=0.9
+sec-ch-ua: ""Not=A?Brand"";v=""24"", ""Chromium"";v=""140""
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+sec-ch-ua-mobile: ?0
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: http://localhost:3000/
+Accept-Encoding: gzip, deflate, br
+Cookie: PRESENT
+Connection: keep-alive","burp_external"
+"burp_external_000005","0","burp_samplectf","http://localhost:3000/","GET","http://localhost:3000/","/","","{""Host"": ""localhost:3000"", ""sec-ch-ua"": ""\""Not=A?Brand\"";v=\""24\"", \""Chromium\"";v=\""140\"""", ""sec-ch-ua-mobile"": ""?0"", ""sec-ch-ua-platform"": ""\""Linux\"""", ""Accept-Language"": ""en-US,en;q=0.9"", ""Upgrade-Insecure-Requests"": ""1"", ""User-Agent"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"", ""Accept"": ""text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7"", ""Sec-Fetch-Site"": ""none"", ""Sec-Fetch-Mode"": ""navigate"", ""Sec-Fetch-User"": ""?1"", ""Sec-Fetch-Dest"": ""document"", ""Accept-Encoding"": ""gzip, deflate, br"", ""Cookie"": ""PRESENT"", ""If-None-Match"": ""W/\""a82-ZIGp280Md8yQT22h8GzgG8GyAXo\"""", ""Connection"": ""keep-alive""}","","GET / HTTP/1.1
+Host: localhost:3000
+sec-ch-ua: ""Not=A?Brand"";v=""24"", ""Chromium"";v=""140""
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: ""Linux""
+Accept-Language: en-US,en;q=0.9
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Cookie: PRESENT
+If-None-Match: W/""a82-ZIGp280Md8yQT22h8GzgG8GyAXo""
+Connection: keep-alive","burp_external"
+"burp_external_000006","0","burp_samplectf","https://www.google.com/warmup.html","GET","https://www.google.com/warmup.html","/warmup.html","","{""Host"": ""www.google.com"", ""Cookie"": ""PRESENT"", ""Rtt"": ""200"", ""Downlink"": ""1.75"", ""Sec-Ch-Ua"": ""\""Not=A?Brand\"";v=\""24\"", \""Chromium\"";v=\""140\"""", ""Sec-Ch-Ua-Mobile"": ""?0"", ""Sec-Ch-Ua-Full-Version"": ""\""\"""", ""Sec-Ch-Ua-Arch"": ""\""\"""", ""Sec-Ch-Ua-Platform"": ""\""Linux\"""", ""Sec-Ch-Ua-Platform-Version"": ""\""\"""", ""Sec-Ch-Ua-Model"": ""\""\"""", ""Sec-Ch-Ua-Bitness"": ""\""\"""", ""Sec-Ch-Ua-Wow64"": ""?0"", ""Sec-Ch-Ua-Full-Version-List"": """", ""Sec-Ch-Ua-Form-Factors"": """", ""Sec-Ch-Prefers-Color-Scheme"": ""dark"", ""Accept-Language"": ""en-US,en;q=0.9"", ""Upgrade-Insecure-Requests"": ""1"", ""User-Agent"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"", ""Sec-Purpose"": ""prefetch;prerender"", ""Purpose"": ""prefetch"", ""Accept"": ""text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7"", ""X-Client-Data"": ""CKbgygE="", ""Sec-Fetch-Site"": ""none"", ""Sec-Fetch-Mode"": ""navigate"", ""Sec-Fetch-User"": ""?1"", ""Sec-Fetch-Dest"": ""document"", ""Accept-Encoding"": ""gzip, deflate, br"", ""Priority"": ""u=0, i"", ""Connection"": ""keep-alive""}","","GET /warmup.html HTTP/1.1
+Host: www.google.com
+Cookie: PRESENT
+Rtt: 200
+Downlink: 1.75
+Sec-Ch-Ua: ""Not=A?Brand"";v=""24"", ""Chromium"";v=""140""
+Sec-Ch-Ua-Mobile: ?0
+Sec-Ch-Ua-Full-Version: """"
+Sec-Ch-Ua-Arch: """"
+Sec-Ch-Ua-Platform: ""Linux""
+Sec-Ch-Ua-Platform-Version: """"
+Sec-Ch-Ua-Model: """"
+Sec-Ch-Ua-Bitness: """"
+Sec-Ch-Ua-Wow64: ?0
+Sec-Ch-Ua-Full-Version-List: 
+Sec-Ch-Ua-Form-Factors: 
+Sec-Ch-Prefers-Color-Scheme: dark
+Accept-Language: en-US,en;q=0.9
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+Sec-Purpose: prefetch;prerender
+Purpose: prefetch
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+X-Client-Data: CKbgygE=
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Priority: u=0, i
+Connection: keep-alive","burp_external"

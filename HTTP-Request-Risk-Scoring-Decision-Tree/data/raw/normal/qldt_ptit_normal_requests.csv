@@ -1,0 +1,1953 @@
+"id","label","source","source_url","method","url","path","query_string","headers","body","raw_request","notes"
+"norm_qldt_ptit_000001","0","qldt_ptit_burp","https://qldt.ptit.edu.vn/public/api/dkmh/w-locdskqdkmhsinhvien","POST","https://qldt.ptit.edu.vn/public/api/dkmh/w-locdskqdkmhsinhvien","/public/api/dkmh/w-locdskqdkmhsinhvien","","{""Host"": ""qldt.ptit.edu.vn"", ""Cookie"": ""PRESENT"", ""Content-Length"": ""34"", ""Sec-Ch-Ua-Platform"": ""\""Linux\"""", ""Authorization"": ""PRESENT"", ""Idpc"": ""0"", ""Accept-Language"": ""en-US,en;q=0.9"", ""Sec-Ch-Ua"": ""\""Not=A?Brand\"";v=\""24\"", \""Chromium\"";v=\""140\"""", ""Sec-Ch-Ua-Mobile"": ""?0"", ""User-Agent"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"", ""Accept"": ""application/json, text/plain, */*"", ""Content-Type"": ""application/json"", ""Ua"": ""OW3CiC3DvTTCnMO/w7XDgFVqwoAvw7ozwpHDssKCwrwhFsKeS8OnT8OqwojCgsKkJw/DtVfCh0vDtsKCwojCvw=="", ""Origin"": ""https://qldt.ptit.edu.vn"", ""Sec-Fetch-Site"": ""same-origin"", ""Sec-Fetch-Mode"": ""cors"", ""Sec-Fetch-Dest"": ""empty"", ""Referer"": ""https://qldt.ptit.edu.vn/public/"", ""Accept-Encoding"": ""gzip, deflate, br"", ""Priority"": ""u=1, i""}","{""is_CVHT"":false,""is_Clear"":false}","POST /public/api/dkmh/w-locdskqdkmhsinhvien HTTP/2
+Host: qldt.ptit.edu.vn
+Cookie: PRESENT
+Content-Length: 34
+Sec-Ch-Ua-Platform: ""Linux""
+Authorization: PRESENT
+Idpc: 0
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: ""Not=A?Brand"";v=""24"", ""Chromium"";v=""140""
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+Accept: application/json, text/plain, */*
+Content-Type: application/json
+Ua: OW3CiC3DvTTCnMO/w7XDgFVqwoAvw7ozwpHDssKCwrwhFsKeS8OnT8OqwojCgsKkJw/DtVfCh0vDtsKCwojCvw==
+Origin: https://qldt.ptit.edu.vn
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://qldt.ptit.edu.vn/public/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1, i
+
+{""is_CVHT"":false,""is_Clear"":false}","qldt_ptit_normal"
+"norm_qldt_ptit_000002","0","qldt_ptit_burp","https://qldt.ptit.edu.vn/public/api/dkmh/w-locdsnhomto","POST","https://qldt.ptit.edu.vn/public/api/dkmh/w-locdsnhomto","/public/api/dkmh/w-locdsnhomto","","{""Host"": ""qldt.ptit.edu.vn"", ""Cookie"": ""PRESENT"", ""Content-Length"": ""107"", ""Sec-Ch-Ua-Platform"": ""\""Linux\"""", ""Authorization"": ""PRESENT"", ""Idpc"": ""0"", ""Accept-Language"": ""en-US,en;q=0.9"", ""Sec-Ch-Ua"": ""\""Not=A?Brand\"";v=\""24\"", \""Chromium\"";v=\""140\"""", ""Sec-Ch-Ua-Mobile"": ""?0"", ""User-Agent"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"", ""Accept"": ""application/json, text/plain, */*"", ""Content-Type"": ""application/json"", ""Ua"": ""IUvChyoxacKIKMO5NMKcR8KOKzJmwoklwo5Iw6g7wpBMKxLDvl/CjlDDqzvDsFZSEQ=="", ""Origin"": ""https://qldt.ptit.edu.vn"", ""Sec-Fetch-Site"": ""same-origin"", ""Sec-Fetch-Mode"": ""cors"", ""Sec-Fetch-Dest"": ""empty"", ""Referer"": ""https://qldt.ptit.edu.vn/public/"", ""Accept-Encoding"": ""gzip, deflate, br"", ""Priority"": ""u=1, i""}","{""is_CVHT"":false,""additional"":{""paging"":{""limit"":99999,""page"":1},""ordering"":[{""name"":"""",""order_type"":""""}]}}","POST /public/api/dkmh/w-locdsnhomto HTTP/2
+Host: qldt.ptit.edu.vn
+Cookie: PRESENT
+Content-Length: 107
+Sec-Ch-Ua-Platform: ""Linux""
+Authorization: PRESENT
+Idpc: 0
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: ""Not=A?Brand"";v=""24"", ""Chromium"";v=""140""
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+Accept: application/json, text/plain, */*
+Content-Type: application/json
+Ua: IUvChyoxacKIKMO5NMKcR8KOKzJmwoklwo5Iw6g7wpBMKxLDvl/CjlDDqzvDsFZSEQ==
+Origin: https://qldt.ptit.edu.vn
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://qldt.ptit.edu.vn/public/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1, i
+
+{""is_CVHT"":false,""additional"":{""paging"":{""limit"":99999,""page"":1},""ordering"":[{""name"":"""",""order_type"":""""}]}}","qldt_ptit_normal"
+"norm_qldt_ptit_000003","0","qldt_ptit_burp","https://qldt.ptit.edu.vn/public/api/dkmh/w-locdsdieukienloc","POST","https://qldt.ptit.edu.vn/public/api/dkmh/w-locdsdieukienloc","/public/api/dkmh/w-locdsdieukienloc","","{""Host"": ""qldt.ptit.edu.vn"", ""Cookie"": ""PRESENT"", ""Content-Length"": ""0"", ""Sec-Ch-Ua-Platform"": ""\""Linux\"""", ""Authorization"": ""PRESENT"", ""Idpc"": ""0"", ""Accept-Language"": ""en-US,en;q=0.9"", ""Sec-Ch-Ua"": ""\""Not=A?Brand\"";v=\""24\"", \""Chromium\"";v=\""140\"""", ""Sec-Ch-Ua-Mobile"": ""?0"", ""User-Agent"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"", ""Accept"": ""application/json, text/plain, */*"", ""Content-Type"": ""text/plain"", ""Ua"": ""IsOzcsOdw53CiMO+akXDvVfDsnrDlcOTwofDv2gywoEjwo5lwrvDh8OzwogdMsKZKsKPD8K5wqHDtsKCEDrChQ=="", ""Origin"": ""https://qldt.ptit.edu.vn"", ""Sec-Fetch-Site"": ""same-origin"", ""Sec-Fetch-Mode"": ""cors"", ""Sec-Fetch-Dest"": ""empty"", ""Referer"": ""https://qldt.ptit.edu.vn/public/"", ""Accept-Encoding"": ""gzip, deflate, br"", ""Priority"": ""u=1, i""}","","POST /public/api/dkmh/w-locdsdieukienloc HTTP/2
+Host: qldt.ptit.edu.vn
+Cookie: PRESENT
+Content-Length: 0
+Sec-Ch-Ua-Platform: ""Linux""
+Authorization: PRESENT
+Idpc: 0
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: ""Not=A?Brand"";v=""24"", ""Chromium"";v=""140""
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+Accept: application/json, text/plain, */*
+Content-Type: text/plain
+Ua: IsOzcsOdw53CiMO+akXDvVfDsnrDlcOTwofDv2gywoEjwo5lwrvDh8OzwogdMsKZKsKPD8K5wqHDtsKCEDrChQ==
+Origin: https://qldt.ptit.edu.vn
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://qldt.ptit.edu.vn/public/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1, i","qldt_ptit_normal"
+"norm_qldt_ptit_000004","0","qldt_ptit_burp","https://qldt.ptit.edu.vn/public/api/sms/w-locketquaduyetsinhvien","POST","https://qldt.ptit.edu.vn/public/api/sms/w-locketquaduyetsinhvien","/public/api/sms/w-locketquaduyetsinhvien","","{""Host"": ""qldt.ptit.edu.vn"", ""Cookie"": ""PRESENT"", ""Content-Length"": ""22"", ""Sec-Ch-Ua-Platform"": ""\""Linux\"""", ""Authorization"": ""PRESENT"", ""Idpc"": ""0"", ""Accept-Language"": ""en-US,en;q=0.9"", ""Sec-Ch-Ua"": ""\""Not=A?Brand\"";v=\""24\"", \""Chromium\"";v=\""140\"""", ""Sec-Ch-Ua-Mobile"": ""?0"", ""User-Agent"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"", ""Accept"": ""application/json, text/plain, */*"", ""Content-Type"": ""application/json"", ""Ua"": ""LErDmEJ1wohcL8O0McOiTMOaSnvCiFQjwpRLwohXwr1eDsOwJlDCglLCii3CqzcXw6YgT8KUTw=="", ""Origin"": ""https://qldt.ptit.edu.vn"", ""Sec-Fetch-Site"": ""same-origin"", ""Sec-Fetch-Mode"": ""cors"", ""Sec-Fetch-Dest"": ""empty"", ""Referer"": ""https://qldt.ptit.edu.vn/public/"", ""Accept-Encoding"": ""gzip, deflate, br"", ""Priority"": ""u=1, i""}","{""ma_sv"":""B23DCAT174""}","POST /public/api/sms/w-locketquaduyetsinhvien HTTP/2
+Host: qldt.ptit.edu.vn
+Cookie: PRESENT
+Content-Length: 22
+Sec-Ch-Ua-Platform: ""Linux""
+Authorization: PRESENT
+Idpc: 0
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: ""Not=A?Brand"";v=""24"", ""Chromium"";v=""140""
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+Accept: application/json, text/plain, */*
+Content-Type: application/json
+Ua: LErDmEJ1wohcL8O0McOiTMOaSnvCiFQjwpRLwohXwr1eDsOwJlDCglLCii3CqzcXw6YgT8KUTw==
+Origin: https://qldt.ptit.edu.vn
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://qldt.ptit.edu.vn/public/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1, i
+
+{""ma_sv"":""B23DCAT174""}","qldt_ptit_normal"
+"norm_qldt_ptit_000005","0","qldt_ptit_burp","https://qldt.ptit.edu.vn/public/api/dkmh/w-checkvalidallchucnang","POST","https://qldt.ptit.edu.vn/public/api/dkmh/w-checkvalidallchucnang","/public/api/dkmh/w-checkvalidallchucnang","","{""Host"": ""qldt.ptit.edu.vn"", ""Cookie"": ""PRESENT"", ""Content-Length"": ""102"", ""Sec-Ch-Ua-Platform"": ""\""Linux\"""", ""Authorization"": ""PRESENT"", ""Idpc"": ""0"", ""Accept-Language"": ""en-US,en;q=0.9"", ""Sec-Ch-Ua"": ""\""Not=A?Brand\"";v=\""24\"", \""Chromium\"";v=\""140\"""", ""Sec-Ch-Ua-Mobile"": ""?0"", ""User-Agent"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"", ""Accept"": ""application/json, text/plain, */*"", ""Content-Type"": ""application/json"", ""Ua"": ""N3Yow6rChsKNOjDDtX3DlXYrw6zChMKLNzDCggHCoQo0wozCnMO5S0HChQHCugNXwpLDtcO7T0jChQI="", ""Origin"": ""https://qldt.ptit.edu.vn"", ""Sec-Fetch-Site"": ""same-origin"", ""Sec-Fetch-Mode"": ""cors"", ""Sec-Fetch-Dest"": ""empty"", ""Referer"": ""https://qldt.ptit.edu.vn/public/"", ""Accept-Encoding"": ""gzip, deflate, br"", ""Priority"": ""u=1, i""}","{""ma_menu"":""0"",""additional"":{""paging"":{""limit"":1,""page"":1},""ordering"":[{""name"":null,""order_type"":1}]}}","POST /public/api/dkmh/w-checkvalidallchucnang HTTP/2
+Host: qldt.ptit.edu.vn
+Cookie: PRESENT
+Content-Length: 102
+Sec-Ch-Ua-Platform: ""Linux""
+Authorization: PRESENT
+Idpc: 0
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: ""Not=A?Brand"";v=""24"", ""Chromium"";v=""140""
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+Accept: application/json, text/plain, */*
+Content-Type: application/json
+Ua: N3Yow6rChsKNOjDDtX3DlXYrw6zChMKLNzDCggHCoQo0wozCnMO5S0HChQHCugNXwpLDtcO7T0jChQI=
+Origin: https://qldt.ptit.edu.vn
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://qldt.ptit.edu.vn/public/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1, i
+
+{""ma_menu"":""0"",""additional"":{""paging"":{""limit"":1,""page"":1},""ordering"":[{""name"":null,""order_type"":1}]}}","qldt_ptit_normal"
+"norm_qldt_ptit_000006","0","qldt_ptit_burp","https://qldt.ptit.edu.vn/public/api/srm/w-locdsdiemsinhvien?hien_thi_mon_theo_hkdk=false","POST","https://qldt.ptit.edu.vn/public/api/srm/w-locdsdiemsinhvien?hien_thi_mon_theo_hkdk=false","/public/api/srm/w-locdsdiemsinhvien","hien_thi_mon_theo_hkdk=false","{""Host"": ""qldt.ptit.edu.vn"", ""Cookie"": ""PRESENT"", ""Content-Length"": ""0"", ""Sec-Ch-Ua-Platform"": ""\""Linux\"""", ""Authorization"": ""PRESENT"", ""Idpc"": ""0"", ""Accept-Language"": ""en-US,en;q=0.9"", ""Sec-Ch-Ua"": ""\""Not=A?Brand\"";v=\""24\"", \""Chromium\"";v=\""140\"""", ""Sec-Ch-Ua-Mobile"": ""?0"", ""User-Agent"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"", ""Accept"": ""application/json, text/plain, */*"", ""Content-Type"": ""text/plain"", ""Ua"": ""LcOyw7XDhlvDm0FHwowsP8O5w7HDglrDmE9Gw6xJS8OkwpHDmiDCozs3w6xfT8KOwovCpCXCojAlw7Ze"", ""Origin"": ""https://qldt.ptit.edu.vn"", ""Sec-Fetch-Site"": ""same-origin"", ""Sec-Fetch-Mode"": ""cors"", ""Sec-Fetch-Dest"": ""empty"", ""Referer"": ""https://qldt.ptit.edu.vn/public/"", ""Accept-Encoding"": ""gzip, deflate, br"", ""Priority"": ""u=1, i""}","","POST /public/api/srm/w-locdsdiemsinhvien?hien_thi_mon_theo_hkdk=false HTTP/2
+Host: qldt.ptit.edu.vn
+Cookie: PRESENT
+Content-Length: 0
+Sec-Ch-Ua-Platform: ""Linux""
+Authorization: PRESENT
+Idpc: 0
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: ""Not=A?Brand"";v=""24"", ""Chromium"";v=""140""
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+Accept: application/json, text/plain, */*
+Content-Type: text/plain
+Ua: LcOyw7XDhlvDm0FHwowsP8O5w7HDglrDmE9Gw6xJS8OkwpHDmiDCozs3w6xfT8KOwovCpCXCojAlw7Ze
+Origin: https://qldt.ptit.edu.vn
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://qldt.ptit.edu.vn/public/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1, i","qldt_ptit_normal"
+"norm_qldt_ptit_000007","0","qldt_ptit_burp","https://qldt.ptit.edu.vn/public/api/srm/w-locsettingxemdiemdg","POST","https://qldt.ptit.edu.vn/public/api/srm/w-locsettingxemdiemdg","/public/api/srm/w-locsettingxemdiemdg","","{""Host"": ""qldt.ptit.edu.vn"", ""Cookie"": ""PRESENT"", ""Content-Length"": ""0"", ""Sec-Ch-Ua-Platform"": ""\""Linux\"""", ""Authorization"": ""PRESENT"", ""Idpc"": ""0"", ""Accept-Language"": ""en-US,en;q=0.9"", ""Sec-Ch-Ua"": ""\""Not=A?Brand\"";v=\""24\"", \""Chromium\"";v=\""140\"""", ""Sec-Ch-Ua-Mobile"": ""?0"", ""User-Agent"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"", ""Accept"": ""application/json, text/plain, */*"", ""Content-Type"": ""text/plain"", ""Ua"": ""NkDCjh1ZMwdweV8zRMKNGV8zCHEZOkdZw60BIkt9Fw88Xj/DtGs2QXMAAy0="", ""Origin"": ""https://qldt.ptit.edu.vn"", ""Sec-Fetch-Site"": ""same-origin"", ""Sec-Fetch-Mode"": ""cors"", ""Sec-Fetch-Dest"": ""empty"", ""Referer"": ""https://qldt.ptit.edu.vn/public/"", ""Accept-Encoding"": ""gzip, deflate, br"", ""Priority"": ""u=1, i""}","","POST /public/api/srm/w-locsettingxemdiemdg HTTP/2
+Host: qldt.ptit.edu.vn
+Cookie: PRESENT
+Content-Length: 0
+Sec-Ch-Ua-Platform: ""Linux""
+Authorization: PRESENT
+Idpc: 0
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: ""Not=A?Brand"";v=""24"", ""Chromium"";v=""140""
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+Accept: application/json, text/plain, */*
+Content-Type: text/plain
+Ua: NkDCjh1ZMwdweV8zRMKNGV8zCHEZOkdZw60BIkt9Fw88Xj/DtGs2QXMAAy0=
+Origin: https://qldt.ptit.edu.vn
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://qldt.ptit.edu.vn/public/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1, i","qldt_ptit_normal"
+"norm_qldt_ptit_000008","0","qldt_ptit_burp","https://qldt.ptit.edu.vn/public/api/srm/w-lochockydanhgia","POST","https://qldt.ptit.edu.vn/public/api/srm/w-lochockydanhgia","/public/api/srm/w-lochockydanhgia","","{""Host"": ""qldt.ptit.edu.vn"", ""Cookie"": ""PRESENT"", ""Content-Length"": ""0"", ""Sec-Ch-Ua-Platform"": ""\""Linux\"""", ""Authorization"": ""PRESENT"", ""Idpc"": ""0"", ""Accept-Language"": ""en-US,en;q=0.9"", ""Sec-Ch-Ua"": ""\""Not=A?Brand\"";v=\""24\"", \""Chromium\"";v=\""140\"""", ""Sec-Ch-Ua-Mobile"": ""?0"", ""User-Agent"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"", ""Accept"": ""application/json, text/plain, */*"", ""Content-Type"": ""text/plain"", ""Ua"": ""McOvwobCizQzw79+w5/DncKGw6nChsKONTDDtHjCv8K4w7LDtMOmwpdPS8KFAsKjwqnDtMKCw7XDu01MwoEDwq0="", ""Origin"": ""https://qldt.ptit.edu.vn"", ""Sec-Fetch-Site"": ""same-origin"", ""Sec-Fetch-Mode"": ""cors"", ""Sec-Fetch-Dest"": ""empty"", ""Referer"": ""https://qldt.ptit.edu.vn/public/"", ""Accept-Encoding"": ""gzip, deflate, br"", ""Priority"": ""u=1, i""}","","POST /public/api/srm/w-lochockydanhgia HTTP/2
+Host: qldt.ptit.edu.vn
+Cookie: PRESENT
+Content-Length: 0
+Sec-Ch-Ua-Platform: ""Linux""
+Authorization: PRESENT
+Idpc: 0
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: ""Not=A?Brand"";v=""24"", ""Chromium"";v=""140""
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+Accept: application/json, text/plain, */*
+Content-Type: text/plain
+Ua: McOvwobCizQzw79+w5/DncKGw6nChsKONTDDtHjCv8K4w7LDtMOmwpdPS8KFAsKjwqnDtMKCw7XDu01MwoEDwq0=
+Origin: https://qldt.ptit.edu.vn
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://qldt.ptit.edu.vn/public/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1, i","qldt_ptit_normal"
+"norm_qldt_ptit_000009","0","qldt_ptit_burp","https://qldt.ptit.edu.vn/public/api/srm/w-locdsnganhsinhvien","POST","https://qldt.ptit.edu.vn/public/api/srm/w-locdsnganhsinhvien","/public/api/srm/w-locdsnganhsinhvien","","{""Host"": ""qldt.ptit.edu.vn"", ""Cookie"": ""PRESENT"", ""Content-Length"": ""0"", ""Sec-Ch-Ua-Platform"": ""\""Linux\"""", ""Authorization"": ""PRESENT"", ""Idpc"": ""0"", ""Accept-Language"": ""en-US,en;q=0.9"", ""Sec-Ch-Ua"": ""\""Not=A?Brand\"";v=\""24\"", \""Chromium\"";v=\""140\"""", ""Sec-Ch-Ua-Mobile"": ""?0"", ""User-Agent"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"", ""Accept"": ""application/json, text/plain, */*"", ""Content-Type"": ""text/plain"", ""Ua"": ""JTDDsXvDm8OdwobDs21Bw7M2w7F+w5rDmcKKw7YNJMKHK8KRZ8KgwqXDvMKDDTjCjUXCiALCv8Kjw7HCjwg/"", ""Origin"": ""https://qldt.ptit.edu.vn"", ""Sec-Fetch-Site"": ""same-origin"", ""Sec-Fetch-Mode"": ""cors"", ""Sec-Fetch-Dest"": ""empty"", ""Referer"": ""https://qldt.ptit.edu.vn/public/"", ""Accept-Encoding"": ""gzip, deflate, br"", ""Priority"": ""u=1, i""}","","POST /public/api/srm/w-locdsnganhsinhvien HTTP/2
+Host: qldt.ptit.edu.vn
+Cookie: PRESENT
+Content-Length: 0
+Sec-Ch-Ua-Platform: ""Linux""
+Authorization: PRESENT
+Idpc: 0
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: ""Not=A?Brand"";v=""24"", ""Chromium"";v=""140""
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+Accept: application/json, text/plain, */*
+Content-Type: text/plain
+Ua: JTDDsXvDm8OdwobDs21Bw7M2w7F+w5rDmcKKw7YNJMKHK8KRZ8KgwqXDvMKDDTjCjUXCiALCv8Kjw7HCjwg/
+Origin: https://qldt.ptit.edu.vn
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://qldt.ptit.edu.vn/public/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1, i","qldt_ptit_normal"
+"norm_qldt_ptit_000010","0","qldt_ptit_burp","https://qldt.ptit.edu.vn/public/api/checkvalid/w-bcvtcheck","POST","https://qldt.ptit.edu.vn/public/api/checkvalid/w-bcvtcheck","/public/api/checkvalid/w-bcvtcheck","","{""Host"": ""qldt.ptit.edu.vn"", ""Cookie"": ""PRESENT"", ""Content-Length"": ""0"", ""Sec-Ch-Ua-Platform"": ""\""Linux\"""", ""Authorization"": ""PRESENT"", ""Idpc"": ""0"", ""Accept-Language"": ""en-US,en;q=0.9"", ""Sec-Ch-Ua"": ""\""Not=A?Brand\"";v=\""24\"", \""Chromium\"";v=\""140\"""", ""Sec-Ch-Ua-Mobile"": ""?0"", ""User-Agent"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"", ""Accept"": ""application/json, text/plain, */*"", ""Content-Type"": ""text/plain"", ""Ua"": ""LE3DnUJ1wohcL8O0McOiSsOdQHXCiF0rwoROwp47wqElA8OzLF/DqFHDtjrCqSUWw7wtXsKETQ=="", ""Origin"": ""https://qldt.ptit.edu.vn"", ""Sec-Fetch-Site"": ""same-origin"", ""Sec-Fetch-Mode"": ""cors"", ""Sec-Fetch-Dest"": ""empty"", ""Referer"": ""https://qldt.ptit.edu.vn/public/"", ""Accept-Encoding"": ""gzip, deflate, br"", ""Priority"": ""u=1, i""}","","POST /public/api/checkvalid/w-bcvtcheck HTTP/2
+Host: qldt.ptit.edu.vn
+Cookie: PRESENT
+Content-Length: 0
+Sec-Ch-Ua-Platform: ""Linux""
+Authorization: PRESENT
+Idpc: 0
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: ""Not=A?Brand"";v=""24"", ""Chromium"";v=""140""
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+Accept: application/json, text/plain, */*
+Content-Type: text/plain
+Ua: LE3DnUJ1wohcL8O0McOiSsOdQHXCiF0rwoROwp47wqElA8OzLF/DqFHDtjrCqSUWw7wtXsKETQ==
+Origin: https://qldt.ptit.edu.vn
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://qldt.ptit.edu.vn/public/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1, i","qldt_ptit_normal"
+"norm_qldt_ptit_000011","0","qldt_ptit_burp","https://qldt.ptit.edu.vn/public/api/dkmh/w-checkvalidallchucnang","POST","https://qldt.ptit.edu.vn/public/api/dkmh/w-checkvalidallchucnang","/public/api/dkmh/w-checkvalidallchucnang","","{""Host"": ""qldt.ptit.edu.vn"", ""Cookie"": ""PRESENT"", ""Content-Length"": ""102"", ""Sec-Ch-Ua-Platform"": ""\""Linux\"""", ""Authorization"": ""PRESENT"", ""Idpc"": ""0"", ""Accept-Language"": ""en-US,en;q=0.9"", ""Sec-Ch-Ua"": ""\""Not=A?Brand\"";v=\""24\"", \""Chromium\"";v=\""140\"""", ""Sec-Ch-Ua-Mobile"": ""?0"", ""User-Agent"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"", ""Accept"": ""application/json, text/plain, */*"", ""Content-Type"": ""application/json"", ""Ua"": ""LsKIwogyM8Oxc8OYw5nCiMO+woPCjTA1w7Vzw5nCrsO0worDucKVVCnChQLCqcKpw7TCkcOww7ZKQMKHBsKgwqnDtw=="", ""Origin"": ""https://qldt.ptit.edu.vn"", ""Sec-Fetch-Site"": ""same-origin"", ""Sec-Fetch-Mode"": ""cors"", ""Sec-Fetch-Dest"": ""empty"", ""Referer"": ""https://qldt.ptit.edu.vn/public/"", ""Accept-Encoding"": ""gzip, deflate, br"", ""Priority"": ""u=1, i""}","{""ma_menu"":""3"",""additional"":{""paging"":{""limit"":1,""page"":1},""ordering"":[{""name"":null,""order_type"":1}]}}","POST /public/api/dkmh/w-checkvalidallchucnang HTTP/2
+Host: qldt.ptit.edu.vn
+Cookie: PRESENT
+Content-Length: 102
+Sec-Ch-Ua-Platform: ""Linux""
+Authorization: PRESENT
+Idpc: 0
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: ""Not=A?Brand"";v=""24"", ""Chromium"";v=""140""
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+Accept: application/json, text/plain, */*
+Content-Type: application/json
+Ua: LsKIwogyM8Oxc8OYw5nCiMO+woPCjTA1w7Vzw5nCrsO0worDucKVVCnChQLCqcKpw7TCkcOww7ZKQMKHBsKgwqnDtw==
+Origin: https://qldt.ptit.edu.vn
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://qldt.ptit.edu.vn/public/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1, i
+
+{""ma_menu"":""3"",""additional"":{""paging"":{""limit"":1,""page"":1},""ordering"":[{""name"":null,""order_type"":1}]}}","qldt_ptit_normal"
+"norm_qldt_ptit_000012","0","qldt_ptit_burp","https://qldt.ptit.edu.vn/public/4.a3612f662c42be24.js","GET","https://qldt.ptit.edu.vn/public/4.a3612f662c42be24.js","/public/4.a3612f662c42be24.js","","{""Host"": ""qldt.ptit.edu.vn"", ""Cookie"": ""PRESENT"", ""Origin"": ""https://qldt.ptit.edu.vn"", ""Sec-Ch-Ua-Platform"": ""\""Linux\"""", ""Accept-Language"": ""en-US,en;q=0.9"", ""Sec-Ch-Ua"": ""\""Not=A?Brand\"";v=\""24\"", \""Chromium\"";v=\""140\"""", ""User-Agent"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"", ""Sec-Ch-Ua-Mobile"": ""?0"", ""Accept"": ""*/*"", ""Sec-Fetch-Site"": ""same-origin"", ""Sec-Fetch-Mode"": ""cors"", ""Sec-Fetch-Dest"": ""script"", ""Referer"": ""https://qldt.ptit.edu.vn/public/"", ""Accept-Encoding"": ""gzip, deflate, br"", ""Priority"": ""u=1""}","","GET /public/4.a3612f662c42be24.js HTTP/2
+Host: qldt.ptit.edu.vn
+Cookie: PRESENT
+Origin: https://qldt.ptit.edu.vn
+Sec-Ch-Ua-Platform: ""Linux""
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: ""Not=A?Brand"";v=""24"", ""Chromium"";v=""140""
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+Sec-Ch-Ua-Mobile: ?0
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: script
+Referer: https://qldt.ptit.edu.vn/public/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1","qldt_ptit_normal"
+"norm_qldt_ptit_000013","0","qldt_ptit_burp","https://qldt.ptit.edu.vn/public/api/epm/w-locdslichthisvtheohocky","POST","https://qldt.ptit.edu.vn/public/api/epm/w-locdslichthisvtheohocky","/public/api/epm/w-locdslichthisvtheohocky","","{""Host"": ""qldt.ptit.edu.vn"", ""Cookie"": ""PRESENT"", ""Content-Length"": ""138"", ""Sec-Ch-Ua-Platform"": ""\""Linux\"""", ""Authorization"": ""PRESENT"", ""Idpc"": ""0"", ""Accept-Language"": ""en-US,en;q=0.9"", ""Sec-Ch-Ua"": ""\""Not=A?Brand\"";v=\""24\"", \""Chromium\"";v=\""140\"""", ""Sec-Ch-Ua-Mobile"": ""?0"", ""User-Agent"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"", ""Accept"": ""application/json, text/plain, */*"", ""Content-Type"": ""application/json"", ""Ua"": ""MsODe11fw5szTMOZRHvDhX5VW8OZP0jCryMPw5gdQSTCo0k8wrk/C8K0AjggwqVZLsK+Ow=="", ""Origin"": ""https://qldt.ptit.edu.vn"", ""Sec-Fetch-Site"": ""same-origin"", ""Sec-Fetch-Mode"": ""cors"", ""Sec-Fetch-Dest"": ""empty"", ""Referer"": ""https://qldt.ptit.edu.vn/public/"", ""Accept-Encoding"": ""gzip, deflate, br"", ""Priority"": ""u=1, i""}","{""filter"":{""hoc_ky"":20252,""is_giua_ky"":false},""additional"":{""paging"":{""limit"":100,""page"":1},""ordering"":[{""name"":null,""order_type"":null}]}}","POST /public/api/epm/w-locdslichthisvtheohocky HTTP/2
+Host: qldt.ptit.edu.vn
+Cookie: PRESENT
+Content-Length: 138
+Sec-Ch-Ua-Platform: ""Linux""
+Authorization: PRESENT
+Idpc: 0
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: ""Not=A?Brand"";v=""24"", ""Chromium"";v=""140""
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+Accept: application/json, text/plain, */*
+Content-Type: application/json
+Ua: MsODe11fw5szTMOZRHvDhX5VW8OZP0jCryMPw5gdQSTCo0k8wrk/C8K0AjggwqVZLsK+Ow==
+Origin: https://qldt.ptit.edu.vn
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://qldt.ptit.edu.vn/public/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1, i
+
+{""filter"":{""hoc_ky"":20252,""is_giua_ky"":false},""additional"":{""paging"":{""limit"":100,""page"":1},""ordering"":[{""name"":null,""order_type"":null}]}}","qldt_ptit_normal"
+"norm_qldt_ptit_000014","0","qldt_ptit_burp","https://qldt.ptit.edu.vn/public/api/epm/w-locdsdoituongxemlichthi?is_dk_coi_thi=false","POST","https://qldt.ptit.edu.vn/public/api/epm/w-locdsdoituongxemlichthi?is_dk_coi_thi=false","/public/api/epm/w-locdsdoituongxemlichthi","is_dk_coi_thi=false","{""Host"": ""qldt.ptit.edu.vn"", ""Cookie"": ""PRESENT"", ""Content-Length"": ""0"", ""Sec-Ch-Ua-Platform"": ""\""Linux\"""", ""Authorization"": ""PRESENT"", ""Idpc"": ""0"", ""Accept-Language"": ""en-US,en;q=0.9"", ""Sec-Ch-Ua"": ""\""Not=A?Brand\"";v=\""24\"", \""Chromium\"";v=\""140\"""", ""Sec-Ch-Ua-Mobile"": ""?0"", ""User-Agent"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"", ""Accept"": ""application/json, text/plain, */*"", ""Content-Type"": ""text/plain"", ""Ua"": ""OkF0KsOswobCgzc3w7FzSnYjw6zCiMKJMUHClgdXFTbCl8O+w7lHV8KCBTEWTsKUw7/DvVtBwos="", ""Origin"": ""https://qldt.ptit.edu.vn"", ""Sec-Fetch-Site"": ""same-origin"", ""Sec-Fetch-Mode"": ""cors"", ""Sec-Fetch-Dest"": ""empty"", ""Referer"": ""https://qldt.ptit.edu.vn/public/"", ""Accept-Encoding"": ""gzip, deflate, br"", ""Priority"": ""u=1, i""}","","POST /public/api/epm/w-locdsdoituongxemlichthi?is_dk_coi_thi=false HTTP/2
+Host: qldt.ptit.edu.vn
+Cookie: PRESENT
+Content-Length: 0
+Sec-Ch-Ua-Platform: ""Linux""
+Authorization: PRESENT
+Idpc: 0
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: ""Not=A?Brand"";v=""24"", ""Chromium"";v=""140""
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+Accept: application/json, text/plain, */*
+Content-Type: text/plain
+Ua: OkF0KsOswobCgzc3w7FzSnYjw6zCiMKJMUHClgdXFTbCl8O+w7lHV8KCBTEWTsKUw7/DvVtBwos=
+Origin: https://qldt.ptit.edu.vn
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://qldt.ptit.edu.vn/public/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1, i","qldt_ptit_normal"
+"norm_qldt_ptit_000015","0","qldt_ptit_burp","https://qldt.ptit.edu.vn/public/api/report/w-locdshockylichthisinhvien","POST","https://qldt.ptit.edu.vn/public/api/report/w-locdshockylichthisinhvien","/public/api/report/w-locdshockylichthisinhvien","","{""Host"": ""qldt.ptit.edu.vn"", ""Cookie"": ""PRESENT"", ""Content-Length"": ""121"", ""Sec-Ch-Ua-Platform"": ""\""Linux\"""", ""Authorization"": ""PRESENT"", ""Idpc"": ""0"", ""Accept-Language"": ""en-US,en;q=0.9"", ""Sec-Ch-Ua"": ""\""Not=A?Brand\"";v=\""24\"", \""Chromium\"";v=\""140\"""", ""Sec-Ch-Ua-Mobile"": ""?0"", ""User-Agent"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"", ""Accept"": ""application/json, text/plain, */*"", ""Content-Type"": ""application/json"", ""Ua"": ""NCzDo8KAwo00PcOyecObw5Mpw6/ChcKDNTHDtBjCqcK6VMKJw6XClVQpwooFwq/CrkjCk8O+w7lIXcKKA8Kv"", ""Origin"": ""https://qldt.ptit.edu.vn"", ""Sec-Fetch-Site"": ""same-origin"", ""Sec-Fetch-Mode"": ""cors"", ""Sec-Fetch-Dest"": ""empty"", ""Referer"": ""https://qldt.ptit.edu.vn/public/"", ""Accept-Encoding"": ""gzip, deflate, br"", ""Priority"": ""u=1, i""}","{""filter"":{""is_tieng_anh"":null},""additional"":{""paging"":{""limit"":100,""page"":1},""ordering"":[{""name"":null,""order_type"":1}]}}","POST /public/api/report/w-locdshockylichthisinhvien HTTP/2
+Host: qldt.ptit.edu.vn
+Cookie: PRESENT
+Content-Length: 121
+Sec-Ch-Ua-Platform: ""Linux""
+Authorization: PRESENT
+Idpc: 0
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: ""Not=A?Brand"";v=""24"", ""Chromium"";v=""140""
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+Accept: application/json, text/plain, */*
+Content-Type: application/json
+Ua: NCzDo8KAwo00PcOyecObw5Mpw6/ChcKDNTHDtBjCqcK6VMKJw6XClVQpwooFwq/CrkjCk8O+w7lIXcKKA8Kv
+Origin: https://qldt.ptit.edu.vn
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://qldt.ptit.edu.vn/public/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1, i
+
+{""filter"":{""is_tieng_anh"":null},""additional"":{""paging"":{""limit"":100,""page"":1},""ordering"":[{""name"":null,""order_type"":1}]}}","qldt_ptit_normal"
+"norm_qldt_ptit_000016","0","qldt_ptit_burp","https://qldt.ptit.edu.vn/public/api/dkmh/w-checkvalidallchucnang","POST","https://qldt.ptit.edu.vn/public/api/dkmh/w-checkvalidallchucnang","/public/api/dkmh/w-checkvalidallchucnang","","{""Host"": ""qldt.ptit.edu.vn"", ""Cookie"": ""PRESENT"", ""Content-Length"": ""102"", ""Sec-Ch-Ua-Platform"": ""\""Linux\"""", ""Authorization"": ""PRESENT"", ""Idpc"": ""0"", ""Accept-Language"": ""en-US,en;q=0.9"", ""Sec-Ch-Ua"": ""\""Not=A?Brand\"";v=\""24\"", \""Chromium\"";v=\""140\"""", ""Sec-Ch-Ua-Mobile"": ""?0"", ""User-Agent"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"", ""Accept"": ""application/json, text/plain, */*"", ""Content-Type"": ""application/json"", ""Ua"": ""OMKcMMO6CcOxfcODeVtRwpcww78Nw7Jww4EOJyXDrSvCnBPChQzCsgknPsOkSMKCesKHCMK7CSQ="", ""Origin"": ""https://qldt.ptit.edu.vn"", ""Sec-Fetch-Site"": ""same-origin"", ""Sec-Fetch-Mode"": ""cors"", ""Sec-Fetch-Dest"": ""empty"", ""Referer"": ""https://qldt.ptit.edu.vn/public/"", ""Accept-Encoding"": ""gzip, deflate, br"", ""Priority"": ""u=1, i""}","{""ma_menu"":""5"",""additional"":{""paging"":{""limit"":1,""page"":1},""ordering"":[{""name"":null,""order_type"":1}]}}","POST /public/api/dkmh/w-checkvalidallchucnang HTTP/2
+Host: qldt.ptit.edu.vn
+Cookie: PRESENT
+Content-Length: 102
+Sec-Ch-Ua-Platform: ""Linux""
+Authorization: PRESENT
+Idpc: 0
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: ""Not=A?Brand"";v=""24"", ""Chromium"";v=""140""
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+Accept: application/json, text/plain, */*
+Content-Type: application/json
+Ua: OMKcMMO6CcOxfcODeVtRwpcww78Nw7Jww4EOJyXDrSvCnBPChQzCsgknPsOkSMKCesKHCMK7CSQ=
+Origin: https://qldt.ptit.edu.vn
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://qldt.ptit.edu.vn/public/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1, i
+
+{""ma_menu"":""5"",""additional"":{""paging"":{""limit"":1,""page"":1},""ordering"":[{""name"":null,""order_type"":1}]}}","qldt_ptit_normal"
+"norm_qldt_ptit_000017","0","qldt_ptit_burp","https://qldt.ptit.edu.vn/public/5962.88b1163e0406c764.js","GET","https://qldt.ptit.edu.vn/public/5962.88b1163e0406c764.js","/public/5962.88b1163e0406c764.js","","{""Host"": ""qldt.ptit.edu.vn"", ""Cookie"": ""PRESENT"", ""Origin"": ""https://qldt.ptit.edu.vn"", ""Sec-Ch-Ua-Platform"": ""\""Linux\"""", ""Accept-Language"": ""en-US,en;q=0.9"", ""Sec-Ch-Ua"": ""\""Not=A?Brand\"";v=\""24\"", \""Chromium\"";v=\""140\"""", ""User-Agent"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"", ""Sec-Ch-Ua-Mobile"": ""?0"", ""Accept"": ""*/*"", ""Sec-Fetch-Site"": ""same-origin"", ""Sec-Fetch-Mode"": ""cors"", ""Sec-Fetch-Dest"": ""script"", ""Referer"": ""https://qldt.ptit.edu.vn/public/"", ""Accept-Encoding"": ""gzip, deflate, br"", ""Priority"": ""u=1""}","","GET /public/5962.88b1163e0406c764.js HTTP/2
+Host: qldt.ptit.edu.vn
+Cookie: PRESENT
+Origin: https://qldt.ptit.edu.vn
+Sec-Ch-Ua-Platform: ""Linux""
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: ""Not=A?Brand"";v=""24"", ""Chromium"";v=""140""
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+Sec-Ch-Ua-Mobile: ?0
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: script
+Referer: https://qldt.ptit.edu.vn/public/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1","qldt_ptit_normal"
+"norm_qldt_ptit_000018","0","qldt_ptit_burp","https://qldt.ptit.edu.vn/public/api/hsba/w-gettimeserver","GET","https://qldt.ptit.edu.vn/public/api/hsba/w-gettimeserver","/public/api/hsba/w-gettimeserver","","{""Host"": ""qldt.ptit.edu.vn"", ""Cookie"": ""PRESENT"", ""Sec-Ch-Ua-Platform"": ""\""Linux\"""", ""Authorization"": ""PRESENT"", ""Idpc"": ""0"", ""Accept-Language"": ""en-US,en;q=0.9"", ""Sec-Ch-Ua"": ""\""Not=A?Brand\"";v=\""24\"", \""Chromium\"";v=\""140\"""", ""Sec-Ch-Ua-Mobile"": ""?0"", ""User-Agent"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"", ""Accept"": ""application/json, text/plain, */*"", ""Ua"": ""K8KCNTXDsX3DlcOewozDsGfCizQ2w7B5w5/Dn8O3wpQcw7ssU8OrDcKpwr7Dq8KOE8O/UEHClBzCqcK4"", ""Sec-Fetch-Site"": ""same-origin"", ""Sec-Fetch-Mode"": ""cors"", ""Sec-Fetch-Dest"": ""empty"", ""Referer"": ""https://qldt.ptit.edu.vn/public/"", ""Accept-Encoding"": ""gzip, deflate, br"", ""Priority"": ""u=1, i""}","","GET /public/api/hsba/w-gettimeserver HTTP/2
+Host: qldt.ptit.edu.vn
+Cookie: PRESENT
+Sec-Ch-Ua-Platform: ""Linux""
+Authorization: PRESENT
+Idpc: 0
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: ""Not=A?Brand"";v=""24"", ""Chromium"";v=""140""
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+Accept: application/json, text/plain, */*
+Ua: K8KCNTXDsX3DlcOewozDsGfCizQ2w7B5w5/Dn8O3wpQcw7ssU8OrDcKpwr7Dq8KOE8O/UEHClBzCqcK4
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://qldt.ptit.edu.vn/public/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1, i","qldt_ptit_normal"
+"norm_qldt_ptit_000019","0","qldt_ptit_burp","https://qldt.ptit.edu.vn/public/api/sch/w-locdstkbtuanusertheohocky","POST","https://qldt.ptit.edu.vn/public/api/sch/w-locdstkbtuanusertheohocky","/public/api/sch/w-locdstkbtuanusertheohocky","","{""Host"": ""qldt.ptit.edu.vn"", ""Cookie"": ""PRESENT"", ""Content-Length"": ""135"", ""Sec-Ch-Ua-Platform"": ""\""Linux\"""", ""Authorization"": ""PRESENT"", ""Idpc"": ""0"", ""Accept-Language"": ""en-US,en;q=0.9"", ""Sec-Ch-Ua"": ""\""Not=A?Brand\"";v=\""24\"", \""Chromium\"";v=\""140\"""", ""Sec-Ch-Ua-Mobile"": ""?0"", ""User-Agent"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"", ""Accept"": ""application/json, text/plain, */*"", ""Content-Type"": ""application/json"", ""Ua"": ""I8OubBHChkElwo7DuRs6w6poFcKERy3CicKZb0vDtAkNw705X8O+wpl4SMKZCnXDsDhJw6nCj34="", ""Origin"": ""https://qldt.ptit.edu.vn"", ""Sec-Fetch-Site"": ""same-origin"", ""Sec-Fetch-Mode"": ""cors"", ""Sec-Fetch-Dest"": ""empty"", ""Referer"": ""https://qldt.ptit.edu.vn/public/"", ""Accept-Encoding"": ""gzip, deflate, br"", ""Priority"": ""u=1, i""}","{""filter"":{""hoc_ky"":20252,""ten_hoc_ky"":""""},""additional"":{""paging"":{""limit"":100,""page"":1},""ordering"":[{""name"":null,""order_type"":null}]}}","POST /public/api/sch/w-locdstkbtuanusertheohocky HTTP/2
+Host: qldt.ptit.edu.vn
+Cookie: PRESENT
+Content-Length: 135
+Sec-Ch-Ua-Platform: ""Linux""
+Authorization: PRESENT
+Idpc: 0
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: ""Not=A?Brand"";v=""24"", ""Chromium"";v=""140""
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+Accept: application/json, text/plain, */*
+Content-Type: application/json
+Ua: I8OubBHChkElwo7DuRs6w6poFcKERy3CicKZb0vDtAkNw705X8O+wpl4SMKZCnXDsDhJw6nCj34=
+Origin: https://qldt.ptit.edu.vn
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://qldt.ptit.edu.vn/public/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1, i
+
+{""filter"":{""hoc_ky"":20252,""ten_hoc_ky"":""""},""additional"":{""paging"":{""limit"":100,""page"":1},""ordering"":[{""name"":null,""order_type"":null}]}}","qldt_ptit_normal"
+"norm_qldt_ptit_000020","0","qldt_ptit_burp","https://qldt.ptit.edu.vn/public/api/sch/w-locdsdoituongthoikhoabieu","POST","https://qldt.ptit.edu.vn/public/api/sch/w-locdsdoituongthoikhoabieu","/public/api/sch/w-locdsdoituongthoikhoabieu","","{""Host"": ""qldt.ptit.edu.vn"", ""Cookie"": ""PRESENT"", ""Content-Length"": ""0"", ""Sec-Ch-Ua-Platform"": ""\""Linux\"""", ""Authorization"": ""PRESENT"", ""Idpc"": ""0"", ""Accept-Language"": ""en-US,en;q=0.9"", ""Sec-Ch-Ua"": ""\""Not=A?Brand\"";v=\""24\"", \""Chromium\"";v=\""140\"""", ""Sec-Ch-Ua-Mobile"": ""?0"", ""User-Agent"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"", ""Accept"": ""application/json, text/plain, */*"", ""Content-Type"": ""text/plain"", ""Ua"": ""JiLDszfDrGkZwoVFK8KDKsOxM8OrbhPChCVfw7I0wpArwpcRY8O1JVjDtVLCk1PClBBnw6U+Uw=="", ""Origin"": ""https://qldt.ptit.edu.vn"", ""Sec-Fetch-Site"": ""same-origin"", ""Sec-Fetch-Mode"": ""cors"", ""Sec-Fetch-Dest"": ""empty"", ""Referer"": ""https://qldt.ptit.edu.vn/public/"", ""Accept-Encoding"": ""gzip, deflate, br"", ""Priority"": ""u=1, i""}","","POST /public/api/sch/w-locdsdoituongthoikhoabieu HTTP/2
+Host: qldt.ptit.edu.vn
+Cookie: PRESENT
+Content-Length: 0
+Sec-Ch-Ua-Platform: ""Linux""
+Authorization: PRESENT
+Idpc: 0
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: ""Not=A?Brand"";v=""24"", ""Chromium"";v=""140""
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+Accept: application/json, text/plain, */*
+Content-Type: text/plain
+Ua: JiLDszfDrGkZwoVFK8KDKsOxM8OrbhPChCVfw7I0wpArwpcRY8O1JVjDtVLCk1PClBBnw6U+Uw==
+Origin: https://qldt.ptit.edu.vn
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://qldt.ptit.edu.vn/public/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1, i","qldt_ptit_normal"
+"norm_qldt_ptit_000021","0","qldt_ptit_burp","https://qldt.ptit.edu.vn/public/api/sch/w-locdshockytkbuser","POST","https://qldt.ptit.edu.vn/public/api/sch/w-locdshockytkbuser","/public/api/sch/w-locdshockytkbuser","","{""Host"": ""qldt.ptit.edu.vn"", ""Cookie"": ""PRESENT"", ""Content-Length"": ""125"", ""Sec-Ch-Ua-Platform"": ""\""Linux\"""", ""Authorization"": ""PRESENT"", ""Idpc"": ""0"", ""Accept-Language"": ""en-US,en;q=0.9"", ""Sec-Ch-Ua"": ""\""Not=A?Brand\"";v=\""24\"", \""Chromium\"";v=\""140\"""", ""Sec-Ch-Ua-Mobile"": ""?0"", ""User-Agent"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"", ""Accept"": ""application/json, text/plain, */*"", ""Content-Type"": ""application/json"", ""Ua"": ""JTHDt3vDm8OdwobDs21Bw7M1w7B5w5XDksKIw7cNNcKCK8KRZ8KgwqXDvMKDDT7ChUfCjRPCuMKhw73Ckg0z"", ""Origin"": ""https://qldt.ptit.edu.vn"", ""Sec-Fetch-Site"": ""same-origin"", ""Sec-Fetch-Mode"": ""cors"", ""Sec-Fetch-Dest"": ""empty"", ""Referer"": ""https://qldt.ptit.edu.vn/public/"", ""Accept-Encoding"": ""gzip, deflate, br"", ""Priority"": ""u=1, i""}","{""filter"":{""is_tieng_anh"":null},""additional"":{""paging"":{""limit"":100,""page"":1},""ordering"":[{""name"":""hoc_ky"",""order_type"":1}]}}","POST /public/api/sch/w-locdshockytkbuser HTTP/2
+Host: qldt.ptit.edu.vn
+Cookie: PRESENT
+Content-Length: 125
+Sec-Ch-Ua-Platform: ""Linux""
+Authorization: PRESENT
+Idpc: 0
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: ""Not=A?Brand"";v=""24"", ""Chromium"";v=""140""
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+Accept: application/json, text/plain, */*
+Content-Type: application/json
+Ua: JTHDt3vDm8OdwobDs21Bw7M1w7B5w5XDksKIw7cNNcKCK8KRZ8KgwqXDvMKDDT7ChUfCjRPCuMKhw73Ckg0z
+Origin: https://qldt.ptit.edu.vn
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://qldt.ptit.edu.vn/public/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1, i
+
+{""filter"":{""is_tieng_anh"":null},""additional"":{""paging"":{""limit"":100,""page"":1},""ordering"":[{""name"":""hoc_ky"",""order_type"":1}]}}","qldt_ptit_normal"
+"norm_qldt_ptit_000022","0","qldt_ptit_burp","https://qldt.ptit.edu.vn/public/api/dkmh/w-checkvalidallchucnang","POST","https://qldt.ptit.edu.vn/public/api/dkmh/w-checkvalidallchucnang","/public/api/dkmh/w-checkvalidallchucnang","","{""Host"": ""qldt.ptit.edu.vn"", ""Cookie"": ""PRESENT"", ""Content-Length"": ""102"", ""Sec-Ch-Ua-Platform"": ""\""Linux\"""", ""Authorization"": ""PRESENT"", ""Idpc"": ""0"", ""Accept-Language"": ""en-US,en;q=0.9"", ""Sec-Ch-Ua"": ""\""Not=A?Brand\"";v=\""24\"", \""Chromium\"";v=\""140\"""", ""Sec-Ch-Ua-Mobile"": ""?0"", ""User-Agent"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"", ""Accept"": ""application/json, text/plain, */*"", ""Content-Type"": ""application/json"", ""Ua"": ""L1rDnjtPw51KdsKMUiJZw5o5SsOdQXrDuy5WIMODXVXCqTsHw7wuTSnCoEM8wqs/DsO8LQ=="", ""Origin"": ""https://qldt.ptit.edu.vn"", ""Sec-Fetch-Site"": ""same-origin"", ""Sec-Fetch-Mode"": ""cors"", ""Sec-Fetch-Dest"": ""empty"", ""Referer"": ""https://qldt.ptit.edu.vn/public/"", ""Accept-Encoding"": ""gzip, deflate, br"", ""Priority"": ""u=1, i""}","{""ma_menu"":""1"",""additional"":{""paging"":{""limit"":1,""page"":1},""ordering"":[{""name"":null,""order_type"":1}]}}","POST /public/api/dkmh/w-checkvalidallchucnang HTTP/2
+Host: qldt.ptit.edu.vn
+Cookie: PRESENT
+Content-Length: 102
+Sec-Ch-Ua-Platform: ""Linux""
+Authorization: PRESENT
+Idpc: 0
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: ""Not=A?Brand"";v=""24"", ""Chromium"";v=""140""
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+Accept: application/json, text/plain, */*
+Content-Type: application/json
+Ua: L1rDnjtPw51KdsKMUiJZw5o5SsOdQXrDuy5WIMODXVXCqTsHw7wuTSnCoEM8wqs/DsO8LQ==
+Origin: https://qldt.ptit.edu.vn
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://qldt.ptit.edu.vn/public/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1, i
+
+{""ma_menu"":""1"",""additional"":{""paging"":{""limit"":1,""page"":1},""ordering"":[{""name"":null,""order_type"":1}]}}","qldt_ptit_normal"
+"norm_qldt_ptit_000023","0","qldt_ptit_burp","https://qldt.ptit.edu.vn/public/api/sch/w-locdstkbhockytheodoituong","POST","https://qldt.ptit.edu.vn/public/api/sch/w-locdstkbhockytheodoituong","/public/api/sch/w-locdstkbhockytheodoituong","","{""Host"": ""qldt.ptit.edu.vn"", ""Cookie"": ""PRESENT"", ""Content-Length"": ""53"", ""Sec-Ch-Ua-Platform"": ""\""Linux\"""", ""Authorization"": ""PRESENT"", ""Idpc"": ""0"", ""Accept-Language"": ""en-US,en;q=0.9"", ""Sec-Ch-Ua"": ""\""Not=A?Brand\"";v=\""24\"", \""Chromium\"";v=\""140\"""", ""Sec-Ch-Ua-Mobile"": ""?0"", ""User-Agent"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"", ""Accept"": ""application/json, text/plain, */*"", ""Content-Type"": ""application/json"", ""Ua"": ""KnJ7WT3DnXtRw7TDrBl1f1g8w5txVcKUwphoax1FRsKlASHClMKPawYCJ0nCoRsxwo/Cng=="", ""Origin"": ""https://qldt.ptit.edu.vn"", ""Sec-Fetch-Site"": ""same-origin"", ""Sec-Fetch-Mode"": ""cors"", ""Sec-Fetch-Dest"": ""empty"", ""Referer"": ""https://qldt.ptit.edu.vn/public/"", ""Accept-Encoding"": ""gzip, deflate, br"", ""Priority"": ""u=1, i""}","{""hoc_ky"":20252,""loai_doi_tuong"":1,""id_du_lieu"":null}","POST /public/api/sch/w-locdstkbhockytheodoituong HTTP/2
+Host: qldt.ptit.edu.vn
+Cookie: PRESENT
+Content-Length: 53
+Sec-Ch-Ua-Platform: ""Linux""
+Authorization: PRESENT
+Idpc: 0
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: ""Not=A?Brand"";v=""24"", ""Chromium"";v=""140""
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+Accept: application/json, text/plain, */*
+Content-Type: application/json
+Ua: KnJ7WT3DnXtRw7TDrBl1f1g8w5txVcKUwphoax1FRsKlASHClMKPawYCJ0nCoRsxwo/Cng==
+Origin: https://qldt.ptit.edu.vn
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://qldt.ptit.edu.vn/public/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1, i
+
+{""hoc_ky"":20252,""loai_doi_tuong"":1,""id_du_lieu"":null}","qldt_ptit_normal"
+"norm_qldt_ptit_000024","0","qldt_ptit_burp","https://qldt.ptit.edu.vn/public/api/sch/w-locdsdoituongthoikhoabieuhocky","POST","https://qldt.ptit.edu.vn/public/api/sch/w-locdsdoituongthoikhoabieuhocky","/public/api/sch/w-locdsdoituongthoikhoabieuhocky","","{""Host"": ""qldt.ptit.edu.vn"", ""Cookie"": ""PRESENT"", ""Content-Length"": ""0"", ""Sec-Ch-Ua-Platform"": ""\""Linux\"""", ""Authorization"": ""PRESENT"", ""Idpc"": ""0"", ""Accept-Language"": ""en-US,en;q=0.9"", ""Sec-Ch-Ua"": ""\""Not=A?Brand\"";v=\""24\"", \""Chromium\"";v=\""140\"""", ""Sec-Ch-Ua-Mobile"": ""?0"", ""User-Agent"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"", ""Accept"": ""application/json, text/plain, */*"", ""Content-Type"": ""text/plain"", ""Ua"": ""P8KNKzdpwoYlw74wwpLDssKOLz9nwoYqw79Qw6bCg8KQTCsSw75fwo5Qw6HChMO2T1MRw79bwp5Lw6o="", ""Origin"": ""https://qldt.ptit.edu.vn"", ""Sec-Fetch-Site"": ""same-origin"", ""Sec-Fetch-Mode"": ""cors"", ""Sec-Fetch-Dest"": ""empty"", ""Referer"": ""https://qldt.ptit.edu.vn/public/"", ""Accept-Encoding"": ""gzip, deflate, br"", ""Priority"": ""u=1, i""}","","POST /public/api/sch/w-locdsdoituongthoikhoabieuhocky HTTP/2
+Host: qldt.ptit.edu.vn
+Cookie: PRESENT
+Content-Length: 0
+Sec-Ch-Ua-Platform: ""Linux""
+Authorization: PRESENT
+Idpc: 0
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: ""Not=A?Brand"";v=""24"", ""Chromium"";v=""140""
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+Accept: application/json, text/plain, */*
+Content-Type: text/plain
+Ua: P8KNKzdpwoYlw74wwpLDssKOLz9nwoYqw79Qw6bCg8KQTCsSw75fwo5Qw6HChMO2T1MRw79bwp5Lw6o=
+Origin: https://qldt.ptit.edu.vn
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://qldt.ptit.edu.vn/public/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1, i","qldt_ptit_normal"
+"norm_qldt_ptit_000025","0","qldt_ptit_burp","https://qldt.ptit.edu.vn/public/4278.89339cfb19fc63b9.js","GET","https://qldt.ptit.edu.vn/public/4278.89339cfb19fc63b9.js","/public/4278.89339cfb19fc63b9.js","","{""Host"": ""qldt.ptit.edu.vn"", ""Cookie"": ""PRESENT"", ""Origin"": ""https://qldt.ptit.edu.vn"", ""Sec-Ch-Ua-Platform"": ""\""Linux\"""", ""Accept-Language"": ""en-US,en;q=0.9"", ""Sec-Ch-Ua"": ""\""Not=A?Brand\"";v=\""24\"", \""Chromium\"";v=\""140\"""", ""User-Agent"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"", ""Sec-Ch-Ua-Mobile"": ""?0"", ""Accept"": ""*/*"", ""Sec-Fetch-Site"": ""same-origin"", ""Sec-Fetch-Mode"": ""cors"", ""Sec-Fetch-Dest"": ""script"", ""Referer"": ""https://qldt.ptit.edu.vn/public/"", ""Accept-Encoding"": ""gzip, deflate, br"", ""Priority"": ""u=1""}","","GET /public/4278.89339cfb19fc63b9.js HTTP/2
+Host: qldt.ptit.edu.vn
+Cookie: PRESENT
+Origin: https://qldt.ptit.edu.vn
+Sec-Ch-Ua-Platform: ""Linux""
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: ""Not=A?Brand"";v=""24"", ""Chromium"";v=""140""
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+Sec-Ch-Ua-Mobile: ?0
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: script
+Referer: https://qldt.ptit.edu.vn/public/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1","qldt_ptit_normal"
+"norm_qldt_ptit_000026","0","qldt_ptit_burp","https://qldt.ptit.edu.vn/public/api/rms/w-locdshoadondientu","POST","https://qldt.ptit.edu.vn/public/api/rms/w-locdshoadondientu","/public/api/rms/w-locdshoadondientu","","{""Host"": ""qldt.ptit.edu.vn"", ""Cookie"": ""PRESENT"", ""Content-Length"": ""166"", ""Sec-Ch-Ua-Platform"": ""\""Linux\"""", ""Authorization"": ""PRESENT"", ""Idpc"": ""0"", ""Accept-Language"": ""en-US,en;q=0.9"", ""Sec-Ch-Ua"": ""\""Not=A?Brand\"";v=\""24\"", \""Chromium\"";v=\""140\"""", ""Sec-Ch-Ua-Mobile"": ""?0"", ""User-Agent"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"", ""Accept"": ""application/json, text/plain, */*"", ""Content-Type"": ""application/json"", ""Ua"": ""PMOxw6IRQcKNFVo3CX3Dt8OtEE/Cix5aVnMXw6jCjA06w7VvKld2C8KGwp9vOMO+ZStKag=="", ""Origin"": ""https://qldt.ptit.edu.vn"", ""Sec-Fetch-Site"": ""same-origin"", ""Sec-Fetch-Mode"": ""cors"", ""Sec-Fetch-Dest"": ""empty"", ""Referer"": ""https://qldt.ptit.edu.vn/public/"", ""Accept-Encoding"": ""gzip, deflate, br"", ""Priority"": ""u=1, i""}","{""filter"":{""hoc_ky"":0,""tim_kiem"":""""},""additional"":{""paging"":{""limit"":10,""page"":1},""ordering"":[{""name"":""hoc_ky"",""order_type"":1},{""name"":""so_hoa_don"",""order_type"":0}]}}","POST /public/api/rms/w-locdshoadondientu HTTP/2
+Host: qldt.ptit.edu.vn
+Cookie: PRESENT
+Content-Length: 166
+Sec-Ch-Ua-Platform: ""Linux""
+Authorization: PRESENT
+Idpc: 0
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: ""Not=A?Brand"";v=""24"", ""Chromium"";v=""140""
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+Accept: application/json, text/plain, */*
+Content-Type: application/json
+Ua: PMOxw6IRQcKNFVo3CX3Dt8OtEE/Cix5aVnMXw6jCjA06w7VvKld2C8KGwp9vOMO+ZStKag==
+Origin: https://qldt.ptit.edu.vn
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://qldt.ptit.edu.vn/public/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1, i
+
+{""filter"":{""hoc_ky"":0,""tim_kiem"":""""},""additional"":{""paging"":{""limit"":10,""page"":1},""ordering"":[{""name"":""hoc_ky"",""order_type"":1},{""name"":""so_hoa_don"",""order_type"":0}]}}","qldt_ptit_normal"
+"norm_qldt_ptit_000027","0","qldt_ptit_burp","https://qldt.ptit.edu.vn/public/api/rms/w-locdshockyhoadondientu","POST","https://qldt.ptit.edu.vn/public/api/rms/w-locdshockyhoadondientu","/public/api/rms/w-locdshockyhoadondientu","","{""Host"": ""qldt.ptit.edu.vn"", ""Cookie"": ""PRESENT"", ""Content-Length"": ""125"", ""Sec-Ch-Ua-Platform"": ""\""Linux\"""", ""Authorization"": ""PRESENT"", ""Idpc"": ""0"", ""Accept-Language"": ""en-US,en;q=0.9"", ""Sec-Ch-Ua"": ""\""Not=A?Brand\"";v=\""24\"", \""Chromium\"";v=\""140\"""", ""Sec-Ch-Ua-Mobile"": ""?0"", ""User-Agent"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"", ""Accept"": ""application/json, text/plain, */*"", ""Content-Type"": ""application/json"", ""Ua"": ""KXbCiVQsw7A/w69tF8KIcsKJVSjDvjPDrwxtw6Jtw6hIV8KIRcKfDWjDvgHDtDxTwohHwp8Rbg=="", ""Origin"": ""https://qldt.ptit.edu.vn"", ""Sec-Fetch-Site"": ""same-origin"", ""Sec-Fetch-Mode"": ""cors"", ""Sec-Fetch-Dest"": ""empty"", ""Referer"": ""https://qldt.ptit.edu.vn/public/"", ""Accept-Encoding"": ""gzip, deflate, br"", ""Priority"": ""u=1, i""}","{""filter"":{""is_tieng_anh"":null},""additional"":{""paging"":{""limit"":100,""page"":1},""ordering"":[{""name"":""hoc_ky"",""order_type"":1}]}}","POST /public/api/rms/w-locdshockyhoadondientu HTTP/2
+Host: qldt.ptit.edu.vn
+Cookie: PRESENT
+Content-Length: 125
+Sec-Ch-Ua-Platform: ""Linux""
+Authorization: PRESENT
+Idpc: 0
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: ""Not=A?Brand"";v=""24"", ""Chromium"";v=""140""
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+Accept: application/json, text/plain, */*
+Content-Type: application/json
+Ua: KXbCiVQsw7A/w69tF8KIcsKJVSjDvjPDrwxtw6Jtw6hIV8KIRcKfDWjDvgHDtDxTwohHwp8Rbg==
+Origin: https://qldt.ptit.edu.vn
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://qldt.ptit.edu.vn/public/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1, i
+
+{""filter"":{""is_tieng_anh"":null},""additional"":{""paging"":{""limit"":100,""page"":1},""ordering"":[{""name"":""hoc_ky"",""order_type"":1}]}}","qldt_ptit_normal"
+"norm_qldt_ptit_000028","0","qldt_ptit_burp","https://qldt.ptit.edu.vn/public/api/dkmh/w-checkvalidallchucnang","POST","https://qldt.ptit.edu.vn/public/api/dkmh/w-checkvalidallchucnang","/public/api/dkmh/w-checkvalidallchucnang","","{""Host"": ""qldt.ptit.edu.vn"", ""Cookie"": ""PRESENT"", ""Content-Length"": ""102"", ""Sec-Ch-Ua-Platform"": ""\""Linux\"""", ""Authorization"": ""PRESENT"", ""Idpc"": ""0"", ""Accept-Language"": ""en-US,en;q=0.9"", ""Sec-Ch-Ua"": ""\""Not=A?Brand\"";v=\""24\"", \""Chromium\"";v=\""140\"""", ""Sec-Ch-Ua-Mobile"": ""?0"", ""User-Agent"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"", ""Accept"": ""application/json, text/plain, */*"", ""Content-Type"": ""application/json"", ""Ua"": ""NkHCgh1ZMwdweV8zRsKPGFk2BnUOI0c+wpV7Q0d2AQkjXDfDtmUqRXIICSA="", ""Origin"": ""https://qldt.ptit.edu.vn"", ""Sec-Fetch-Site"": ""same-origin"", ""Sec-Fetch-Mode"": ""cors"", ""Sec-Fetch-Dest"": ""empty"", ""Referer"": ""https://qldt.ptit.edu.vn/public/"", ""Accept-Encoding"": ""gzip, deflate, br"", ""Priority"": ""u=1, i""}","{""ma_menu"":""2"",""additional"":{""paging"":{""limit"":1,""page"":1},""ordering"":[{""name"":null,""order_type"":1}]}}","POST /public/api/dkmh/w-checkvalidallchucnang HTTP/2
+Host: qldt.ptit.edu.vn
+Cookie: PRESENT
+Content-Length: 102
+Sec-Ch-Ua-Platform: ""Linux""
+Authorization: PRESENT
+Idpc: 0
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: ""Not=A?Brand"";v=""24"", ""Chromium"";v=""140""
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+Accept: application/json, text/plain, */*
+Content-Type: application/json
+Ua: NkHCgh1ZMwdweV8zRsKPGFk2BnUOI0c+wpV7Q0d2AQkjXDfDtmUqRXIICSA=
+Origin: https://qldt.ptit.edu.vn
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://qldt.ptit.edu.vn/public/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1, i
+
+{""ma_menu"":""2"",""additional"":{""paging"":{""limit"":1,""page"":1},""ordering"":[{""name"":null,""order_type"":1}]}}","qldt_ptit_normal"
+"norm_qldt_ptit_000029","0","qldt_ptit_burp","https://qldt.ptit.edu.vn/public/8629.d16c5f13df6ea437.js","GET","https://qldt.ptit.edu.vn/public/8629.d16c5f13df6ea437.js","/public/8629.d16c5f13df6ea437.js","","{""Host"": ""qldt.ptit.edu.vn"", ""Cookie"": ""PRESENT"", ""Origin"": ""https://qldt.ptit.edu.vn"", ""Sec-Ch-Ua-Platform"": ""\""Linux\"""", ""Accept-Language"": ""en-US,en;q=0.9"", ""Sec-Ch-Ua"": ""\""Not=A?Brand\"";v=\""24\"", \""Chromium\"";v=\""140\"""", ""User-Agent"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"", ""Sec-Ch-Ua-Mobile"": ""?0"", ""Accept"": ""*/*"", ""Sec-Fetch-Site"": ""same-origin"", ""Sec-Fetch-Mode"": ""cors"", ""Sec-Fetch-Dest"": ""script"", ""Referer"": ""https://qldt.ptit.edu.vn/public/"", ""Accept-Encoding"": ""gzip, deflate, br"", ""Priority"": ""u=1""}","","GET /public/8629.d16c5f13df6ea437.js HTTP/2
+Host: qldt.ptit.edu.vn
+Cookie: PRESENT
+Origin: https://qldt.ptit.edu.vn
+Sec-Ch-Ua-Platform: ""Linux""
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: ""Not=A?Brand"";v=""24"", ""Chromium"";v=""140""
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+Sec-Ch-Ua-Mobile: ?0
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: script
+Referer: https://qldt.ptit.edu.vn/public/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1","qldt_ptit_normal"
+"norm_qldt_ptit_000030","0","qldt_ptit_burp","https://qldt.ptit.edu.vn/public/api/rms/w-locdstonghophocphisv","POST","https://qldt.ptit.edu.vn/public/api/rms/w-locdstonghophocphisv","/public/api/rms/w-locdstonghophocphisv","","{""Host"": ""qldt.ptit.edu.vn"", ""Cookie"": ""PRESENT"", ""Content-Length"": ""0"", ""Sec-Ch-Ua-Platform"": ""\""Linux\"""", ""Authorization"": ""PRESENT"", ""Idpc"": ""0"", ""Accept-Language"": ""en-US,en;q=0.9"", ""Sec-Ch-Ua"": ""\""Not=A?Brand\"";v=\""24\"", \""Chromium\"";v=\""140\"""", ""Sec-Ch-Ua-Mobile"": ""?0"", ""User-Agent"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"", ""Accept"": ""application/json, text/plain, */*"", ""Content-Type"": ""text/plain"", ""Ua"": ""NQfDtHXDgH1VXMOfPUEOw7Jww4d+WlnCvkcrEcKRacK7BS8swr9eN3DCgQzCuBokJ8KvWg=="", ""Origin"": ""https://qldt.ptit.edu.vn"", ""Sec-Fetch-Site"": ""same-origin"", ""Sec-Fetch-Mode"": ""cors"", ""Sec-Fetch-Dest"": ""empty"", ""Referer"": ""https://qldt.ptit.edu.vn/public/"", ""Accept-Encoding"": ""gzip, deflate, br"", ""Priority"": ""u=1, i""}","","POST /public/api/rms/w-locdstonghophocphisv HTTP/2
+Host: qldt.ptit.edu.vn
+Cookie: PRESENT
+Content-Length: 0
+Sec-Ch-Ua-Platform: ""Linux""
+Authorization: PRESENT
+Idpc: 0
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: ""Not=A?Brand"";v=""24"", ""Chromium"";v=""140""
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+Accept: application/json, text/plain, */*
+Content-Type: text/plain
+Ua: NQfDtHXDgH1VXMOfPUEOw7Jww4d+WlnCvkcrEcKRacK7BS8swr9eN3DCgQzCuBokJ8KvWg==
+Origin: https://qldt.ptit.edu.vn
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://qldt.ptit.edu.vn/public/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1, i","qldt_ptit_normal"
+"norm_qldt_ptit_000031","0","qldt_ptit_burp","https://qldt.ptit.edu.vn/public/api/sms/w-kiemtrafilehuongdandaluutrenserver","POST","https://qldt.ptit.edu.vn/public/api/sms/w-kiemtrafilehuongdandaluutrenserver","/public/api/sms/w-kiemtrafilehuongdandaluutrenserver","","{""Host"": ""qldt.ptit.edu.vn"", ""Cookie"": ""PRESENT"", ""Content-Length"": ""55"", ""Sec-Ch-Ua-Platform"": ""\""Linux\"""", ""Authorization"": ""PRESENT"", ""Idpc"": ""0"", ""Accept-Language"": ""en-US,en;q=0.9"", ""Sec-Ch-Ua"": ""\""Not=A?Brand\"";v=\""24\"", \""Chromium\"";v=\""140\"""", ""Sec-Ch-Ua-Mobile"": ""?0"", ""User-Agent"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"", ""Accept"": ""application/json, text/plain, */*"", ""Content-Type"": ""application/json"", ""Ua"": ""Kn1/WT3DnXtRw7TDrBl0flo/w5t3XMKUwpZzax1FQcKjByjCk8KJYQIDJE/CohcqwonCnA=="", ""Origin"": ""https://qldt.ptit.edu.vn"", ""Sec-Fetch-Site"": ""same-origin"", ""Sec-Fetch-Mode"": ""cors"", ""Sec-Fetch-Dest"": ""empty"", ""Referer"": ""https://qldt.ptit.edu.vn/public/"", ""Accept-Encoding"": ""gzip, deflate, br"", ""Priority"": ""u=1, i""}","{""path"":""hocphi/"",""ten_file"":""huongdandonghocphi.html""}","POST /public/api/sms/w-kiemtrafilehuongdandaluutrenserver HTTP/2
+Host: qldt.ptit.edu.vn
+Cookie: PRESENT
+Content-Length: 55
+Sec-Ch-Ua-Platform: ""Linux""
+Authorization: PRESENT
+Idpc: 0
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: ""Not=A?Brand"";v=""24"", ""Chromium"";v=""140""
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+Accept: application/json, text/plain, */*
+Content-Type: application/json
+Ua: Kn1/WT3DnXtRw7TDrBl0flo/w5t3XMKUwpZzax1FQcKjByjCk8KJYQIDJE/CohcqwonCnA==
+Origin: https://qldt.ptit.edu.vn
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://qldt.ptit.edu.vn/public/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1, i
+
+{""path"":""hocphi/"",""ten_file"":""huongdandonghocphi.html""}","qldt_ptit_normal"
+"norm_qldt_ptit_000032","0","qldt_ptit_burp","https://qldt.ptit.edu.vn/public/api/report/w-locdshockyhocphisinhvien","POST","https://qldt.ptit.edu.vn/public/api/report/w-locdshockyhocphisinhvien","/public/api/report/w-locdshockyhocphisinhvien","","{""Host"": ""qldt.ptit.edu.vn"", ""Cookie"": ""PRESENT"", ""Content-Length"": ""125"", ""Sec-Ch-Ua-Platform"": ""\""Linux\"""", ""Authorization"": ""PRESENT"", ""Idpc"": ""0"", ""Accept-Language"": ""en-US,en;q=0.9"", ""Sec-Ch-Ua"": ""\""Not=A?Brand\"";v=\""24\"", \""Chromium\"";v=\""140\"""", ""Sec-Ch-Ua-Mobile"": ""?0"", ""User-Agent"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"", ""Accept"": ""application/json, text/plain, */*"", ""Content-Type"": ""application/json"", ""Ua"": ""McOvwoDCizQzw79+w5/DncKGw6vChcKINjTDsnrCvsKvw6/ClMOjw64sU8OrBsKjwqnDu8KIw7nDtUBPwp8CwqPCqQ=="", ""Origin"": ""https://qldt.ptit.edu.vn"", ""Sec-Fetch-Site"": ""same-origin"", ""Sec-Fetch-Mode"": ""cors"", ""Sec-Fetch-Dest"": ""empty"", ""Referer"": ""https://qldt.ptit.edu.vn/public/"", ""Accept-Encoding"": ""gzip, deflate, br"", ""Priority"": ""u=1, i""}","{""filter"":{""is_tieng_anh"":null},""additional"":{""paging"":{""limit"":100,""page"":1},""ordering"":[{""name"":""hoc_ky"",""order_type"":1}]}}","POST /public/api/report/w-locdshockyhocphisinhvien HTTP/2
+Host: qldt.ptit.edu.vn
+Cookie: PRESENT
+Content-Length: 125
+Sec-Ch-Ua-Platform: ""Linux""
+Authorization: PRESENT
+Idpc: 0
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: ""Not=A?Brand"";v=""24"", ""Chromium"";v=""140""
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+Accept: application/json, text/plain, */*
+Content-Type: application/json
+Ua: McOvwoDCizQzw79+w5/DncKGw6vChcKINjTDsnrCvsKvw6/ClMOjw64sU8OrBsKjwqnDu8KIw7nDtUBPwp8CwqPCqQ==
+Origin: https://qldt.ptit.edu.vn
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://qldt.ptit.edu.vn/public/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1, i
+
+{""filter"":{""is_tieng_anh"":null},""additional"":{""paging"":{""limit"":100,""page"":1},""ordering"":[{""name"":""hoc_ky"",""order_type"":1}]}}","qldt_ptit_normal"
+"norm_qldt_ptit_000033","0","qldt_ptit_burp","https://qldt.ptit.edu.vn/public/4234.b715292b991c5081.js","GET","https://qldt.ptit.edu.vn/public/4234.b715292b991c5081.js","/public/4234.b715292b991c5081.js","","{""Host"": ""qldt.ptit.edu.vn"", ""Cookie"": ""PRESENT"", ""Origin"": ""https://qldt.ptit.edu.vn"", ""Sec-Ch-Ua-Platform"": ""\""Linux\"""", ""Accept-Language"": ""en-US,en;q=0.9"", ""Sec-Ch-Ua"": ""\""Not=A?Brand\"";v=\""24\"", \""Chromium\"";v=\""140\"""", ""User-Agent"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"", ""Sec-Ch-Ua-Mobile"": ""?0"", ""Accept"": ""*/*"", ""Sec-Fetch-Site"": ""same-origin"", ""Sec-Fetch-Mode"": ""cors"", ""Sec-Fetch-Dest"": ""script"", ""Referer"": ""https://qldt.ptit.edu.vn/public/"", ""Accept-Encoding"": ""gzip, deflate, br"", ""Priority"": ""u=1""}","","GET /public/4234.b715292b991c5081.js HTTP/2
+Host: qldt.ptit.edu.vn
+Cookie: PRESENT
+Origin: https://qldt.ptit.edu.vn
+Sec-Ch-Ua-Platform: ""Linux""
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: ""Not=A?Brand"";v=""24"", ""Chromium"";v=""140""
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+Sec-Ch-Ua-Mobile: ?0
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: script
+Referer: https://qldt.ptit.edu.vn/public/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1","qldt_ptit_normal"
+"norm_qldt_ptit_000034","0","qldt_ptit_burp","https://qldt.ptit.edu.vn/public/api/dkmh/w-locdsmonnguyenvongdadangky","POST","https://qldt.ptit.edu.vn/public/api/dkmh/w-locdsmonnguyenvongdadangky","/public/api/dkmh/w-locdsmonnguyenvongdadangky","","{""Host"": ""qldt.ptit.edu.vn"", ""Cookie"": ""PRESENT"", ""Content-Length"": ""0"", ""Sec-Ch-Ua-Platform"": ""\""Linux\"""", ""Authorization"": ""PRESENT"", ""Idpc"": ""0"", ""Accept-Language"": ""en-US,en;q=0.9"", ""Sec-Ch-Ua"": ""\""Not=A?Brand\"";v=\""24\"", \""Chromium\"";v=\""140\"""", ""Sec-Ch-Ua-Mobile"": ""?0"", ""User-Agent"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"", ""Accept"": ""application/json, text/plain, */*"", ""Content-Type"": ""text/plain"", ""Ua"": ""LcO/w7HDhlvDm0FHwowsP8O7w7TDjl3DnE1Aw7tQS8KDw6nCoEHCoDcww7tIS8KEwojCuSvCuSE2w7FN"", ""Origin"": ""https://qldt.ptit.edu.vn"", ""Sec-Fetch-Site"": ""same-origin"", ""Sec-Fetch-Mode"": ""cors"", ""Sec-Fetch-Dest"": ""empty"", ""Referer"": ""https://qldt.ptit.edu.vn/public/"", ""Accept-Encoding"": ""gzip, deflate, br"", ""Priority"": ""u=1, i""}","","POST /public/api/dkmh/w-locdsmonnguyenvongdadangky HTTP/2
+Host: qldt.ptit.edu.vn
+Cookie: PRESENT
+Content-Length: 0
+Sec-Ch-Ua-Platform: ""Linux""
+Authorization: PRESENT
+Idpc: 0
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: ""Not=A?Brand"";v=""24"", ""Chromium"";v=""140""
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+Accept: application/json, text/plain, */*
+Content-Type: text/plain
+Ua: LcO/w7HDhlvDm0FHwowsP8O7w7TDjl3DnE1Aw7tQS8KDw6nCoEHCoDcww7tIS8KEwojCuSvCuSE2w7FN
+Origin: https://qldt.ptit.edu.vn
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://qldt.ptit.edu.vn/public/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1, i","qldt_ptit_normal"
+"norm_qldt_ptit_000035","0","qldt_ptit_burp","https://qldt.ptit.edu.vn/public/api/dkmh/w-locdsmonnguyenvong","POST","https://qldt.ptit.edu.vn/public/api/dkmh/w-locdsmonnguyenvong","/public/api/dkmh/w-locdsmonnguyenvong","","{""Host"": ""qldt.ptit.edu.vn"", ""Cookie"": ""PRESENT"", ""Content-Length"": ""105"", ""Sec-Ch-Ua-Platform"": ""\""Linux\"""", ""Authorization"": ""PRESENT"", ""Idpc"": ""0"", ""Accept-Language"": ""en-US,en;q=0.9"", ""Sec-Ch-Ua"": ""\""Not=A?Brand\"";v=\""24\"", \""Chromium\"";v=\""140\"""", ""Sec-Ch-Ua-Mobile"": ""?0"", ""User-Agent"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"", ""Accept"": ""application/json, text/plain, */*"", ""Content-Type"": ""application/json"", ""Ua"": ""IsO0ecOdw53CiMO+akXDvVfDtnjDlcOawobDvmYywoEjwo5lwrvDh8OzwogdMsKZI8KJBMKiwq3DqsKeGzjCnA=="", ""Origin"": ""https://qldt.ptit.edu.vn"", ""Sec-Fetch-Site"": ""same-origin"", ""Sec-Fetch-Mode"": ""cors"", ""Sec-Fetch-Dest"": ""empty"", ""Referer"": ""https://qldt.ptit.edu.vn/public/"", ""Accept-Encoding"": ""gzip, deflate, br"", ""Priority"": ""u=1, i""}","{""is_CVHT"":false,""additional"":{""paging"":{""limit"":500,""page"":1},""ordering"":[{""name"":"""",""order_type"":""""}]}}","POST /public/api/dkmh/w-locdsmonnguyenvong HTTP/2
+Host: qldt.ptit.edu.vn
+Cookie: PRESENT
+Content-Length: 105
+Sec-Ch-Ua-Platform: ""Linux""
+Authorization: PRESENT
+Idpc: 0
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: ""Not=A?Brand"";v=""24"", ""Chromium"";v=""140""
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+Accept: application/json, text/plain, */*
+Content-Type: application/json
+Ua: IsO0ecOdw53CiMO+akXDvVfDtnjDlcOawobDvmYywoEjwo5lwrvDh8OzwogdMsKZI8KJBMKiwq3DqsKeGzjCnA==
+Origin: https://qldt.ptit.edu.vn
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://qldt.ptit.edu.vn/public/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1, i
+
+{""is_CVHT"":false,""additional"":{""paging"":{""limit"":500,""page"":1},""ordering"":[{""name"":"""",""order_type"":""""}]}}","qldt_ptit_normal"
+"norm_qldt_ptit_000036","0","qldt_ptit_burp","https://qldt.ptit.edu.vn/public/api/dkmh/w-checkvalidallchucnang","POST","https://qldt.ptit.edu.vn/public/api/dkmh/w-checkvalidallchucnang","/public/api/dkmh/w-checkvalidallchucnang","","{""Host"": ""qldt.ptit.edu.vn"", ""Cookie"": ""PRESENT"", ""Content-Length"": ""103"", ""Sec-Ch-Ua-Platform"": ""\""Linux\"""", ""Authorization"": ""PRESENT"", ""Idpc"": ""0"", ""Accept-Language"": ""en-US,en;q=0.9"", ""Sec-Ch-Ua"": ""\""Not=A?Brand\"";v=\""24\"", \""Chromium\"";v=\""140\"""", ""Sec-Ch-Ua-Mobile"": ""?0"", ""User-Agent"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"", ""Accept"": ""application/json, text/plain, */*"", ""Content-Type"": ""application/json"", ""Ua"": ""LcO9w7LDhlvDm0FHwowsP8O7w7TDj1nDmE5Bw7tQS8KDw6nCoEHCrzA2w7xQUMKKworCvijCrTQ/w7xT"", ""Origin"": ""https://qldt.ptit.edu.vn"", ""Sec-Fetch-Site"": ""same-origin"", ""Sec-Fetch-Mode"": ""cors"", ""Sec-Fetch-Dest"": ""empty"", ""Referer"": ""https://qldt.ptit.edu.vn/public/"", ""Accept-Encoding"": ""gzip, deflate, br"", ""Priority"": ""u=1, i""}","{""ma_menu"":""11"",""additional"":{""paging"":{""limit"":1,""page"":1},""ordering"":[{""name"":null,""order_type"":1}]}}","POST /public/api/dkmh/w-checkvalidallchucnang HTTP/2
+Host: qldt.ptit.edu.vn
+Cookie: PRESENT
+Content-Length: 103
+Sec-Ch-Ua-Platform: ""Linux""
+Authorization: PRESENT
+Idpc: 0
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: ""Not=A?Brand"";v=""24"", ""Chromium"";v=""140""
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+Accept: application/json, text/plain, */*
+Content-Type: application/json
+Ua: LcO9w7LDhlvDm0FHwowsP8O7w7TDj1nDmE5Bw7tQS8KDw6nCoEHCrzA2w7xQUMKKworCvijCrTQ/w7xT
+Origin: https://qldt.ptit.edu.vn
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://qldt.ptit.edu.vn/public/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1, i
+
+{""ma_menu"":""11"",""additional"":{""paging"":{""limit"":1,""page"":1},""ordering"":[{""name"":null,""order_type"":1}]}}","qldt_ptit_normal"
+"norm_qldt_ptit_000037","0","qldt_ptit_burp","https://qldt.ptit.edu.vn/public/7654.a5f859ee52e29fdf.js","GET","https://qldt.ptit.edu.vn/public/7654.a5f859ee52e29fdf.js","/public/7654.a5f859ee52e29fdf.js","","{""Host"": ""qldt.ptit.edu.vn"", ""Cookie"": ""PRESENT"", ""Origin"": ""https://qldt.ptit.edu.vn"", ""Sec-Ch-Ua-Platform"": ""\""Linux\"""", ""Accept-Language"": ""en-US,en;q=0.9"", ""Sec-Ch-Ua"": ""\""Not=A?Brand\"";v=\""24\"", \""Chromium\"";v=\""140\"""", ""User-Agent"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"", ""Sec-Ch-Ua-Mobile"": ""?0"", ""Accept"": ""*/*"", ""Sec-Fetch-Site"": ""same-origin"", ""Sec-Fetch-Mode"": ""cors"", ""Sec-Fetch-Dest"": ""script"", ""Referer"": ""https://qldt.ptit.edu.vn/public/"", ""Accept-Encoding"": ""gzip, deflate, br"", ""Priority"": ""u=1""}","","GET /public/7654.a5f859ee52e29fdf.js HTTP/2
+Host: qldt.ptit.edu.vn
+Cookie: PRESENT
+Origin: https://qldt.ptit.edu.vn
+Sec-Ch-Ua-Platform: ""Linux""
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: ""Not=A?Brand"";v=""24"", ""Chromium"";v=""140""
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+Sec-Ch-Ua-Mobile: ?0
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: script
+Referer: https://qldt.ptit.edu.vn/public/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1","qldt_ptit_normal"
+"norm_qldt_ptit_000038","0","qldt_ptit_burp","https://qldt.ptit.edu.vn/public/7590.f7399e88c8508bc1.js","GET","https://qldt.ptit.edu.vn/public/7590.f7399e88c8508bc1.js","/public/7590.f7399e88c8508bc1.js","","{""Host"": ""qldt.ptit.edu.vn"", ""Cookie"": ""PRESENT"", ""Origin"": ""https://qldt.ptit.edu.vn"", ""Sec-Ch-Ua-Platform"": ""\""Linux\"""", ""Accept-Language"": ""en-US,en;q=0.9"", ""Sec-Ch-Ua"": ""\""Not=A?Brand\"";v=\""24\"", \""Chromium\"";v=\""140\"""", ""User-Agent"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"", ""Sec-Ch-Ua-Mobile"": ""?0"", ""Accept"": ""*/*"", ""Sec-Fetch-Site"": ""same-origin"", ""Sec-Fetch-Mode"": ""cors"", ""Sec-Fetch-Dest"": ""script"", ""Referer"": ""https://qldt.ptit.edu.vn/public/"", ""Accept-Encoding"": ""gzip, deflate, br"", ""Priority"": ""u=1""}","","GET /public/7590.f7399e88c8508bc1.js HTTP/2
+Host: qldt.ptit.edu.vn
+Cookie: PRESENT
+Origin: https://qldt.ptit.edu.vn
+Sec-Ch-Ua-Platform: ""Linux""
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: ""Not=A?Brand"";v=""24"", ""Chromium"";v=""140""
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+Sec-Ch-Ua-Mobile: ?0
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: script
+Referer: https://qldt.ptit.edu.vn/public/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1","qldt_ptit_normal"
+"norm_qldt_ptit_000039","0","qldt_ptit_burp","https://qldt.ptit.edu.vn/public/api/rms/w-locdsmontienquyet","POST","https://qldt.ptit.edu.vn/public/api/rms/w-locdsmontienquyet","/public/api/rms/w-locdsmontienquyet","","{""Host"": ""qldt.ptit.edu.vn"", ""Cookie"": ""PRESENT"", ""Content-Length"": ""112"", ""Sec-Ch-Ua-Platform"": ""\""Linux\"""", ""Authorization"": ""PRESENT"", ""Idpc"": ""0"", ""Accept-Language"": ""en-US,en;q=0.9"", ""Sec-Ch-Ua"": ""\""Not=A?Brand\"";v=\""24\"", \""Chromium\"";v=\""140\"""", ""Sec-Ch-Ua-Mobile"": ""?0"", ""User-Agent"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"", ""Accept"": ""application/json, text/plain, */*"", ""Content-Type"": ""application/json"", ""Ua"": ""MFgxD3N9UT7DmXVcXjQKcnhfOMK4DzZBUxMIBStOwrkPKiBQdwEEOV/Cswc="", ""Origin"": ""https://qldt.ptit.edu.vn"", ""Sec-Fetch-Site"": ""same-origin"", ""Sec-Fetch-Mode"": ""cors"", ""Sec-Fetch-Dest"": ""empty"", ""Referer"": ""https://qldt.ptit.edu.vn/public/"", ""Accept-Encoding"": ""gzip, deflate, br"", ""Priority"": ""u=1, i""}","{""loai_tien_quyet"":1,""additional"":{""paging"":{""limit"":40,""page"":1},""ordering"":[{""name"":null,""order_type"":null}]}}","POST /public/api/rms/w-locdsmontienquyet HTTP/2
+Host: qldt.ptit.edu.vn
+Cookie: PRESENT
+Content-Length: 112
+Sec-Ch-Ua-Platform: ""Linux""
+Authorization: PRESENT
+Idpc: 0
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: ""Not=A?Brand"";v=""24"", ""Chromium"";v=""140""
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+Accept: application/json, text/plain, */*
+Content-Type: application/json
+Ua: MFgxD3N9UT7DmXVcXjQKcnhfOMK4DzZBUxMIBStOwrkPKiBQdwEEOV/Cswc=
+Origin: https://qldt.ptit.edu.vn
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://qldt.ptit.edu.vn/public/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1, i
+
+{""loai_tien_quyet"":1,""additional"":{""paging"":{""limit"":40,""page"":1},""ordering"":[{""name"":null,""order_type"":null}]}}","qldt_ptit_normal"
+"norm_qldt_ptit_000040","0","qldt_ptit_burp","https://qldt.ptit.edu.vn/public/api/rms/w-locdsloaitienquyet","POST","https://qldt.ptit.edu.vn/public/api/rms/w-locdsloaitienquyet","/public/api/rms/w-locdsloaitienquyet","","{""Host"": ""qldt.ptit.edu.vn"", ""Cookie"": ""PRESENT"", ""Content-Length"": ""0"", ""Sec-Ch-Ua-Platform"": ""\""Linux\"""", ""Authorization"": ""PRESENT"", ""Idpc"": ""0"", ""Accept-Language"": ""en-US,en;q=0.9"", ""Sec-Ch-Ua"": ""\""Not=A?Brand\"";v=\""24\"", \""Chromium\"";v=\""140\"""", ""Sec-Ch-Ua-Mobile"": ""?0"", ""User-Agent"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"", ""Accept"": ""application/json, text/plain, */*"", ""Content-Type"": ""text/plain"", ""Ua"": ""LEDDkkJ1wohcL8O0McOiSMOaR3LCilEjwpVLwohXwr1eDsOwJl/ClErClDnCoycLw7orSsKSXw=="", ""Origin"": ""https://qldt.ptit.edu.vn"", ""Sec-Fetch-Site"": ""same-origin"", ""Sec-Fetch-Mode"": ""cors"", ""Sec-Fetch-Dest"": ""empty"", ""Referer"": ""https://qldt.ptit.edu.vn/public/"", ""Accept-Encoding"": ""gzip, deflate, br"", ""Priority"": ""u=1, i""}","","POST /public/api/rms/w-locdsloaitienquyet HTTP/2
+Host: qldt.ptit.edu.vn
+Cookie: PRESENT
+Content-Length: 0
+Sec-Ch-Ua-Platform: ""Linux""
+Authorization: PRESENT
+Idpc: 0
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: ""Not=A?Brand"";v=""24"", ""Chromium"";v=""140""
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+Accept: application/json, text/plain, */*
+Content-Type: text/plain
+Ua: LEDDkkJ1wohcL8O0McOiSMOaR3LCilEjwpVLwohXwr1eDsOwJl/ClErClDnCoycLw7orSsKSXw==
+Origin: https://qldt.ptit.edu.vn
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://qldt.ptit.edu.vn/public/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1, i","qldt_ptit_normal"
+"norm_qldt_ptit_000041","0","qldt_ptit_burp","https://qldt.ptit.edu.vn/public/api/dkmh/w-checkvalidallchucnang","POST","https://qldt.ptit.edu.vn/public/api/dkmh/w-checkvalidallchucnang","/public/api/dkmh/w-checkvalidallchucnang","","{""Host"": ""qldt.ptit.edu.vn"", ""Cookie"": ""PRESENT"", ""Content-Length"": ""103"", ""Sec-Ch-Ua-Platform"": ""\""Linux\"""", ""Authorization"": ""PRESENT"", ""Idpc"": ""0"", ""Accept-Language"": ""en-US,en;q=0.9"", ""Sec-Ch-Ua"": ""\""Not=A?Brand\"";v=\""24\"", \""Chromium\"";v=\""140\"""", ""Sec-Ch-Ua-Mobile"": ""?0"", ""User-Agent"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"", ""Accept"": ""application/json, text/plain, */*"", ""Content-Type"": ""application/json"", ""Ua"": ""McOvwoTCizQzw79+w5/DncKGw6vCgcKJNjfDsHjCqMKhw7LCk8Kew60uR8KOD8KvwqHDqcKaw73Ds0dFwooGwq/Cog=="", ""Origin"": ""https://qldt.ptit.edu.vn"", ""Sec-Fetch-Site"": ""same-origin"", ""Sec-Fetch-Mode"": ""cors"", ""Sec-Fetch-Dest"": ""empty"", ""Referer"": ""https://qldt.ptit.edu.vn/public/"", ""Accept-Encoding"": ""gzip, deflate, br"", ""Priority"": ""u=1, i""}","{""ma_menu"":""10"",""additional"":{""paging"":{""limit"":1,""page"":1},""ordering"":[{""name"":null,""order_type"":1}]}}","POST /public/api/dkmh/w-checkvalidallchucnang HTTP/2
+Host: qldt.ptit.edu.vn
+Cookie: PRESENT
+Content-Length: 103
+Sec-Ch-Ua-Platform: ""Linux""
+Authorization: PRESENT
+Idpc: 0
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: ""Not=A?Brand"";v=""24"", ""Chromium"";v=""140""
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+Accept: application/json, text/plain, */*
+Content-Type: application/json
+Ua: McOvwoTCizQzw79+w5/DncKGw6vCgcKJNjfDsHjCqMKhw7LCk8Kew60uR8KOD8KvwqHDqcKaw73Ds0dFwooGwq/Cog==
+Origin: https://qldt.ptit.edu.vn
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://qldt.ptit.edu.vn/public/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1, i
+
+{""ma_menu"":""10"",""additional"":{""paging"":{""limit"":1,""page"":1},""ordering"":[{""name"":null,""order_type"":1}]}}","qldt_ptit_normal"
+"norm_qldt_ptit_000042","0","qldt_ptit_burp","https://qldt.ptit.edu.vn/public/9645.dee96dff0f09fc26.js","GET","https://qldt.ptit.edu.vn/public/9645.dee96dff0f09fc26.js","/public/9645.dee96dff0f09fc26.js","","{""Host"": ""qldt.ptit.edu.vn"", ""Cookie"": ""PRESENT"", ""Origin"": ""https://qldt.ptit.edu.vn"", ""Sec-Ch-Ua-Platform"": ""\""Linux\"""", ""Accept-Language"": ""en-US,en;q=0.9"", ""Sec-Ch-Ua"": ""\""Not=A?Brand\"";v=\""24\"", \""Chromium\"";v=\""140\"""", ""User-Agent"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"", ""Sec-Ch-Ua-Mobile"": ""?0"", ""Accept"": ""*/*"", ""Sec-Fetch-Site"": ""same-origin"", ""Sec-Fetch-Mode"": ""cors"", ""Sec-Fetch-Dest"": ""script"", ""Referer"": ""https://qldt.ptit.edu.vn/public/"", ""Accept-Encoding"": ""gzip, deflate, br"", ""Priority"": ""u=1""}","","GET /public/9645.dee96dff0f09fc26.js HTTP/2
+Host: qldt.ptit.edu.vn
+Cookie: PRESENT
+Origin: https://qldt.ptit.edu.vn
+Sec-Ch-Ua-Platform: ""Linux""
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: ""Not=A?Brand"";v=""24"", ""Chromium"";v=""140""
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+Sec-Ch-Ua-Mobile: ?0
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: script
+Referer: https://qldt.ptit.edu.vn/public/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1","qldt_ptit_normal"
+"norm_qldt_ptit_000043","0","qldt_ptit_burp","https://qldt.ptit.edu.vn/public/api/sch/w-locdsctdtsinhvien","POST","https://qldt.ptit.edu.vn/public/api/sch/w-locdsctdtsinhvien","/public/api/sch/w-locdsctdtsinhvien","","{""Host"": ""qldt.ptit.edu.vn"", ""Cookie"": ""PRESENT"", ""Content-Length"": ""134"", ""Sec-Ch-Ua-Platform"": ""\""Linux\"""", ""Authorization"": ""PRESENT"", ""Idpc"": ""0"", ""Accept-Language"": ""en-US,en;q=0.9"", ""Sec-Ch-Ua"": ""\""Not=A?Brand\"";v=\""24\"", \""Chromium\"";v=\""140\"""", ""Sec-Ch-Ua-Mobile"": ""?0"", ""User-Agent"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"", ""Accept"": ""application/json, text/plain, */*"", ""Content-Type"": ""application/json"", ""Ua"": ""OWvChS3DvTTCnMO/w7XDgFRnwokvw7M3wpDDvsKVwrQkccOmMcKGTMOmwo/ClcK0OBrDpU/Cg03DrcKdwo/Csg=="", ""Origin"": ""https://qldt.ptit.edu.vn"", ""Sec-Fetch-Site"": ""same-origin"", ""Sec-Fetch-Mode"": ""cors"", ""Sec-Fetch-Dest"": ""empty"", ""Referer"": ""https://qldt.ptit.edu.vn/public/"", ""Accept-Encoding"": ""gzip, deflate, br"", ""Priority"": ""u=1, i""}","{""filter"":{""loai_chuong_trinh_dao_tao"":1},""additional"":{""paging"":{""limit"":500,""page"":1},""ordering"":[{""name"":null,""order_type"":null}]}}","POST /public/api/sch/w-locdsctdtsinhvien HTTP/2
+Host: qldt.ptit.edu.vn
+Cookie: PRESENT
+Content-Length: 134
+Sec-Ch-Ua-Platform: ""Linux""
+Authorization: PRESENT
+Idpc: 0
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: ""Not=A?Brand"";v=""24"", ""Chromium"";v=""140""
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+Accept: application/json, text/plain, */*
+Content-Type: application/json
+Ua: OWvChS3DvTTCnMO/w7XDgFRnwokvw7M3wpDDvsKVwrQkccOmMcKGTMOmwo/ClcK0OBrDpU/Cg03DrcKdwo/Csg==
+Origin: https://qldt.ptit.edu.vn
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://qldt.ptit.edu.vn/public/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1, i
+
+{""filter"":{""loai_chuong_trinh_dao_tao"":1},""additional"":{""paging"":{""limit"":500,""page"":1},""ordering"":[{""name"":null,""order_type"":null}]}}","qldt_ptit_normal"
+"norm_qldt_ptit_000044","0","qldt_ptit_burp","https://qldt.ptit.edu.vn/public/api/sch/w-locdschuongtrinhdaotao","POST","https://qldt.ptit.edu.vn/public/api/sch/w-locdschuongtrinhdaotao","/public/api/sch/w-locdschuongtrinhdaotao","","{""Host"": ""qldt.ptit.edu.vn"", ""Cookie"": ""PRESENT"", ""Content-Length"": ""0"", ""Sec-Ch-Ua-Platform"": ""\""Linux\"""", ""Authorization"": ""PRESENT"", ""Idpc"": ""0"", ""Accept-Language"": ""en-US,en;q=0.9"", ""Sec-Ch-Ua"": ""\""Not=A?Brand\"";v=\""24\"", \""Chromium\"";v=\""140\"""", ""Sec-Ch-Ua-Mobile"": ""?0"", ""User-Agent"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"", ""Accept"": ""application/json, text/plain, */*"", ""Content-Type"": ""text/plain"", ""Ua"": ""Ox8zX8KSM8OyCsO1c8OPFTtdwpY8w78HwpUHwr8DVEPDqUvCiHrClQfCv3lMIMOiUMKZd8KIDA=="", ""Origin"": ""https://qldt.ptit.edu.vn"", ""Sec-Fetch-Site"": ""same-origin"", ""Sec-Fetch-Mode"": ""cors"", ""Sec-Fetch-Dest"": ""empty"", ""Referer"": ""https://qldt.ptit.edu.vn/public/"", ""Accept-Encoding"": ""gzip, deflate, br"", ""Priority"": ""u=1, i""}","","POST /public/api/sch/w-locdschuongtrinhdaotao HTTP/2
+Host: qldt.ptit.edu.vn
+Cookie: PRESENT
+Content-Length: 0
+Sec-Ch-Ua-Platform: ""Linux""
+Authorization: PRESENT
+Idpc: 0
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: ""Not=A?Brand"";v=""24"", ""Chromium"";v=""140""
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+Accept: application/json, text/plain, */*
+Content-Type: text/plain
+Ua: Ox8zX8KSM8OyCsO1c8OPFTtdwpY8w78HwpUHwr8DVEPDqUvCiHrClQfCv3lMIMOiUMKZd8KIDA==
+Origin: https://qldt.ptit.edu.vn
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://qldt.ptit.edu.vn/public/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1, i","qldt_ptit_normal"
+"norm_qldt_ptit_000045","0","qldt_ptit_burp","https://qldt.ptit.edu.vn/public/api/dkmh/w-checkvalidallchucnang","POST","https://qldt.ptit.edu.vn/public/api/dkmh/w-checkvalidallchucnang","/public/api/dkmh/w-checkvalidallchucnang","","{""Host"": ""qldt.ptit.edu.vn"", ""Cookie"": ""PRESENT"", ""Content-Length"": ""102"", ""Sec-Ch-Ua-Platform"": ""\""Linux\"""", ""Authorization"": ""PRESENT"", ""Idpc"": ""0"", ""Accept-Language"": ""en-US,en;q=0.9"", ""Sec-Ch-Ua"": ""\""Not=A?Brand\"";v=\""24\"", \""Chromium\"";v=\""140\"""", ""Sec-Ch-Ua-Mobile"": ""?0"", ""User-Agent"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"", ""Accept"": ""application/json, text/plain, */*"", ""Content-Type"": ""application/json"", ""Ua"": ""N3Aiw6rChsKNOjDDtX3DlHsjw6nCicKPNDDCggHCoQo0wozCnMO5S0HChQHCugNXwpLDtcO7T0jChQI="", ""Origin"": ""https://qldt.ptit.edu.vn"", ""Sec-Fetch-Site"": ""same-origin"", ""Sec-Fetch-Mode"": ""cors"", ""Sec-Fetch-Dest"": ""empty"", ""Referer"": ""https://qldt.ptit.edu.vn/public/"", ""Accept-Encoding"": ""gzip, deflate, br"", ""Priority"": ""u=1, i""}","{""ma_menu"":""4"",""additional"":{""paging"":{""limit"":1,""page"":1},""ordering"":[{""name"":null,""order_type"":1}]}}","POST /public/api/dkmh/w-checkvalidallchucnang HTTP/2
+Host: qldt.ptit.edu.vn
+Cookie: PRESENT
+Content-Length: 102
+Sec-Ch-Ua-Platform: ""Linux""
+Authorization: PRESENT
+Idpc: 0
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: ""Not=A?Brand"";v=""24"", ""Chromium"";v=""140""
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+Accept: application/json, text/plain, */*
+Content-Type: application/json
+Ua: N3Aiw6rChsKNOjDDtX3DlHsjw6nCicKPNDDCggHCoQo0wozCnMO5S0HChQHCugNXwpLDtcO7T0jChQI=
+Origin: https://qldt.ptit.edu.vn
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://qldt.ptit.edu.vn/public/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1, i
+
+{""ma_menu"":""4"",""additional"":{""paging"":{""limit"":1,""page"":1},""ordering"":[{""name"":null,""order_type"":1}]}}","qldt_ptit_normal"
+"norm_qldt_ptit_000046","0","qldt_ptit_burp","https://qldt.ptit.edu.vn/public/8099.7e8b762d5c0d3bdb.js","GET","https://qldt.ptit.edu.vn/public/8099.7e8b762d5c0d3bdb.js","/public/8099.7e8b762d5c0d3bdb.js","","{""Host"": ""qldt.ptit.edu.vn"", ""Cookie"": ""PRESENT"", ""Origin"": ""https://qldt.ptit.edu.vn"", ""Sec-Ch-Ua-Platform"": ""\""Linux\"""", ""Accept-Language"": ""en-US,en;q=0.9"", ""Sec-Ch-Ua"": ""\""Not=A?Brand\"";v=\""24\"", \""Chromium\"";v=\""140\"""", ""User-Agent"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"", ""Sec-Ch-Ua-Mobile"": ""?0"", ""Accept"": ""*/*"", ""Sec-Fetch-Site"": ""same-origin"", ""Sec-Fetch-Mode"": ""cors"", ""Sec-Fetch-Dest"": ""script"", ""Referer"": ""https://qldt.ptit.edu.vn/public/"", ""Accept-Encoding"": ""gzip, deflate, br"", ""Priority"": ""u=1""}","","GET /public/8099.7e8b762d5c0d3bdb.js HTTP/2
+Host: qldt.ptit.edu.vn
+Cookie: PRESENT
+Origin: https://qldt.ptit.edu.vn
+Sec-Ch-Ua-Platform: ""Linux""
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: ""Not=A?Brand"";v=""24"", ""Chromium"";v=""140""
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+Sec-Ch-Ua-Mobile: ?0
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: script
+Referer: https://qldt.ptit.edu.vn/public/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1","qldt_ptit_normal"
+"norm_qldt_ptit_000047","0","qldt_ptit_burp","https://qldt.ptit.edu.vn/public/api/web/w-locdsthongbao","POST","https://qldt.ptit.edu.vn/public/api/web/w-locdsthongbao","/public/api/web/w-locdsthongbao","","{""Host"": ""qldt.ptit.edu.vn"", ""Cookie"": ""PRESENT"", ""Content-Length"": ""150"", ""Sec-Ch-Ua-Platform"": ""\""Linux\"""", ""Authorization"": ""PRESENT"", ""Idpc"": ""0"", ""Accept-Language"": ""en-US,en;q=0.9"", ""Sec-Ch-Ua"": ""\""Not=A?Brand\"";v=\""24\"", \""Chromium\"";v=\""140\"""", ""Sec-Ch-Ua-Mobile"": ""?0"", ""User-Agent"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"", ""Accept"": ""application/json, text/plain, */*"", ""Content-Type"": ""application/json"", ""Ua"": ""P8KJKTdpwoYlw74wwpLDs8KGLT9nwocrw71Uw6DCicKQTCsSw75fwo5Qw7HCg8OwVUEcw7BT"", ""Origin"": ""https://qldt.ptit.edu.vn"", ""Sec-Fetch-Site"": ""same-origin"", ""Sec-Fetch-Mode"": ""cors"", ""Sec-Fetch-Dest"": ""empty"", ""Referer"": ""https://qldt.ptit.edu.vn/public/"", ""Accept-Encoding"": ""gzip, deflate, br"", ""Priority"": ""u=1, i""}","{""filter"":{""id"":null,""is_noi_dung"":true,""is_web"":true},""additional"":{""paging"":{""limit"":100,""page"":1},""ordering"":[{""name"":""ngay_gui"",""order_type"":1}]}}","POST /public/api/web/w-locdsthongbao HTTP/2
+Host: qldt.ptit.edu.vn
+Cookie: PRESENT
+Content-Length: 150
+Sec-Ch-Ua-Platform: ""Linux""
+Authorization: PRESENT
+Idpc: 0
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: ""Not=A?Brand"";v=""24"", ""Chromium"";v=""140""
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+Accept: application/json, text/plain, */*
+Content-Type: application/json
+Ua: P8KJKTdpwoYlw74wwpLDs8KGLT9nwocrw71Uw6DCicKQTCsSw75fwo5Qw7HCg8OwVUEcw7BT
+Origin: https://qldt.ptit.edu.vn
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://qldt.ptit.edu.vn/public/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1, i
+
+{""filter"":{""id"":null,""is_noi_dung"":true,""is_web"":true},""additional"":{""paging"":{""limit"":100,""page"":1},""ordering"":[{""name"":""ngay_gui"",""order_type"":1}]}}","qldt_ptit_normal"
+"norm_qldt_ptit_000048","0","qldt_ptit_burp","https://qldt.ptit.edu.vn/public/api/dkmh/w-checkvalidallchucnang","POST","https://qldt.ptit.edu.vn/public/api/dkmh/w-checkvalidallchucnang","/public/api/dkmh/w-checkvalidallchucnang","","{""Host"": ""qldt.ptit.edu.vn"", ""Cookie"": ""PRESENT"", ""Content-Length"": ""102"", ""Sec-Ch-Ua-Platform"": ""\""Linux\"""", ""Authorization"": ""PRESENT"", ""Idpc"": ""0"", ""Accept-Language"": ""en-US,en;q=0.9"", ""Sec-Ch-Ua"": ""\""Not=A?Brand\"";v=\""24\"", \""Chromium\"";v=\""140\"""", ""Sec-Ch-Ua-Mobile"": ""?0"", ""User-Agent"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"", ""Accept"": ""application/json, text/plain, */*"", ""Content-Type"": ""application/json"", ""Ua"": ""JDzDnHNSw7DDohRFwo0UM8Oce1HDs8OiEjLDsWFCw4UVSMKEwpNlNcOxekvCpgshwobCl2w1w7I="", ""Origin"": ""https://qldt.ptit.edu.vn"", ""Sec-Fetch-Site"": ""same-origin"", ""Sec-Fetch-Mode"": ""cors"", ""Sec-Fetch-Dest"": ""empty"", ""Referer"": ""https://qldt.ptit.edu.vn/public/"", ""Accept-Encoding"": ""gzip, deflate, br"", ""Priority"": ""u=1, i""}","{""ma_menu"":""9"",""additional"":{""paging"":{""limit"":1,""page"":1},""ordering"":[{""name"":null,""order_type"":1}]}}","POST /public/api/dkmh/w-checkvalidallchucnang HTTP/2
+Host: qldt.ptit.edu.vn
+Cookie: PRESENT
+Content-Length: 102
+Sec-Ch-Ua-Platform: ""Linux""
+Authorization: PRESENT
+Idpc: 0
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: ""Not=A?Brand"";v=""24"", ""Chromium"";v=""140""
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+Accept: application/json, text/plain, */*
+Content-Type: application/json
+Ua: JDzDnHNSw7DDohRFwo0UM8Oce1HDs8OiEjLDsWFCw4UVSMKEwpNlNcOxekvCpgshwobCl2w1w7I=
+Origin: https://qldt.ptit.edu.vn
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://qldt.ptit.edu.vn/public/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1, i
+
+{""ma_menu"":""9"",""additional"":{""paging"":{""limit"":1,""page"":1},""ordering"":[{""name"":null,""order_type"":1}]}}","qldt_ptit_normal"
+"norm_qldt_ptit_000049","0","qldt_ptit_burp","https://qldt.ptit.edu.vn/public/api/web/w-locdsthongbao","POST","https://qldt.ptit.edu.vn/public/api/web/w-locdsthongbao","/public/api/web/w-locdsthongbao","","{""Host"": ""qldt.ptit.edu.vn"", ""Cookie"": ""PRESENT"", ""Content-Length"": ""149"", ""Sec-Ch-Ua-Platform"": ""\""Linux\"""", ""Authorization"": ""PRESENT"", ""Idpc"": ""0"", ""Accept-Language"": ""en-US,en;q=0.9"", ""Sec-Ch-Ua"": ""\""Not=A?Brand\"";v=\""24\"", \""Chromium\"";v=\""140\"""", ""Sec-Ch-Ua-Mobile"": ""?0"", ""User-Agent"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"", ""Accept"": ""application/json, text/plain, */*"", ""Content-Type"": ""application/json"", ""Ua"": ""Ji7DtzfDrGkZwoVFK8KCIsO2McOoaBbCgyFZw7g0wpArwpcRY8O1JUjDslTCiUHCmR9v"", ""Origin"": ""https://qldt.ptit.edu.vn"", ""Sec-Fetch-Site"": ""same-origin"", ""Sec-Fetch-Mode"": ""cors"", ""Sec-Fetch-Dest"": ""empty"", ""Referer"": ""https://qldt.ptit.edu.vn/public/"", ""Accept-Encoding"": ""gzip, deflate, br"", ""Priority"": ""u=1, i""}","{""filter"":{""id"":null,""is_noi_dung"":true,""is_web"":true},""additional"":{""paging"":{""limit"":50,""page"":1},""ordering"":[{""name"":""ngay_gui"",""order_type"":1}]}}","POST /public/api/web/w-locdsthongbao HTTP/2
+Host: qldt.ptit.edu.vn
+Cookie: PRESENT
+Content-Length: 149
+Sec-Ch-Ua-Platform: ""Linux""
+Authorization: PRESENT
+Idpc: 0
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: ""Not=A?Brand"";v=""24"", ""Chromium"";v=""140""
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+Accept: application/json, text/plain, */*
+Content-Type: application/json
+Ua: Ji7DtzfDrGkZwoVFK8KCIsO2McOoaBbCgyFZw7g0wpArwpcRY8O1JUjDslTCiUHCmR9v
+Origin: https://qldt.ptit.edu.vn
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://qldt.ptit.edu.vn/public/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1, i
+
+{""filter"":{""id"":null,""is_noi_dung"":true,""is_web"":true},""additional"":{""paging"":{""limit"":50,""page"":1},""ordering"":[{""name"":""ngay_gui"",""order_type"":1}]}}","qldt_ptit_normal"
+"norm_qldt_ptit_000050","0","qldt_ptit_burp","https://www.gstatic.com/recaptcha/releases/Br0hYqpfWeFzYCAXLD4UuCIV/recaptcha__en.js","GET","https://www.gstatic.com/recaptcha/releases/Br0hYqpfWeFzYCAXLD4UuCIV/recaptcha__en.js","/recaptcha/releases/Br0hYqpfWeFzYCAXLD4UuCIV/recaptcha__en.js","","{""Host"": ""www.gstatic.com"", ""User-Agent"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"", ""Accept"": ""*/*"", ""X-Client-Data"": ""CKbgygE="", ""Sec-Fetch-Site"": ""cross-site"", ""Sec-Fetch-Mode"": ""no-cors"", ""Sec-Fetch-Dest"": ""script"", ""Sec-Fetch-Storage-Access"": ""active"", ""Referer"": ""https://www.google.com/"", ""Accept-Encoding"": ""gzip, deflate, br"", ""Accept-Language"": ""en-US,en;q=0.9"", ""Priority"": ""u=0, i""}","","GET /recaptcha/releases/Br0hYqpfWeFzYCAXLD4UuCIV/recaptcha__en.js HTTP/2
+Host: www.gstatic.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+Accept: */*
+X-Client-Data: CKbgygE=
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Sec-Fetch-Storage-Access: active
+Referer: https://www.google.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Priority: u=0, i","qldt_ptit_normal"
+"norm_qldt_ptit_000051","0","qldt_ptit_burp","https://www.google.com/recaptcha/api2/webworker.js?hl=en&v=Br0hYqpfWeFzYCAXLD4UuCIV","GET","https://www.google.com/recaptcha/api2/webworker.js?hl=en&v=Br0hYqpfWeFzYCAXLD4UuCIV","/recaptcha/api2/webworker.js","hl=en&v=Br0hYqpfWeFzYCAXLD4UuCIV","{""Host"": ""www.google.com"", ""Cookie"": ""PRESENT"", ""Accept"": ""*/*"", ""X-Client-Data"": ""CKbgygE="", ""Sec-Fetch-Site"": ""same-origin"", ""Sec-Fetch-Mode"": ""same-origin"", ""Sec-Fetch-Dest"": ""worker"", ""Sec-Fetch-Storage-Access"": ""active"", ""Referer"": ""https://www.google.com/recaptcha/api2/anchor?ar=1&k=6LcxvIYsAAAAAKvTs6WWP7aAFUAb4w6aQUBZo5Qi&co=aHR0cHM6Ly9xbGR0LnB0aXQuZWR1LnZuOjQ0Mw..&hl=en&v=Br0hYqpfWeFzYCAXLD4UuCIV&size=invisible&anchor-ms=20000&execute-ms=30000&cb=cf0fy8pigz3b"", ""User-Agent"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"", ""Accept-Encoding"": ""gzip, deflate, br"", ""Accept-Language"": ""en-US,en;q=0.9"", ""Priority"": ""u=4, i""}","","GET /recaptcha/api2/webworker.js?hl=en&v=Br0hYqpfWeFzYCAXLD4UuCIV HTTP/2
+Host: www.google.com
+Cookie: PRESENT
+Accept: */*
+X-Client-Data: CKbgygE=
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: same-origin
+Sec-Fetch-Dest: worker
+Sec-Fetch-Storage-Access: active
+Referer: https://www.google.com/recaptcha/api2/anchor?ar=1&k=6LcxvIYsAAAAAKvTs6WWP7aAFUAb4w6aQUBZo5Qi&co=aHR0cHM6Ly9xbGR0LnB0aXQuZWR1LnZuOjQ0Mw..&hl=en&v=Br0hYqpfWeFzYCAXLD4UuCIV&size=invisible&anchor-ms=20000&execute-ms=30000&cb=cf0fy8pigz3b
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Priority: u=4, i","qldt_ptit_normal"
+"norm_qldt_ptit_000052","0","qldt_ptit_burp","https://www.google.com/recaptcha/api2/anchor?ar=1&k=6LcxvIYsAAAAAKvTs6WWP7aAFUAb4w6aQUBZo5Qi&co=aHR0cHM6Ly9xbGR0LnB0aXQuZWR1LnZuOjQ0Mw..&hl=en&v=Br0hYqpfWeFzYCAXLD4UuCIV&size=invisible&anchor-ms=20000&execute-ms=30000&cb=cf0fy8pigz3b","GET","https://www.google.com/recaptcha/api2/anchor?ar=1&k=6LcxvIYsAAAAAKvTs6WWP7aAFUAb4w6aQUBZo5Qi&co=aHR0cHM6Ly9xbGR0LnB0aXQuZWR1LnZuOjQ0Mw..&hl=en&v=Br0hYqpfWeFzYCAXLD4UuCIV&size=invisible&anchor-ms=20000&execute-ms=30000&cb=cf0fy8pigz3b","/recaptcha/api2/anchor","ar=1&k=6LcxvIYsAAAAAKvTs6WWP7aAFUAb4w6aQUBZo5Qi&co=aHR0cHM6Ly9xbGR0LnB0aXQuZWR1LnZuOjQ0Mw..&hl=en&v=Br0hYqpfWeFzYCAXLD4UuCIV&size=invisible&anchor-ms=20000&execute-ms=30000&cb=cf0fy8pigz3b","{""Host"": ""www.google.com"", ""Cookie"": ""PRESENT"", ""Sec-Ch-Ua"": ""\""Not=A?Brand\"";v=\""24\"", \""Chromium\"";v=\""140\"""", ""Sec-Ch-Ua-Mobile"": ""?0"", ""Sec-Ch-Ua-Platform"": ""\""Linux\"""", ""Accept-Language"": ""en-US,en;q=0.9"", ""Upgrade-Insecure-Requests"": ""1"", ""User-Agent"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"", ""Accept"": ""text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7"", ""X-Client-Data"": ""CKbgygE="", ""Sec-Fetch-Site"": ""cross-site"", ""Sec-Fetch-Mode"": ""navigate"", ""Sec-Fetch-Dest"": ""iframe"", ""Sec-Fetch-Storage-Access"": ""active"", ""Referer"": ""https://qldt.ptit.edu.vn/"", ""Accept-Encoding"": ""gzip, deflate, br"", ""Priority"": ""u=0, i""}","","GET /recaptcha/api2/anchor?ar=1&k=6LcxvIYsAAAAAKvTs6WWP7aAFUAb4w6aQUBZo5Qi&co=aHR0cHM6Ly9xbGR0LnB0aXQuZWR1LnZuOjQ0Mw..&hl=en&v=Br0hYqpfWeFzYCAXLD4UuCIV&size=invisible&anchor-ms=20000&execute-ms=30000&cb=cf0fy8pigz3b HTTP/2
+Host: www.google.com
+Cookie: PRESENT
+Sec-Ch-Ua: ""Not=A?Brand"";v=""24"", ""Chromium"";v=""140""
+Sec-Ch-Ua-Mobile: ?0
+Sec-Ch-Ua-Platform: ""Linux""
+Accept-Language: en-US,en;q=0.9
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+X-Client-Data: CKbgygE=
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Dest: iframe
+Sec-Fetch-Storage-Access: active
+Referer: https://qldt.ptit.edu.vn/
+Accept-Encoding: gzip, deflate, br
+Priority: u=0, i","qldt_ptit_normal"
+"norm_qldt_ptit_000053","0","qldt_ptit_burp","https://qldt.ptit.edu.vn/public/api/sms/w-locthongtinimagesinhvien?MaSV=B23DCAT174","POST","https://qldt.ptit.edu.vn/public/api/sms/w-locthongtinimagesinhvien?MaSV=B23DCAT174","/public/api/sms/w-locthongtinimagesinhvien","MaSV=B23DCAT174","{""Host"": ""qldt.ptit.edu.vn"", ""Cookie"": ""PRESENT"", ""Content-Length"": ""0"", ""Sec-Ch-Ua-Platform"": ""\""Linux\"""", ""Authorization"": ""PRESENT"", ""Idpc"": ""0"", ""Accept-Language"": ""en-US,en;q=0.9"", ""Sec-Ch-Ua"": ""\""Not=A?Brand\"";v=\""24\"", \""Chromium\"";v=\""140\"""", ""Sec-Ch-Ua-Mobile"": ""?0"", ""User-Agent"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"", ""Accept"": ""application/json, text/plain, */*"", ""Content-Type"": ""text/plain"", ""Ua"": ""OW3CgS3DvTTCnMO/w7XDgFRnwoEpw7MzwpHDuMKVwro/ccOmMcKGTMOmwp/CjsK4IhnDpVXChErDqMKKwoHCsg=="", ""Origin"": ""https://qldt.ptit.edu.vn"", ""Sec-Fetch-Site"": ""same-origin"", ""Sec-Fetch-Mode"": ""cors"", ""Sec-Fetch-Dest"": ""empty"", ""Referer"": ""https://qldt.ptit.edu.vn/public/"", ""Accept-Encoding"": ""gzip, deflate, br"", ""Priority"": ""u=1, i""}","","POST /public/api/sms/w-locthongtinimagesinhvien?MaSV=B23DCAT174 HTTP/2
+Host: qldt.ptit.edu.vn
+Cookie: PRESENT
+Content-Length: 0
+Sec-Ch-Ua-Platform: ""Linux""
+Authorization: PRESENT
+Idpc: 0
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: ""Not=A?Brand"";v=""24"", ""Chromium"";v=""140""
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+Accept: application/json, text/plain, */*
+Content-Type: text/plain
+Ua: OW3CgS3DvTTCnMO/w7XDgFRnwoEpw7MzwpHDuMKVwro/ccOmMcKGTMOmwp/CjsK4IhnDpVXChErDqMKKwoHCsg==
+Origin: https://qldt.ptit.edu.vn
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://qldt.ptit.edu.vn/public/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1, i","qldt_ptit_normal"
+"norm_qldt_ptit_000054","0","qldt_ptit_burp","https://qldt.ptit.edu.vn/public/api/web/w-locdsbaidang","POST","https://qldt.ptit.edu.vn/public/api/web/w-locdsbaidang","/public/api/web/w-locdsbaidang","","{""Host"": ""qldt.ptit.edu.vn"", ""Cookie"": ""PRESENT"", ""Content-Length"": ""269"", ""Sec-Ch-Ua-Platform"": ""\""Linux\"""", ""Authorization"": ""PRESENT"", ""Idpc"": ""0"", ""Accept-Language"": ""en-US,en;q=0.9"", ""Sec-Ch-Ua"": ""\""Not=A?Brand\"";v=\""24\"", \""Chromium\"";v=\""140\"""", ""Sec-Ch-Ua-Mobile"": ""?0"", ""User-Agent"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"", ""Accept"": ""application/json, text/plain, */*"", ""Content-Type"": ""application/json"", ""Ua"": ""IsO3csOdw53CiMO+akXDvVbDv3rDmcOSwonDsmghwo8sw6kdw4HCpsOwwoQaJcKIL8KPDsKtwqTDuA=="", ""Origin"": ""https://qldt.ptit.edu.vn"", ""Sec-Fetch-Site"": ""same-origin"", ""Sec-Fetch-Mode"": ""cors"", ""Sec-Fetch-Dest"": ""empty"", ""Referer"": ""https://qldt.ptit.edu.vn/public/"", ""Accept-Encoding"": ""gzip, deflate, br"", ""Priority"": ""u=1, i""}","{""filter"":{""ky_hieu"":"""",""is_hien_thi"":true,""is_hinh_dai_dien"":false,""is_quyen_xem"":true,""is_noi_dung"":false,""is_tom_tat"":false},""additional"":{""paging"":{""limit"":null,""page"":null},""ordering"":[{""name"":""do_uu_tien"",""order_type"":1},{""name"":""ngay_dang_tin"",""order_type"":1}]}}","POST /public/api/web/w-locdsbaidang HTTP/2
+Host: qldt.ptit.edu.vn
+Cookie: PRESENT
+Content-Length: 269
+Sec-Ch-Ua-Platform: ""Linux""
+Authorization: PRESENT
+Idpc: 0
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: ""Not=A?Brand"";v=""24"", ""Chromium"";v=""140""
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+Accept: application/json, text/plain, */*
+Content-Type: application/json
+Ua: IsO3csOdw53CiMO+akXDvVbDv3rDmcOSwonDsmghwo8sw6kdw4HCpsOwwoQaJcKIL8KPDsKtwqTDuA==
+Origin: https://qldt.ptit.edu.vn
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://qldt.ptit.edu.vn/public/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1, i
+
+{""filter"":{""ky_hieu"":"""",""is_hien_thi"":true,""is_hinh_dai_dien"":false,""is_quyen_xem"":true,""is_noi_dung"":false,""is_tom_tat"":false},""additional"":{""paging"":{""limit"":null,""page"":null},""ordering"":[{""name"":""do_uu_tien"",""order_type"":1},{""name"":""ngay_dang_tin"",""order_type"":1}]}}","qldt_ptit_normal"
+"norm_qldt_ptit_000055","0","qldt_ptit_burp","https://qldt.ptit.edu.vn/public/api/web/w-locdsfooter","POST","https://qldt.ptit.edu.vn/public/api/web/w-locdsfooter","/public/api/web/w-locdsfooter","","{""Host"": ""qldt.ptit.edu.vn"", ""Cookie"": ""PRESENT"", ""Content-Length"": ""153"", ""Sec-Ch-Ua-Platform"": ""\""Linux\"""", ""Authorization"": ""PRESENT"", ""Idpc"": ""0"", ""Accept-Language"": ""en-US,en;q=0.9"", ""Sec-Ch-Ua"": ""\""Not=A?Brand\"";v=\""24\"", \""Chromium\"";v=\""140\"""", ""Sec-Ch-Ua-Mobile"": ""?0"", ""User-Agent"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"", ""Accept"": ""application/json, text/plain, */*"", ""Content-Type"": ""application/json"", ""Ua"": ""IsOwf8Odw53CiMO+akXDvVbDv3rDmcOcwovDtGohwo8sw6kdw4HCpsOwwoQaJcKMIcKJHsKpwrg="", ""Origin"": ""https://qldt.ptit.edu.vn"", ""Sec-Fetch-Site"": ""same-origin"", ""Sec-Fetch-Mode"": ""cors"", ""Sec-Fetch-Dest"": ""empty"", ""Referer"": ""https://qldt.ptit.edu.vn/public/"", ""Accept-Encoding"": ""gzip, deflate, br"", ""Priority"": ""u=1, i""}","{""filter"":{""is_tieng_anh"":false,""id"":null,""is_hien_thi"":true},""additional"":{""paging"":{""limit"":50,""page"":1},""ordering"":[{""name"":null,""order_type"":null}]}}","POST /public/api/web/w-locdsfooter HTTP/2
+Host: qldt.ptit.edu.vn
+Cookie: PRESENT
+Content-Length: 153
+Sec-Ch-Ua-Platform: ""Linux""
+Authorization: PRESENT
+Idpc: 0
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: ""Not=A?Brand"";v=""24"", ""Chromium"";v=""140""
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+Accept: application/json, text/plain, */*
+Content-Type: application/json
+Ua: IsOwf8Odw53CiMO+akXDvVbDv3rDmcOcwovDtGohwo8sw6kdw4HCpsOwwoQaJcKMIcKJHsKpwrg=
+Origin: https://qldt.ptit.edu.vn
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://qldt.ptit.edu.vn/public/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1, i
+
+{""filter"":{""is_tieng_anh"":false,""id"":null,""is_hien_thi"":true},""additional"":{""paging"":{""limit"":50,""page"":1},""ordering"":[{""name"":null,""order_type"":null}]}}","qldt_ptit_normal"
+"norm_qldt_ptit_000056","0","qldt_ptit_burp","https://qldt.ptit.edu.vn/public/api/web/w-locdsdienthoaihotro","POST","https://qldt.ptit.edu.vn/public/api/web/w-locdsdienthoaihotro","/public/api/web/w-locdsdienthoaihotro","","{""Host"": ""qldt.ptit.edu.vn"", ""Cookie"": ""PRESENT"", ""Content-Length"": ""132"", ""Sec-Ch-Ua-Platform"": ""\""Linux\"""", ""Authorization"": ""PRESENT"", ""Idpc"": ""0"", ""Accept-Language"": ""en-US,en;q=0.9"", ""Sec-Ch-Ua"": ""\""Not=A?Brand\"";v=\""24\"", \""Chromium\"";v=\""140\"""", ""Sec-Ch-Ua-Mobile"": ""?0"", ""User-Agent"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"", ""Accept"": ""application/json, text/plain, */*"", ""Content-Type"": ""application/json"", ""Ua"": ""Ok53KsOswobCgzc3w7FyQXIuw67ChsKIOlPCgwhXFTbCl8O+w7lHV8KCAz0MT8KTw77Du0pMwok="", ""Origin"": ""https://qldt.ptit.edu.vn"", ""Sec-Fetch-Site"": ""same-origin"", ""Sec-Fetch-Mode"": ""cors"", ""Sec-Fetch-Dest"": ""empty"", ""Referer"": ""https://qldt.ptit.edu.vn/public/"", ""Accept-Encoding"": ""gzip, deflate, br"", ""Priority"": ""u=1, i""}","{""filter"":{""id"":null,""is_hien_thi"":true},""additional"":{""paging"":{""limit"":20,""page"":1},""ordering"":[{""name"":null,""order_type"":null}]}}","POST /public/api/web/w-locdsdienthoaihotro HTTP/2
+Host: qldt.ptit.edu.vn
+Cookie: PRESENT
+Content-Length: 132
+Sec-Ch-Ua-Platform: ""Linux""
+Authorization: PRESENT
+Idpc: 0
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: ""Not=A?Brand"";v=""24"", ""Chromium"";v=""140""
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+Accept: application/json, text/plain, */*
+Content-Type: application/json
+Ua: Ok53KsOswobCgzc3w7FyQXIuw67ChsKIOlPCgwhXFTbCl8O+w7lHV8KCAz0MT8KTw77Du0pMwok=
+Origin: https://qldt.ptit.edu.vn
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://qldt.ptit.edu.vn/public/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1, i
+
+{""filter"":{""id"":null,""is_hien_thi"":true},""additional"":{""paging"":{""limit"":20,""page"":1},""ordering"":[{""name"":null,""order_type"":null}]}}","qldt_ptit_normal"
+"norm_qldt_ptit_000057","0","qldt_ptit_burp","https://qldt.ptit.edu.vn/public/api/web/w-locdsbanner","POST","https://qldt.ptit.edu.vn/public/api/web/w-locdsbanner","/public/api/web/w-locdsbanner","","{""Host"": ""qldt.ptit.edu.vn"", ""Cookie"": ""PRESENT"", ""Content-Length"": ""154"", ""Sec-Ch-Ua-Platform"": ""\""Linux\"""", ""Authorization"": ""PRESENT"", ""Idpc"": ""0"", ""Accept-Language"": ""en-US,en;q=0.9"", ""Sec-Ch-Ua"": ""\""Not=A?Brand\"";v=\""24\"", \""Chromium\"";v=\""140\"""", ""Sec-Ch-Ua-Mobile"": ""?0"", ""User-Agent"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"", ""Accept"": ""application/json, text/plain, */*"", ""Content-Type"": ""application/json"", ""Ua"": ""KnZ8WT3DnXtRw7TDrBh9el0/w557VsKQwp5iax1FRsKlASHClMKZYQoELVg="", ""Origin"": ""https://qldt.ptit.edu.vn"", ""Sec-Fetch-Site"": ""same-origin"", ""Sec-Fetch-Mode"": ""cors"", ""Sec-Fetch-Dest"": ""empty"", ""Referer"": ""https://qldt.ptit.edu.vn/public/"", ""Accept-Encoding"": ""gzip, deflate, br"", ""Priority"": ""u=1, i""}","{""filter"":{""is_tieng_anh"":false,""id"":null,""is_hien_thi"":true},""additional"":{""paging"":{""limit"":100,""page"":1},""ordering"":[{""name"":null,""order_type"":null}]}}","POST /public/api/web/w-locdsbanner HTTP/2
+Host: qldt.ptit.edu.vn
+Cookie: PRESENT
+Content-Length: 154
+Sec-Ch-Ua-Platform: ""Linux""
+Authorization: PRESENT
+Idpc: 0
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: ""Not=A?Brand"";v=""24"", ""Chromium"";v=""140""
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+Accept: application/json, text/plain, */*
+Content-Type: application/json
+Ua: KnZ8WT3DnXtRw7TDrBh9el0/w557VsKQwp5iax1FRsKlASHClMKZYQoELVg=
+Origin: https://qldt.ptit.edu.vn
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://qldt.ptit.edu.vn/public/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1, i
+
+{""filter"":{""is_tieng_anh"":false,""id"":null,""is_hien_thi"":true},""additional"":{""paging"":{""limit"":100,""page"":1},""ordering"":[{""name"":null,""order_type"":null}]}}","qldt_ptit_normal"
+"norm_qldt_ptit_000058","0","qldt_ptit_burp","https://qldt.ptit.edu.vn/public/api/fileManager?src=giangvien/ImgError/ImgError.png","GET","https://qldt.ptit.edu.vn/public/api/fileManager?src=giangvien/ImgError/ImgError.png","/public/api/fileManager","src=giangvien/ImgError/ImgError.png","{""Host"": ""qldt.ptit.edu.vn"", ""Cookie"": ""PRESENT"", ""Sec-Ch-Ua-Platform"": ""\""Linux\"""", ""Accept-Language"": ""en-US,en;q=0.9"", ""Sec-Ch-Ua"": ""\""Not=A?Brand\"";v=\""24\"", \""Chromium\"";v=\""140\"""", ""User-Agent"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"", ""Sec-Ch-Ua-Mobile"": ""?0"", ""Accept"": ""image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"", ""Sec-Fetch-Site"": ""same-origin"", ""Sec-Fetch-Mode"": ""no-cors"", ""Sec-Fetch-Dest"": ""image"", ""Referer"": ""https://qldt.ptit.edu.vn/public/"", ""Accept-Encoding"": ""gzip, deflate, br"", ""Priority"": ""i""}","","GET /public/api/fileManager?src=giangvien/ImgError/ImgError.png HTTP/2
+Host: qldt.ptit.edu.vn
+Cookie: PRESENT
+Sec-Ch-Ua-Platform: ""Linux""
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: ""Not=A?Brand"";v=""24"", ""Chromium"";v=""140""
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+Sec-Ch-Ua-Mobile: ?0
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://qldt.ptit.edu.vn/public/
+Accept-Encoding: gzip, deflate, br
+Priority: i","qldt_ptit_normal"
+"norm_qldt_ptit_000059","0","qldt_ptit_burp","https://qldt.ptit.edu.vn/public/7468.72059d4b2be46926.js","GET","https://qldt.ptit.edu.vn/public/7468.72059d4b2be46926.js","/public/7468.72059d4b2be46926.js","","{""Host"": ""qldt.ptit.edu.vn"", ""Cookie"": ""PRESENT"", ""Origin"": ""https://qldt.ptit.edu.vn"", ""Sec-Ch-Ua-Platform"": ""\""Linux\"""", ""Accept-Language"": ""en-US,en;q=0.9"", ""Sec-Ch-Ua"": ""\""Not=A?Brand\"";v=\""24\"", \""Chromium\"";v=\""140\"""", ""User-Agent"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"", ""Sec-Ch-Ua-Mobile"": ""?0"", ""Accept"": ""*/*"", ""Sec-Fetch-Site"": ""same-origin"", ""Sec-Fetch-Mode"": ""cors"", ""Sec-Fetch-Dest"": ""script"", ""Referer"": ""https://qldt.ptit.edu.vn/public/"", ""Accept-Encoding"": ""gzip, deflate, br"", ""Priority"": ""u=1""}","","GET /public/7468.72059d4b2be46926.js HTTP/2
+Host: qldt.ptit.edu.vn
+Cookie: PRESENT
+Origin: https://qldt.ptit.edu.vn
+Sec-Ch-Ua-Platform: ""Linux""
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: ""Not=A?Brand"";v=""24"", ""Chromium"";v=""140""
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+Sec-Ch-Ua-Mobile: ?0
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: script
+Referer: https://qldt.ptit.edu.vn/public/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1","qldt_ptit_normal"
+"norm_qldt_ptit_000060","0","qldt_ptit_burp","https://qldt.ptit.edu.vn/public/common.82d034015170b3d1.js","GET","https://qldt.ptit.edu.vn/public/common.82d034015170b3d1.js","/public/common.82d034015170b3d1.js","","{""Host"": ""qldt.ptit.edu.vn"", ""Cookie"": ""PRESENT"", ""Origin"": ""https://qldt.ptit.edu.vn"", ""Sec-Ch-Ua-Platform"": ""\""Linux\"""", ""Accept-Language"": ""en-US,en;q=0.9"", ""Sec-Ch-Ua"": ""\""Not=A?Brand\"";v=\""24\"", \""Chromium\"";v=\""140\"""", ""User-Agent"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"", ""Sec-Ch-Ua-Mobile"": ""?0"", ""Accept"": ""*/*"", ""Sec-Fetch-Site"": ""same-origin"", ""Sec-Fetch-Mode"": ""cors"", ""Sec-Fetch-Dest"": ""script"", ""Referer"": ""https://qldt.ptit.edu.vn/public/"", ""Accept-Encoding"": ""gzip, deflate, br"", ""Priority"": ""u=1""}","","GET /public/common.82d034015170b3d1.js HTTP/2
+Host: qldt.ptit.edu.vn
+Cookie: PRESENT
+Origin: https://qldt.ptit.edu.vn
+Sec-Ch-Ua-Platform: ""Linux""
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: ""Not=A?Brand"";v=""24"", ""Chromium"";v=""140""
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+Sec-Ch-Ua-Mobile: ?0
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: script
+Referer: https://qldt.ptit.edu.vn/public/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1","qldt_ptit_normal"
+"norm_qldt_ptit_000061","0","qldt_ptit_burp","https://qldt.ptit.edu.vn/public/8856.5494b895f8d73343.js","GET","https://qldt.ptit.edu.vn/public/8856.5494b895f8d73343.js","/public/8856.5494b895f8d73343.js","","{""Host"": ""qldt.ptit.edu.vn"", ""Cookie"": ""PRESENT"", ""Origin"": ""https://qldt.ptit.edu.vn"", ""Sec-Ch-Ua-Platform"": ""\""Linux\"""", ""Accept-Language"": ""en-US,en;q=0.9"", ""Sec-Ch-Ua"": ""\""Not=A?Brand\"";v=\""24\"", \""Chromium\"";v=\""140\"""", ""User-Agent"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"", ""Sec-Ch-Ua-Mobile"": ""?0"", ""Accept"": ""*/*"", ""Sec-Fetch-Site"": ""same-origin"", ""Sec-Fetch-Mode"": ""cors"", ""Sec-Fetch-Dest"": ""script"", ""Referer"": ""https://qldt.ptit.edu.vn/public/"", ""Accept-Encoding"": ""gzip, deflate, br"", ""Priority"": ""u=1""}","","GET /public/8856.5494b895f8d73343.js HTTP/2
+Host: qldt.ptit.edu.vn
+Cookie: PRESENT
+Origin: https://qldt.ptit.edu.vn
+Sec-Ch-Ua-Platform: ""Linux""
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: ""Not=A?Brand"";v=""24"", ""Chromium"";v=""140""
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+Sec-Ch-Ua-Mobile: ?0
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: script
+Referer: https://qldt.ptit.edu.vn/public/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1","qldt_ptit_normal"
+"norm_qldt_ptit_000062","0","qldt_ptit_burp","https://qldt.ptit.edu.vn/public/4080.f4862e2ff81054e3.js","GET","https://qldt.ptit.edu.vn/public/4080.f4862e2ff81054e3.js","/public/4080.f4862e2ff81054e3.js","","{""Host"": ""qldt.ptit.edu.vn"", ""Cookie"": ""PRESENT"", ""Origin"": ""https://qldt.ptit.edu.vn"", ""Sec-Ch-Ua-Platform"": ""\""Linux\"""", ""Accept-Language"": ""en-US,en;q=0.9"", ""Sec-Ch-Ua"": ""\""Not=A?Brand\"";v=\""24\"", \""Chromium\"";v=\""140\"""", ""User-Agent"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"", ""Sec-Ch-Ua-Mobile"": ""?0"", ""Accept"": ""*/*"", ""Sec-Fetch-Site"": ""same-origin"", ""Sec-Fetch-Mode"": ""cors"", ""Sec-Fetch-Dest"": ""script"", ""Referer"": ""https://qldt.ptit.edu.vn/public/"", ""Accept-Encoding"": ""gzip, deflate, br"", ""Priority"": ""u=1""}","","GET /public/4080.f4862e2ff81054e3.js HTTP/2
+Host: qldt.ptit.edu.vn
+Cookie: PRESENT
+Origin: https://qldt.ptit.edu.vn
+Sec-Ch-Ua-Platform: ""Linux""
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: ""Not=A?Brand"";v=""24"", ""Chromium"";v=""140""
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+Sec-Ch-Ua-Mobile: ?0
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: script
+Referer: https://qldt.ptit.edu.vn/public/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1","qldt_ptit_normal"
+"norm_qldt_ptit_000063","0","qldt_ptit_burp","https://qldt.ptit.edu.vn/public/6137.3a3b82a06a9193a6.js","GET","https://qldt.ptit.edu.vn/public/6137.3a3b82a06a9193a6.js","/public/6137.3a3b82a06a9193a6.js","","{""Host"": ""qldt.ptit.edu.vn"", ""Cookie"": ""PRESENT"", ""Origin"": ""https://qldt.ptit.edu.vn"", ""Sec-Ch-Ua-Platform"": ""\""Linux\"""", ""Accept-Language"": ""en-US,en;q=0.9"", ""Sec-Ch-Ua"": ""\""Not=A?Brand\"";v=\""24\"", \""Chromium\"";v=\""140\"""", ""User-Agent"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"", ""Sec-Ch-Ua-Mobile"": ""?0"", ""Accept"": ""*/*"", ""Sec-Fetch-Site"": ""same-origin"", ""Sec-Fetch-Mode"": ""cors"", ""Sec-Fetch-Dest"": ""script"", ""Referer"": ""https://qldt.ptit.edu.vn/public/"", ""Accept-Encoding"": ""gzip, deflate, br"", ""Priority"": ""u=1""}","","GET /public/6137.3a3b82a06a9193a6.js HTTP/2
+Host: qldt.ptit.edu.vn
+Cookie: PRESENT
+Origin: https://qldt.ptit.edu.vn
+Sec-Ch-Ua-Platform: ""Linux""
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: ""Not=A?Brand"";v=""24"", ""Chromium"";v=""140""
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+Sec-Ch-Ua-Mobile: ?0
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: script
+Referer: https://qldt.ptit.edu.vn/public/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1","qldt_ptit_normal"
+"norm_qldt_ptit_000064","0","qldt_ptit_burp","https://qldt.ptit.edu.vn/public/8396.8da185e05f95b214.js","GET","https://qldt.ptit.edu.vn/public/8396.8da185e05f95b214.js","/public/8396.8da185e05f95b214.js","","{""Host"": ""qldt.ptit.edu.vn"", ""Cookie"": ""PRESENT"", ""Origin"": ""https://qldt.ptit.edu.vn"", ""Sec-Ch-Ua-Platform"": ""\""Linux\"""", ""Accept-Language"": ""en-US,en;q=0.9"", ""Sec-Ch-Ua"": ""\""Not=A?Brand\"";v=\""24\"", \""Chromium\"";v=\""140\"""", ""User-Agent"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"", ""Sec-Ch-Ua-Mobile"": ""?0"", ""Accept"": ""*/*"", ""Sec-Fetch-Site"": ""same-origin"", ""Sec-Fetch-Mode"": ""cors"", ""Sec-Fetch-Dest"": ""script"", ""Referer"": ""https://qldt.ptit.edu.vn/public/"", ""Accept-Encoding"": ""gzip, deflate, br"", ""Priority"": ""u=1""}","","GET /public/8396.8da185e05f95b214.js HTTP/2
+Host: qldt.ptit.edu.vn
+Cookie: PRESENT
+Origin: https://qldt.ptit.edu.vn
+Sec-Ch-Ua-Platform: ""Linux""
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: ""Not=A?Brand"";v=""24"", ""Chromium"";v=""140""
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+Sec-Ch-Ua-Mobile: ?0
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: script
+Referer: https://qldt.ptit.edu.vn/public/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1","qldt_ptit_normal"
+"norm_qldt_ptit_000065","0","qldt_ptit_burp","https://qldt.ptit.edu.vn/public/api/web/w-locdschucnang","POST","https://qldt.ptit.edu.vn/public/api/web/w-locdschucnang","/public/api/web/w-locdschucnang","","{""Host"": ""qldt.ptit.edu.vn"", ""Cookie"": ""PRESENT"", ""Content-Length"": ""0"", ""Sec-Ch-Ua-Platform"": ""\""Linux\"""", ""Authorization"": ""PRESENT"", ""Idpc"": ""0"", ""Accept-Language"": ""en-US,en;q=0.9"", ""Sec-Ch-Ua"": ""\""Not=A?Brand\"";v=\""24\"", \""Chromium\"";v=\""140\"""", ""Sec-Ch-Ua-Mobile"": ""?0"", ""User-Agent"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"", ""Accept"": ""application/json, text/plain, */*"", ""Content-Type"": ""text/plain"", ""Ua"": ""LcO8w7bDhlvDm0FHwowsPsOyw7bDhl7DmUpLw6heRMOkwpHDmiDCozs3w6xYTsKewoXCuS3Coj8="", ""Origin"": ""https://qldt.ptit.edu.vn"", ""Sec-Fetch-Site"": ""same-origin"", ""Sec-Fetch-Mode"": ""cors"", ""Sec-Fetch-Dest"": ""empty"", ""Referer"": ""https://qldt.ptit.edu.vn/public/"", ""Accept-Encoding"": ""gzip, deflate, br"", ""Priority"": ""u=1, i""}","","POST /public/api/web/w-locdschucnang HTTP/2
+Host: qldt.ptit.edu.vn
+Cookie: PRESENT
+Content-Length: 0
+Sec-Ch-Ua-Platform: ""Linux""
+Authorization: PRESENT
+Idpc: 0
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: ""Not=A?Brand"";v=""24"", ""Chromium"";v=""140""
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+Accept: application/json, text/plain, */*
+Content-Type: text/plain
+Ua: LcO8w7bDhlvDm0FHwowsPsOyw7bDhl7DmUpLw6heRMOkwpHDmiDCozs3w6xYTsKewoXCuS3Coj8=
+Origin: https://qldt.ptit.edu.vn
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://qldt.ptit.edu.vn/public/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1, i","qldt_ptit_normal"
+"norm_qldt_ptit_000066","0","qldt_ptit_burp","https://qldt.ptit.edu.vn/public/api/web/w-luungonngu?is_tieng_anh=false","POST","https://qldt.ptit.edu.vn/public/api/web/w-luungonngu?is_tieng_anh=false","/public/api/web/w-luungonngu","is_tieng_anh=false","{""Host"": ""qldt.ptit.edu.vn"", ""Cookie"": ""PRESENT"", ""Content-Length"": ""0"", ""Sec-Ch-Ua-Platform"": ""\""Linux\"""", ""Authorization"": ""PRESENT"", ""Idpc"": ""0"", ""Accept-Language"": ""en-US,en;q=0.9"", ""Sec-Ch-Ua"": ""\""Not=A?Brand\"";v=\""24\"", \""Chromium\"";v=\""140\"""", ""Sec-Ch-Ua-Mobile"": ""?0"", ""User-Agent"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"", ""Accept"": ""application/json, text/plain, */*"", ""Content-Type"": ""text/plain"", ""Ua"": ""NQnDv3XDgH1VXMOfPUAHw7Z1w4V4WV7Cu086EcKRacK7HzkmwqtFNnDCgRHDiAM/N8K4Qw=="", ""Origin"": ""https://qldt.ptit.edu.vn"", ""Sec-Fetch-Site"": ""same-origin"", ""Sec-Fetch-Mode"": ""cors"", ""Sec-Fetch-Dest"": ""empty"", ""Referer"": ""https://qldt.ptit.edu.vn/public/"", ""Accept-Encoding"": ""gzip, deflate, br"", ""Priority"": ""u=1, i""}","","POST /public/api/web/w-luungonngu?is_tieng_anh=false HTTP/2
+Host: qldt.ptit.edu.vn
+Cookie: PRESENT
+Content-Length: 0
+Sec-Ch-Ua-Platform: ""Linux""
+Authorization: PRESENT
+Idpc: 0
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: ""Not=A?Brand"";v=""24"", ""Chromium"";v=""140""
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+Accept: application/json, text/plain, */*
+Content-Type: text/plain
+Ua: NQnDv3XDgH1VXMOfPUAHw7Z1w4V4WV7Cu086EcKRacK7HzkmwqtFNnDCgRHDiAM/N8K4Qw==
+Origin: https://qldt.ptit.edu.vn
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://qldt.ptit.edu.vn/public/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1, i","qldt_ptit_normal"
+"norm_qldt_ptit_000067","0","qldt_ptit_burp","https://qldt.ptit.edu.vn/public/api/dkmh/w-locsinhvieninfo","POST","https://qldt.ptit.edu.vn/public/api/dkmh/w-locsinhvieninfo","/public/api/dkmh/w-locsinhvieninfo","","{""Host"": ""qldt.ptit.edu.vn"", ""Cookie"": ""PRESENT"", ""Content-Length"": ""0"", ""Sec-Ch-Ua-Platform"": ""\""Linux\"""", ""Authorization"": ""PRESENT"", ""Idpc"": ""0"", ""Accept-Language"": ""en-US,en;q=0.9"", ""Sec-Ch-Ua"": ""\""Not=A?Brand\"";v=\""24\"", \""Chromium\"";v=\""140\"""", ""Sec-Ch-Ua-Mobile"": ""?0"", ""User-Agent"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"", ""Accept"": ""application/json, text/plain, */*"", ""Content-Type"": ""text/plain"", ""Ua"": ""LsKAwogyM8Oxc8OYw5nCiMO/wojCijI2w7Z8w5XCrsO0worDucKVVCnCigXCr8K5w7bCicO5w6xKQcKIA8KiwqzDsA=="", ""Origin"": ""https://qldt.ptit.edu.vn"", ""Sec-Fetch-Site"": ""same-origin"", ""Sec-Fetch-Mode"": ""cors"", ""Sec-Fetch-Dest"": ""empty"", ""Referer"": ""https://qldt.ptit.edu.vn/public/"", ""Accept-Encoding"": ""gzip, deflate, br"", ""Priority"": ""u=1, i""}","","POST /public/api/dkmh/w-locsinhvieninfo HTTP/2
+Host: qldt.ptit.edu.vn
+Cookie: PRESENT
+Content-Length: 0
+Sec-Ch-Ua-Platform: ""Linux""
+Authorization: PRESENT
+Idpc: 0
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: ""Not=A?Brand"";v=""24"", ""Chromium"";v=""140""
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+Accept: application/json, text/plain, */*
+Content-Type: text/plain
+Ua: LsKAwogyM8Oxc8OYw5nCiMO/wojCijI2w7Z8w5XCrsO0worDucKVVCnCigXCr8K5w7bCicO5w6xKQcKIA8KiwqzDsA==
+Origin: https://qldt.ptit.edu.vn
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://qldt.ptit.edu.vn/public/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1, i","qldt_ptit_normal"
+"norm_qldt_ptit_000068","0","qldt_ptit_burp","https://www.google.com/recaptcha/api.js?render=6LcxvIYsAAAAAKvTs6WWP7aAFUAb4w6aQUBZo5Qi&onload=ng2recaptchaloaded","GET","https://www.google.com/recaptcha/api.js?render=6LcxvIYsAAAAAKvTs6WWP7aAFUAb4w6aQUBZo5Qi&onload=ng2recaptchaloaded","/recaptcha/api.js","render=6LcxvIYsAAAAAKvTs6WWP7aAFUAb4w6aQUBZo5Qi&onload=ng2recaptchaloaded","{""Host"": ""www.google.com"", ""Cookie"": ""PRESENT"", ""Sec-Ch-Ua-Platform"": ""\""Linux\"""", ""Accept-Language"": ""en-US,en;q=0.9"", ""Sec-Ch-Ua"": ""\""Not=A?Brand\"";v=\""24\"", \""Chromium\"";v=\""140\"""", ""User-Agent"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"", ""Sec-Ch-Ua-Mobile"": ""?0"", ""Accept"": ""*/*"", ""X-Client-Data"": ""CKbgygE="", ""Sec-Fetch-Site"": ""cross-site"", ""Sec-Fetch-Mode"": ""no-cors"", ""Sec-Fetch-Dest"": ""script"", ""Sec-Fetch-Storage-Access"": ""active"", ""Referer"": ""https://qldt.ptit.edu.vn/"", ""Accept-Encoding"": ""gzip, deflate, br""}","","GET /recaptcha/api.js?render=6LcxvIYsAAAAAKvTs6WWP7aAFUAb4w6aQUBZo5Qi&onload=ng2recaptchaloaded HTTP/2
+Host: www.google.com
+Cookie: PRESENT
+Sec-Ch-Ua-Platform: ""Linux""
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: ""Not=A?Brand"";v=""24"", ""Chromium"";v=""140""
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+Sec-Ch-Ua-Mobile: ?0
+Accept: */*
+X-Client-Data: CKbgygE=
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Sec-Fetch-Storage-Access: active
+Referer: https://qldt.ptit.edu.vn/
+Accept-Encoding: gzip, deflate, br","qldt_ptit_normal"
+"norm_qldt_ptit_000069","0","qldt_ptit_burp","https://qldt.ptit.edu.vn/public/api/web/w-locdssettinglayout","POST","https://qldt.ptit.edu.vn/public/api/web/w-locdssettinglayout","/public/api/web/w-locdssettinglayout","","{""Host"": ""qldt.ptit.edu.vn"", ""Cookie"": ""PRESENT"", ""Content-Length"": ""142"", ""Sec-Ch-Ua-Platform"": ""\""Linux\"""", ""Authorization"": ""PRESENT"", ""Idpc"": ""0"", ""Accept-Language"": ""en-US,en;q=0.9"", ""Sec-Ch-Ua"": ""\""Not=A?Brand\"";v=\""24\"", \""Chromium\"";v=\""140\"""", ""Sec-Ch-Ua-Mobile"": ""?0"", ""User-Agent"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"", ""Accept"": ""application/json, text/plain, */*"", ""Content-Type"": ""application/json"", ""Ua"": ""IUvCjCoxacKIKMO5NMKdS8KGIzNpwocuwp1Gw6dcw6g2ShHDsljCmVDDoCfDq1JIGcO9XcKTTA=="", ""Origin"": ""https://qldt.ptit.edu.vn"", ""Sec-Fetch-Site"": ""same-origin"", ""Sec-Fetch-Mode"": ""cors"", ""Sec-Fetch-Dest"": ""empty"", ""Referer"": ""https://qldt.ptit.edu.vn/public/"", ""Accept-Encoding"": ""gzip, deflate, br"", ""Priority"": ""u=1, i""}","{""filter"":{""is_tieng_anh"":false,""is_Admin"":false},""additional"":{""paging"":{""limit"":100,""page"":1},""ordering"":[{""name"":null,""order_type"":null}]}}","POST /public/api/web/w-locdssettinglayout HTTP/2
+Host: qldt.ptit.edu.vn
+Cookie: PRESENT
+Content-Length: 142
+Sec-Ch-Ua-Platform: ""Linux""
+Authorization: PRESENT
+Idpc: 0
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: ""Not=A?Brand"";v=""24"", ""Chromium"";v=""140""
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+Accept: application/json, text/plain, */*
+Content-Type: application/json
+Ua: IUvCjCoxacKIKMO5NMKdS8KGIzNpwocuwp1Gw6dcw6g2ShHDsljCmVDDoCfDq1JIGcO9XcKTTA==
+Origin: https://qldt.ptit.edu.vn
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://qldt.ptit.edu.vn/public/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1, i
+
+{""filter"":{""is_tieng_anh"":false,""is_Admin"":false},""additional"":{""paging"":{""limit"":100,""page"":1},""ordering"":[{""name"":null,""order_type"":null}]}}","qldt_ptit_normal"
+"norm_qldt_ptit_000070","0","qldt_ptit_burp","https://qldt.ptit.edu.vn/public/api/web/w-locdssettingtruong","POST","https://qldt.ptit.edu.vn/public/api/web/w-locdssettingtruong","/public/api/web/w-locdssettingtruong","","{""Host"": ""qldt.ptit.edu.vn"", ""Cookie"": ""PRESENT"", ""Content-Length"": ""123"", ""Sec-Ch-Ua-Platform"": ""\""Linux\"""", ""Authorization"": ""PRESENT"", ""Idpc"": ""0"", ""Accept-Language"": ""en-US,en;q=0.9"", ""Sec-Ch-Ua"": ""\""Not=A?Brand\"";v=\""24\"", \""Chromium\"";v=\""140\"""", ""Sec-Ch-Ua-Mobile"": ""?0"", ""User-Agent"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"", ""Accept"": ""application/json, text/plain, */*"", ""Content-Type"": ""application/json"", ""Ua"": ""LEzDmUJ1wohcL8O0McOjQMOTS3fCiV0swpBDwplXwr1eDsOwJl/ClFXCnizCvjoMw7gxScKSSQ=="", ""Origin"": ""https://qldt.ptit.edu.vn"", ""Sec-Fetch-Site"": ""same-origin"", ""Sec-Fetch-Mode"": ""cors"", ""Sec-Fetch-Dest"": ""empty"", ""Referer"": ""https://qldt.ptit.edu.vn/public/"", ""Accept-Encoding"": ""gzip, deflate, br"", ""Priority"": ""u=1, i""}","{""filter"":{""is_tieng_anh"":false},""additional"":{""paging"":{""limit"":1,""page"":1},""ordering"":[{""name"":null,""order_type"":null}]}}","POST /public/api/web/w-locdssettingtruong HTTP/2
+Host: qldt.ptit.edu.vn
+Cookie: PRESENT
+Content-Length: 123
+Sec-Ch-Ua-Platform: ""Linux""
+Authorization: PRESENT
+Idpc: 0
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: ""Not=A?Brand"";v=""24"", ""Chromium"";v=""140""
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+Accept: application/json, text/plain, */*
+Content-Type: application/json
+Ua: LEzDmUJ1wohcL8O0McOjQMOTS3fCiV0swpBDwplXwr1eDsOwJl/ClFXCnizCvjoMw7gxScKSSQ==
+Origin: https://qldt.ptit.edu.vn
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://qldt.ptit.edu.vn/public/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1, i
+
+{""filter"":{""is_tieng_anh"":false},""additional"":{""paging"":{""limit"":1,""page"":1},""ordering"":[{""name"":null,""order_type"":null}]}}","qldt_ptit_normal"
+"norm_qldt_ptit_000071","0","qldt_ptit_burp","https://qldt.ptit.edu.vn/public/signalr/start?transport=webSockets&clientProtocol=2.1&connectionToken=4cGZZZ7zFYFDbbzj6E6OBjDeV3SsIUi4liWkOa0ndPQG4tMR854j3shMWq8cBGGDMWd5Lhf5An2yHm02ID2c2ml%2BrO7aWXhaulAU%2F3uZ48%2FNJOP3uRz56wB0EIb0Nhlz&connectionData=%5B%7B%22name%22%3A%22loginsstat%22%7D%5D&_=1779437887761","GET","https://qldt.ptit.edu.vn/public/signalr/start?transport=webSockets&clientProtocol=2.1&connectionToken=4cGZZZ7zFYFDbbzj6E6OBjDeV3SsIUi4liWkOa0ndPQG4tMR854j3shMWq8cBGGDMWd5Lhf5An2yHm02ID2c2ml%2BrO7aWXhaulAU%2F3uZ48%2FNJOP3uRz56wB0EIb0Nhlz&connectionData=%5B%7B%22name%22%3A%22loginsstat%22%7D%5D&_=1779437887761","/public/signalr/start","transport=webSockets&clientProtocol=2.1&connectionToken=4cGZZZ7zFYFDbbzj6E6OBjDeV3SsIUi4liWkOa0ndPQG4tMR854j3shMWq8cBGGDMWd5Lhf5An2yHm02ID2c2ml%2BrO7aWXhaulAU%2F3uZ48%2FNJOP3uRz56wB0EIb0Nhlz&connectionData=%5B%7B%22name%22%3A%22loginsstat%22%7D%5D&_=1779437887761","{""Host"": ""qldt.ptit.edu.vn"", ""Cookie"": ""PRESENT"", ""Sec-Ch-Ua-Platform"": ""\""Linux\"""", ""Accept-Language"": ""en-US,en;q=0.9"", ""Sec-Ch-Ua"": ""\""Not=A?Brand\"";v=\""24\"", \""Chromium\"";v=\""140\"""", ""Sec-Ch-Ua-Mobile"": ""?0"", ""X-Requested-With"": ""XMLHttpRequest"", ""User-Agent"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"", ""Accept"": ""text/plain, */*; q=0.01"", ""Content-Type"": ""application/json; charset=UTF-8"", ""Sec-Fetch-Site"": ""same-origin"", ""Sec-Fetch-Mode"": ""cors"", ""Sec-Fetch-Dest"": ""empty"", ""Referer"": ""https://qldt.ptit.edu.vn/public/"", ""Accept-Encoding"": ""gzip, deflate, br"", ""Priority"": ""u=1, i""}","","GET /public/signalr/start?transport=webSockets&clientProtocol=2.1&connectionToken=4cGZZZ7zFYFDbbzj6E6OBjDeV3SsIUi4liWkOa0ndPQG4tMR854j3shMWq8cBGGDMWd5Lhf5An2yHm02ID2c2ml%2BrO7aWXhaulAU%2F3uZ48%2FNJOP3uRz56wB0EIb0Nhlz&connectionData=%5B%7B%22name%22%3A%22loginsstat%22%7D%5D&_=1779437887761 HTTP/2
+Host: qldt.ptit.edu.vn
+Cookie: PRESENT
+Sec-Ch-Ua-Platform: ""Linux""
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: ""Not=A?Brand"";v=""24"", ""Chromium"";v=""140""
+Sec-Ch-Ua-Mobile: ?0
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+Accept: text/plain, */*; q=0.01
+Content-Type: application/json; charset=UTF-8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://qldt.ptit.edu.vn/public/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1, i","qldt_ptit_normal"
+"norm_qldt_ptit_000072","0","qldt_ptit_burp","https://qldt.ptit.edu.vn/public/signalr/connect?transport=webSockets&clientProtocol=2.1&connectionToken=4cGZZZ7zFYFDbbzj6E6OBjDeV3SsIUi4liWkOa0ndPQG4tMR854j3shMWq8cBGGDMWd5Lhf5An2yHm02ID2c2ml%2BrO7aWXhaulAU%2F3uZ48%2FNJOP3uRz56wB0EIb0Nhlz&connectionData=%5B%7B%22name%22%3A%22loginsstat%22%7D%5D&tid=4","GET","https://qldt.ptit.edu.vn/public/signalr/connect?transport=webSockets&clientProtocol=2.1&connectionToken=4cGZZZ7zFYFDbbzj6E6OBjDeV3SsIUi4liWkOa0ndPQG4tMR854j3shMWq8cBGGDMWd5Lhf5An2yHm02ID2c2ml%2BrO7aWXhaulAU%2F3uZ48%2FNJOP3uRz56wB0EIb0Nhlz&connectionData=%5B%7B%22name%22%3A%22loginsstat%22%7D%5D&tid=4","/public/signalr/connect","transport=webSockets&clientProtocol=2.1&connectionToken=4cGZZZ7zFYFDbbzj6E6OBjDeV3SsIUi4liWkOa0ndPQG4tMR854j3shMWq8cBGGDMWd5Lhf5An2yHm02ID2c2ml%2BrO7aWXhaulAU%2F3uZ48%2FNJOP3uRz56wB0EIb0Nhlz&connectionData=%5B%7B%22name%22%3A%22loginsstat%22%7D%5D&tid=4","{""Host"": ""qldt.ptit.edu.vn"", ""Connection"": ""Upgrade"", ""Pragma"": ""no-cache"", ""Cache-Control"": ""no-cache"", ""User-Agent"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"", ""Upgrade"": ""websocket"", ""Origin"": ""https://qldt.ptit.edu.vn"", ""Sec-WebSocket-Version"": ""13"", ""Accept-Encoding"": ""gzip, deflate, br"", ""Accept-Language"": ""en-US,en;q=0.9"", ""Cookie"": ""PRESENT"", ""Sec-WebSocket-Key"": ""FowecQyoQ9N5cPHRMDDRlg==""}","","GET /public/signalr/connect?transport=webSockets&clientProtocol=2.1&connectionToken=4cGZZZ7zFYFDbbzj6E6OBjDeV3SsIUi4liWkOa0ndPQG4tMR854j3shMWq8cBGGDMWd5Lhf5An2yHm02ID2c2ml%2BrO7aWXhaulAU%2F3uZ48%2FNJOP3uRz56wB0EIb0Nhlz&connectionData=%5B%7B%22name%22%3A%22loginsstat%22%7D%5D&tid=4 HTTP/1.1
+Host: qldt.ptit.edu.vn
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+Upgrade: websocket
+Origin: https://qldt.ptit.edu.vn
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: PRESENT
+Sec-WebSocket-Key: FowecQyoQ9N5cPHRMDDRlg==","qldt_ptit_normal"
+"norm_qldt_ptit_000073","0","qldt_ptit_burp","https://qldt.ptit.edu.vn/public/favicon.ico","GET","https://qldt.ptit.edu.vn/public/favicon.ico","/public/favicon.ico","","{""Host"": ""qldt.ptit.edu.vn"", ""Cookie"": ""PRESENT"", ""Sec-Ch-Ua-Platform"": ""\""Linux\"""", ""Accept-Language"": ""en-US,en;q=0.9"", ""Sec-Ch-Ua"": ""\""Not=A?Brand\"";v=\""24\"", \""Chromium\"";v=\""140\"""", ""User-Agent"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"", ""Sec-Ch-Ua-Mobile"": ""?0"", ""Accept"": ""image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"", ""Sec-Fetch-Site"": ""same-origin"", ""Sec-Fetch-Mode"": ""no-cors"", ""Sec-Fetch-Dest"": ""image"", ""Referer"": ""https://qldt.ptit.edu.vn/public/"", ""Accept-Encoding"": ""gzip, deflate, br"", ""Priority"": ""u=1, i""}","","GET /public/favicon.ico HTTP/2
+Host: qldt.ptit.edu.vn
+Cookie: PRESENT
+Sec-Ch-Ua-Platform: ""Linux""
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: ""Not=A?Brand"";v=""24"", ""Chromium"";v=""140""
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+Sec-Ch-Ua-Mobile: ?0
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://qldt.ptit.edu.vn/public/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1, i","qldt_ptit_normal"
+"norm_qldt_ptit_000074","0","qldt_ptit_burp","https://qldt.ptit.edu.vn/public/signalr/negotiate?clientProtocol=2.1&connectionData=%5B%7B%22name%22%3A%22loginsstat%22%7D%5D&_=1779437887760","GET","https://qldt.ptit.edu.vn/public/signalr/negotiate?clientProtocol=2.1&connectionData=%5B%7B%22name%22%3A%22loginsstat%22%7D%5D&_=1779437887760","/public/signalr/negotiate","clientProtocol=2.1&connectionData=%5B%7B%22name%22%3A%22loginsstat%22%7D%5D&_=1779437887760","{""Host"": ""qldt.ptit.edu.vn"", ""Cookie"": ""PRESENT"", ""Sec-Ch-Ua-Platform"": ""\""Linux\"""", ""Accept-Language"": ""en-US,en;q=0.9"", ""Sec-Ch-Ua"": ""\""Not=A?Brand\"";v=\""24\"", \""Chromium\"";v=\""140\"""", ""Sec-Ch-Ua-Mobile"": ""?0"", ""X-Requested-With"": ""XMLHttpRequest"", ""User-Agent"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"", ""Accept"": ""text/plain, */*; q=0.01"", ""Content-Type"": ""application/json; charset=UTF-8"", ""Sec-Fetch-Site"": ""same-origin"", ""Sec-Fetch-Mode"": ""cors"", ""Sec-Fetch-Dest"": ""empty"", ""Referer"": ""https://qldt.ptit.edu.vn/public/"", ""Accept-Encoding"": ""gzip, deflate, br"", ""Priority"": ""u=1, i""}","","GET /public/signalr/negotiate?clientProtocol=2.1&connectionData=%5B%7B%22name%22%3A%22loginsstat%22%7D%5D&_=1779437887760 HTTP/2
+Host: qldt.ptit.edu.vn
+Cookie: PRESENT
+Sec-Ch-Ua-Platform: ""Linux""
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: ""Not=A?Brand"";v=""24"", ""Chromium"";v=""140""
+Sec-Ch-Ua-Mobile: ?0
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+Accept: text/plain, */*; q=0.01
+Content-Type: application/json; charset=UTF-8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://qldt.ptit.edu.vn/public/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1, i","qldt_ptit_normal"
+"norm_qldt_ptit_000075","0","qldt_ptit_burp","https://qldt.ptit.edu.vn/public/api/web/w-locdsheader","POST","https://qldt.ptit.edu.vn/public/api/web/w-locdsheader","/public/api/web/w-locdsheader","","{""Host"": ""qldt.ptit.edu.vn"", ""Cookie"": ""PRESENT"", ""Content-Length"": ""155"", ""Sec-Ch-Ua-Platform"": ""\""Linux\"""", ""Authorization"": ""PRESENT"", ""Idpc"": ""0"", ""Accept-Language"": ""en-US,en;q=0.9"", ""Sec-Ch-Ua"": ""\""Not=A?Brand\"";v=\""24\"", \""Chromium\"";v=\""140\"""", ""Sec-Ch-Ua-Mobile"": ""?0"", ""User-Agent"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"", ""Accept"": ""application/json, text/plain, */*"", ""Content-Type"": ""application/json"", ""Ua"": ""NQvDt3XDgH1VXMOfPUAGw75zw49/WljCu086EcKRacK7BS8swr9CPX/CggHCpQ=="", ""Origin"": ""https://qldt.ptit.edu.vn"", ""Sec-Fetch-Site"": ""same-origin"", ""Sec-Fetch-Mode"": ""cors"", ""Sec-Fetch-Dest"": ""empty"", ""Referer"": ""https://qldt.ptit.edu.vn/public/"", ""Accept-Encoding"": ""gzip, deflate, br"", ""Priority"": ""u=1, i""}","{""filter"":{""is_tieng_anh"":false,""id"":null,""is_hien_thi"":true},""additional"":{""paging"":{""limit"":100,""page"":1},""ordering"":[{""name"":""thu_tu"",""order_type"":0}]}}","POST /public/api/web/w-locdsheader HTTP/2
+Host: qldt.ptit.edu.vn
+Cookie: PRESENT
+Content-Length: 155
+Sec-Ch-Ua-Platform: ""Linux""
+Authorization: PRESENT
+Idpc: 0
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: ""Not=A?Brand"";v=""24"", ""Chromium"";v=""140""
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+Accept: application/json, text/plain, */*
+Content-Type: application/json
+Ua: NQvDt3XDgH1VXMOfPUAGw75zw49/WljCu086EcKRacK7BS8swr9CPX/CggHCpQ==
+Origin: https://qldt.ptit.edu.vn
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://qldt.ptit.edu.vn/public/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1, i
+
+{""filter"":{""is_tieng_anh"":false,""id"":null,""is_hien_thi"":true},""additional"":{""paging"":{""limit"":100,""page"":1},""ordering"":[{""name"":""thu_tu"",""order_type"":0}]}}","qldt_ptit_normal"
+"norm_qldt_ptit_000076","0","qldt_ptit_burp","https://qldt.ptit.edu.vn/public/api/web/w-locdssettingdangnhap","POST","https://qldt.ptit.edu.vn/public/api/web/w-locdssettingdangnhap","/public/api/web/w-locdssettingdangnhap","","{""Host"": ""qldt.ptit.edu.vn"", ""Cookie"": ""PRESENT"", ""Content-Length"": ""123"", ""Sec-Ch-Ua-Platform"": ""\""Linux\"""", ""Authorization"": ""PRESENT"", ""Idpc"": ""0"", ""Accept-Language"": ""en-US,en;q=0.9"", ""Sec-Ch-Ua"": ""\""Not=A?Brand\"";v=\""24\"", \""Chromium\"";v=\""140\"""", ""Sec-Ch-Ua-Mobile"": ""?0"", ""User-Agent"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"", ""Accept"": ""application/json, text/plain, */*"", ""Content-Type"": ""application/json"", ""Ua"": ""PirCiMO7GzRXwpE3w7wGJMKCw70UMVjCl1PCjnwzw63Dp2BMLcOhV8KYe0jDrsKDYkQqw6RKwow="", ""Origin"": ""https://qldt.ptit.edu.vn"", ""Sec-Fetch-Site"": ""same-origin"", ""Sec-Fetch-Mode"": ""cors"", ""Sec-Fetch-Dest"": ""empty"", ""Referer"": ""https://qldt.ptit.edu.vn/public/"", ""Accept-Encoding"": ""gzip, deflate, br"", ""Priority"": ""u=1, i""}","{""filter"":{""is_tieng_anh"":false},""additional"":{""paging"":{""limit"":1,""page"":1},""ordering"":[{""name"":null,""order_type"":null}]}}","POST /public/api/web/w-locdssettingdangnhap HTTP/2
+Host: qldt.ptit.edu.vn
+Cookie: PRESENT
+Content-Length: 123
+Sec-Ch-Ua-Platform: ""Linux""
+Authorization: PRESENT
+Idpc: 0
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: ""Not=A?Brand"";v=""24"", ""Chromium"";v=""140""
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+Accept: application/json, text/plain, */*
+Content-Type: application/json
+Ua: PirCiMO7GzRXwpE3w7wGJMKCw70UMVjCl1PCjnwzw63Dp2BMLcOhV8KYe0jDrsKDYkQqw6RKwow=
+Origin: https://qldt.ptit.edu.vn
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://qldt.ptit.edu.vn/public/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1, i
+
+{""filter"":{""is_tieng_anh"":false},""additional"":{""paging"":{""limit"":1,""page"":1},""ordering"":[{""name"":null,""order_type"":null}]}}","qldt_ptit_normal"
+"norm_qldt_ptit_000077","0","qldt_ptit_burp","https://qldt.ptit.edu.vn/public/api/web/w-locdsngonngu","POST","https://qldt.ptit.edu.vn/public/api/web/w-locdsngonngu","/public/api/web/w-locdsngonngu","","{""Host"": ""qldt.ptit.edu.vn"", ""Cookie"": ""PRESENT"", ""Content-Length"": ""124"", ""Sec-Ch-Ua-Platform"": ""\""Linux\"""", ""Authorization"": ""PRESENT"", ""Idpc"": ""0"", ""Accept-Language"": ""en-US,en;q=0.9"", ""Sec-Ch-Ua"": ""\""Not=A?Brand\"";v=\""24\"", \""Chromium\"";v=\""140\"""", ""Sec-Ch-Ua-Mobile"": ""?0"", ""User-Agent"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"", ""Accept"": ""application/json, text/plain, */*"", ""Content-Type"": ""application/json"", ""Ua"": ""OMKRPMO6CcOxfcODeVtQwp08w7wJw7Vww4IdKSrCilPDpnLCiQfCsxkiL8OqSsKFecKT"", ""Origin"": ""https://qldt.ptit.edu.vn"", ""Sec-Fetch-Site"": ""same-origin"", ""Sec-Fetch-Mode"": ""cors"", ""Sec-Fetch-Dest"": ""empty"", ""Referer"": ""https://qldt.ptit.edu.vn/public/"", ""Accept-Encoding"": ""gzip, deflate, br"", ""Priority"": ""u=1, i""}","{""filter"":{""is_Admin"":false},""additional"":{""paging"":{""limit"":99999,""page"":1},""ordering"":[{""name"":""MaMess"",""order_type"":0}]}}","POST /public/api/web/w-locdsngonngu HTTP/2
+Host: qldt.ptit.edu.vn
+Cookie: PRESENT
+Content-Length: 124
+Sec-Ch-Ua-Platform: ""Linux""
+Authorization: PRESENT
+Idpc: 0
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: ""Not=A?Brand"";v=""24"", ""Chromium"";v=""140""
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+Accept: application/json, text/plain, */*
+Content-Type: application/json
+Ua: OMKRPMO6CcOxfcODeVtQwp08w7wJw7Vww4IdKSrCilPDpnLCiQfCsxkiL8OqSsKFecKT
+Origin: https://qldt.ptit.edu.vn
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://qldt.ptit.edu.vn/public/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1, i
+
+{""filter"":{""is_Admin"":false},""additional"":{""paging"":{""limit"":99999,""page"":1},""ordering"":[{""name"":""MaMess"",""order_type"":0}]}}","qldt_ptit_normal"
+"norm_qldt_ptit_000078","0","qldt_ptit_burp","https://qldt.ptit.edu.vn/public/api/auth/authconfig","GET","https://qldt.ptit.edu.vn/public/api/auth/authconfig","/public/api/auth/authconfig","","{""Host"": ""qldt.ptit.edu.vn"", ""Cookie"": ""PRESENT"", ""Sec-Ch-Ua-Platform"": ""\""Linux\"""", ""Accept-Language"": ""en-US,en;q=0.9"", ""Sec-Ch-Ua"": ""\""Not=A?Brand\"";v=\""24\"", \""Chromium\"";v=\""140\"""", ""User-Agent"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"", ""Sec-Ch-Ua-Mobile"": ""?0"", ""Accept"": ""*/*"", ""Sec-Fetch-Site"": ""same-origin"", ""Sec-Fetch-Mode"": ""cors"", ""Sec-Fetch-Dest"": ""empty"", ""Referer"": ""https://qldt.ptit.edu.vn/public/"", ""Accept-Encoding"": ""gzip, deflate, br"", ""Priority"": ""u=0, i""}","","GET /public/api/auth/authconfig HTTP/2
+Host: qldt.ptit.edu.vn
+Cookie: PRESENT
+Sec-Ch-Ua-Platform: ""Linux""
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: ""Not=A?Brand"";v=""24"", ""Chromium"";v=""140""
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+Sec-Ch-Ua-Mobile: ?0
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://qldt.ptit.edu.vn/public/
+Accept-Encoding: gzip, deflate, br
+Priority: u=0, i","qldt_ptit_normal"
+"norm_qldt_ptit_000079","0","qldt_ptit_burp","https://qldt.ptit.edu.vn/assets/config.json","GET","https://qldt.ptit.edu.vn/assets/config.json","/assets/config.json","","{""Host"": ""qldt.ptit.edu.vn"", ""Cookie"": ""PRESENT"", ""Sec-Ch-Ua-Platform"": ""\""Linux\"""", ""Accept-Language"": ""en-US,en;q=0.9"", ""Sec-Ch-Ua"": ""\""Not=A?Brand\"";v=\""24\"", \""Chromium\"";v=\""140\"""", ""User-Agent"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"", ""Sec-Ch-Ua-Mobile"": ""?0"", ""Accept"": ""*/*"", ""Sec-Fetch-Site"": ""same-origin"", ""Sec-Fetch-Mode"": ""cors"", ""Sec-Fetch-Dest"": ""empty"", ""Referer"": ""https://qldt.ptit.edu.vn/public/"", ""Accept-Encoding"": ""gzip, deflate, br"", ""Priority"": ""u=0, i""}","","GET /assets/config.json HTTP/2
+Host: qldt.ptit.edu.vn
+Cookie: PRESENT
+Sec-Ch-Ua-Platform: ""Linux""
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: ""Not=A?Brand"";v=""24"", ""Chromium"";v=""140""
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+Sec-Ch-Ua-Mobile: ?0
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://qldt.ptit.edu.vn/public/
+Accept-Encoding: gzip, deflate, br
+Priority: u=0, i","qldt_ptit_normal"
+"norm_qldt_ptit_000080","0","qldt_ptit_burp","https://qldt.ptit.edu.vn/public/assets/config.json","GET","https://qldt.ptit.edu.vn/public/assets/config.json","/public/assets/config.json","","{""Host"": ""qldt.ptit.edu.vn"", ""Cookie"": ""PRESENT"", ""Sec-Ch-Ua-Platform"": ""\""Linux\"""", ""Accept-Language"": ""en-US,en;q=0.9"", ""Sec-Ch-Ua"": ""\""Not=A?Brand\"";v=\""24\"", \""Chromium\"";v=\""140\"""", ""User-Agent"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"", ""Sec-Ch-Ua-Mobile"": ""?0"", ""Accept"": ""*/*"", ""Sec-Fetch-Site"": ""same-origin"", ""Sec-Fetch-Mode"": ""cors"", ""Sec-Fetch-Dest"": ""empty"", ""Referer"": ""https://qldt.ptit.edu.vn/public/"", ""Accept-Encoding"": ""gzip, deflate, br"", ""Priority"": ""u=0, i""}","","GET /public/assets/config.json HTTP/2
+Host: qldt.ptit.edu.vn
+Cookie: PRESENT
+Sec-Ch-Ua-Platform: ""Linux""
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: ""Not=A?Brand"";v=""24"", ""Chromium"";v=""140""
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+Sec-Ch-Ua-Mobile: ?0
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://qldt.ptit.edu.vn/public/
+Accept-Encoding: gzip, deflate, br
+Priority: u=0, i","qldt_ptit_normal"
+"norm_qldt_ptit_000081","0","qldt_ptit_burp","https://apis.google.com/js/platform.js?onload=onLoad","GET","https://apis.google.com/js/platform.js?onload=onLoad","/js/platform.js","onload=onLoad","{""Host"": ""apis.google.com"", ""Cookie"": ""PRESENT"", ""Sec-Ch-Ua-Platform"": ""\""Linux\"""", ""Accept-Language"": ""en-US,en;q=0.9"", ""Sec-Ch-Ua"": ""\""Not=A?Brand\"";v=\""24\"", \""Chromium\"";v=\""140\"""", ""User-Agent"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"", ""Sec-Ch-Ua-Mobile"": ""?0"", ""Accept"": ""*/*"", ""X-Client-Data"": ""CKbgygE="", ""Sec-Fetch-Site"": ""cross-site"", ""Sec-Fetch-Mode"": ""no-cors"", ""Sec-Fetch-Dest"": ""script"", ""Sec-Fetch-Storage-Access"": ""active"", ""Referer"": ""https://qldt.ptit.edu.vn/"", ""Accept-Encoding"": ""gzip, deflate, br"", ""Connection"": ""keep-alive""}","","GET /js/platform.js?onload=onLoad HTTP/1.1
+Host: apis.google.com
+Cookie: PRESENT
+Sec-Ch-Ua-Platform: ""Linux""
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: ""Not=A?Brand"";v=""24"", ""Chromium"";v=""140""
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+Sec-Ch-Ua-Mobile: ?0
+Accept: */*
+X-Client-Data: CKbgygE=
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Sec-Fetch-Storage-Access: active
+Referer: https://qldt.ptit.edu.vn/
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive","qldt_ptit_normal"
+"norm_qldt_ptit_000082","0","qldt_ptit_burp","https://qldt.ptit.edu.vn/public/scripts.1c5e7c7a5ff0ecbf.js","GET","https://qldt.ptit.edu.vn/public/scripts.1c5e7c7a5ff0ecbf.js","/public/scripts.1c5e7c7a5ff0ecbf.js","","{""Host"": ""qldt.ptit.edu.vn"", ""Cookie"": ""PRESENT"", ""Sec-Ch-Ua-Platform"": ""\""Linux\"""", ""Accept-Language"": ""en-US,en;q=0.9"", ""Sec-Ch-Ua"": ""\""Not=A?Brand\"";v=\""24\"", \""Chromium\"";v=\""140\"""", ""User-Agent"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"", ""Sec-Ch-Ua-Mobile"": ""?0"", ""Accept"": ""*/*"", ""Sec-Fetch-Site"": ""same-origin"", ""Sec-Fetch-Mode"": ""no-cors"", ""Sec-Fetch-Dest"": ""script"", ""Referer"": ""https://qldt.ptit.edu.vn/public/"", ""Accept-Encoding"": ""gzip, deflate, br""}","","GET /public/scripts.1c5e7c7a5ff0ecbf.js HTTP/2
+Host: qldt.ptit.edu.vn
+Cookie: PRESENT
+Sec-Ch-Ua-Platform: ""Linux""
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: ""Not=A?Brand"";v=""24"", ""Chromium"";v=""140""
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+Sec-Ch-Ua-Mobile: ?0
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://qldt.ptit.edu.vn/public/
+Accept-Encoding: gzip, deflate, br","qldt_ptit_normal"
+"norm_qldt_ptit_000083","0","qldt_ptit_burp","https://qldt.ptit.edu.vn/public/main.727e93d63a9d7aa8.js","GET","https://qldt.ptit.edu.vn/public/main.727e93d63a9d7aa8.js","/public/main.727e93d63a9d7aa8.js","","{""Host"": ""qldt.ptit.edu.vn"", ""Cookie"": ""PRESENT"", ""Origin"": ""https://qldt.ptit.edu.vn"", ""Sec-Ch-Ua-Platform"": ""\""Linux\"""", ""Accept-Language"": ""en-US,en;q=0.9"", ""Sec-Ch-Ua"": ""\""Not=A?Brand\"";v=\""24\"", \""Chromium\"";v=\""140\"""", ""User-Agent"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"", ""Sec-Ch-Ua-Mobile"": ""?0"", ""Accept"": ""*/*"", ""Sec-Fetch-Site"": ""same-origin"", ""Sec-Fetch-Mode"": ""cors"", ""Sec-Fetch-Dest"": ""script"", ""Referer"": ""https://qldt.ptit.edu.vn/public/"", ""Accept-Encoding"": ""gzip, deflate, br"", ""Priority"": ""u=1""}","","GET /public/main.727e93d63a9d7aa8.js HTTP/2
+Host: qldt.ptit.edu.vn
+Cookie: PRESENT
+Origin: https://qldt.ptit.edu.vn
+Sec-Ch-Ua-Platform: ""Linux""
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: ""Not=A?Brand"";v=""24"", ""Chromium"";v=""140""
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+Sec-Ch-Ua-Mobile: ?0
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: script
+Referer: https://qldt.ptit.edu.vn/public/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1","qldt_ptit_normal"
+"norm_qldt_ptit_000084","0","qldt_ptit_burp","https://qldt.ptit.edu.vn/public/vendor.e482d879fd2db71a.js","GET","https://qldt.ptit.edu.vn/public/vendor.e482d879fd2db71a.js","/public/vendor.e482d879fd2db71a.js","","{""Host"": ""qldt.ptit.edu.vn"", ""Cookie"": ""PRESENT"", ""Origin"": ""https://qldt.ptit.edu.vn"", ""Sec-Ch-Ua-Platform"": ""\""Linux\"""", ""Accept-Language"": ""en-US,en;q=0.9"", ""Sec-Ch-Ua"": ""\""Not=A?Brand\"";v=\""24\"", \""Chromium\"";v=\""140\"""", ""User-Agent"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"", ""Sec-Ch-Ua-Mobile"": ""?0"", ""Accept"": ""*/*"", ""Sec-Fetch-Site"": ""same-origin"", ""Sec-Fetch-Mode"": ""cors"", ""Sec-Fetch-Dest"": ""script"", ""Referer"": ""https://qldt.ptit.edu.vn/public/"", ""Accept-Encoding"": ""gzip, deflate, br"", ""Priority"": ""u=1""}","","GET /public/vendor.e482d879fd2db71a.js HTTP/2
+Host: qldt.ptit.edu.vn
+Cookie: PRESENT
+Origin: https://qldt.ptit.edu.vn
+Sec-Ch-Ua-Platform: ""Linux""
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: ""Not=A?Brand"";v=""24"", ""Chromium"";v=""140""
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+Sec-Ch-Ua-Mobile: ?0
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: script
+Referer: https://qldt.ptit.edu.vn/public/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1","qldt_ptit_normal"
+"norm_qldt_ptit_000085","0","qldt_ptit_burp","https://qldt.ptit.edu.vn/public/polyfills.0e6126b2e4b641ab.js","GET","https://qldt.ptit.edu.vn/public/polyfills.0e6126b2e4b641ab.js","/public/polyfills.0e6126b2e4b641ab.js","","{""Host"": ""qldt.ptit.edu.vn"", ""Cookie"": ""PRESENT"", ""Origin"": ""https://qldt.ptit.edu.vn"", ""Sec-Ch-Ua-Platform"": ""\""Linux\"""", ""Accept-Language"": ""en-US,en;q=0.9"", ""Sec-Ch-Ua"": ""\""Not=A?Brand\"";v=\""24\"", \""Chromium\"";v=\""140\"""", ""User-Agent"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"", ""Sec-Ch-Ua-Mobile"": ""?0"", ""Accept"": ""*/*"", ""Sec-Fetch-Site"": ""same-origin"", ""Sec-Fetch-Mode"": ""cors"", ""Sec-Fetch-Dest"": ""script"", ""Referer"": ""https://qldt.ptit.edu.vn/public/"", ""Accept-Encoding"": ""gzip, deflate, br"", ""Priority"": ""u=1""}","","GET /public/polyfills.0e6126b2e4b641ab.js HTTP/2
+Host: qldt.ptit.edu.vn
+Cookie: PRESENT
+Origin: https://qldt.ptit.edu.vn
+Sec-Ch-Ua-Platform: ""Linux""
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: ""Not=A?Brand"";v=""24"", ""Chromium"";v=""140""
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+Sec-Ch-Ua-Mobile: ?0
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: script
+Referer: https://qldt.ptit.edu.vn/public/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1","qldt_ptit_normal"
+"norm_qldt_ptit_000086","0","qldt_ptit_burp","https://qldt.ptit.edu.vn/public/runtime.f63d2338e6c40be6.js","GET","https://qldt.ptit.edu.vn/public/runtime.f63d2338e6c40be6.js","/public/runtime.f63d2338e6c40be6.js","","{""Host"": ""qldt.ptit.edu.vn"", ""Cookie"": ""PRESENT"", ""Origin"": ""https://qldt.ptit.edu.vn"", ""Sec-Ch-Ua-Platform"": ""\""Linux\"""", ""Accept-Language"": ""en-US,en;q=0.9"", ""Sec-Ch-Ua"": ""\""Not=A?Brand\"";v=\""24\"", \""Chromium\"";v=\""140\"""", ""User-Agent"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"", ""Sec-Ch-Ua-Mobile"": ""?0"", ""Accept"": ""*/*"", ""Sec-Fetch-Site"": ""same-origin"", ""Sec-Fetch-Mode"": ""cors"", ""Sec-Fetch-Dest"": ""script"", ""Referer"": ""https://qldt.ptit.edu.vn/public/"", ""Accept-Encoding"": ""gzip, deflate, br"", ""Priority"": ""u=1""}","","GET /public/runtime.f63d2338e6c40be6.js HTTP/2
+Host: qldt.ptit.edu.vn
+Cookie: PRESENT
+Origin: https://qldt.ptit.edu.vn
+Sec-Ch-Ua-Platform: ""Linux""
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: ""Not=A?Brand"";v=""24"", ""Chromium"";v=""140""
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+Sec-Ch-Ua-Mobile: ?0
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: script
+Referer: https://qldt.ptit.edu.vn/public/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1","qldt_ptit_normal"
+"norm_qldt_ptit_000087","0","qldt_ptit_burp","https://qldt.ptit.edu.vn/scripts.1c5e7c7a5ff0ecbf.js","GET","https://qldt.ptit.edu.vn/scripts.1c5e7c7a5ff0ecbf.js","/scripts.1c5e7c7a5ff0ecbf.js","","{""Host"": ""qldt.ptit.edu.vn"", ""Cookie"": ""PRESENT"", ""Sec-Ch-Ua-Platform"": ""\""Linux\"""", ""Accept-Language"": ""en-US,en;q=0.9"", ""Sec-Ch-Ua"": ""\""Not=A?Brand\"";v=\""24\"", \""Chromium\"";v=\""140\"""", ""User-Agent"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"", ""Sec-Ch-Ua-Mobile"": ""?0"", ""Accept"": ""*/*"", ""Sec-Fetch-Site"": ""same-origin"", ""Sec-Fetch-Mode"": ""no-cors"", ""Sec-Fetch-Dest"": ""script"", ""Referer"": ""https://qldt.ptit.edu.vn/public/"", ""Accept-Encoding"": ""gzip, deflate, br""}","","GET /scripts.1c5e7c7a5ff0ecbf.js HTTP/2
+Host: qldt.ptit.edu.vn
+Cookie: PRESENT
+Sec-Ch-Ua-Platform: ""Linux""
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: ""Not=A?Brand"";v=""24"", ""Chromium"";v=""140""
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+Sec-Ch-Ua-Mobile: ?0
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://qldt.ptit.edu.vn/public/
+Accept-Encoding: gzip, deflate, br","qldt_ptit_normal"
+"norm_qldt_ptit_000088","0","qldt_ptit_burp","https://unpkg.com/default-passive-events@4.0.0/dist/index.umd.js","GET","https://unpkg.com/default-passive-events@4.0.0/dist/index.umd.js","/default-passive-events@4.0.0/dist/index.umd.js","","{""Host"": ""unpkg.com"", ""Sec-Ch-Ua-Platform"": ""\""Linux\"""", ""Accept-Language"": ""en-US,en;q=0.9"", ""Sec-Ch-Ua"": ""\""Not=A?Brand\"";v=\""24\"", \""Chromium\"";v=\""140\"""", ""User-Agent"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"", ""Sec-Ch-Ua-Mobile"": ""?0"", ""Accept"": ""*/*"", ""Sec-Fetch-Site"": ""cross-site"", ""Sec-Fetch-Mode"": ""no-cors"", ""Sec-Fetch-Dest"": ""script"", ""Sec-Fetch-Storage-Access"": ""active"", ""Referer"": ""https://qldt.ptit.edu.vn/"", ""Accept-Encoding"": ""gzip, deflate, br"", ""Priority"": ""u=1""}","","GET /default-passive-events@4.0.0/dist/index.umd.js HTTP/2
+Host: unpkg.com
+Sec-Ch-Ua-Platform: ""Linux""
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: ""Not=A?Brand"";v=""24"", ""Chromium"";v=""140""
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+Sec-Ch-Ua-Mobile: ?0
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Sec-Fetch-Storage-Access: active
+Referer: https://qldt.ptit.edu.vn/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1","qldt_ptit_normal"
+"norm_qldt_ptit_000089","0","qldt_ptit_burp","https://unpkg.com/default-passive-events","GET","https://unpkg.com/default-passive-events","/default-passive-events","","{""Host"": ""unpkg.com"", ""Sec-Ch-Ua-Platform"": ""\""Linux\"""", ""Accept-Language"": ""en-US,en;q=0.9"", ""Sec-Ch-Ua"": ""\""Not=A?Brand\"";v=\""24\"", \""Chromium\"";v=\""140\"""", ""User-Agent"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"", ""Sec-Ch-Ua-Mobile"": ""?0"", ""Accept"": ""*/*"", ""Sec-Fetch-Site"": ""cross-site"", ""Sec-Fetch-Mode"": ""no-cors"", ""Sec-Fetch-Dest"": ""script"", ""Sec-Fetch-Storage-Access"": ""active"", ""Referer"": ""https://qldt.ptit.edu.vn/"", ""Accept-Encoding"": ""gzip, deflate, br"", ""Priority"": ""u=1""}","","GET /default-passive-events HTTP/2
+Host: unpkg.com
+Sec-Ch-Ua-Platform: ""Linux""
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: ""Not=A?Brand"";v=""24"", ""Chromium"";v=""140""
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+Sec-Ch-Ua-Mobile: ?0
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Sec-Fetch-Storage-Access: active
+Referer: https://qldt.ptit.edu.vn/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1","qldt_ptit_normal"
+"norm_qldt_ptit_000090","0","qldt_ptit_burp","https://cdn.jsdelivr.net/npm/apexcharts","GET","https://cdn.jsdelivr.net/npm/apexcharts","/npm/apexcharts","","{""Host"": ""cdn.jsdelivr.net"", ""Sec-Ch-Ua-Platform"": ""\""Linux\"""", ""Accept-Language"": ""en-US,en;q=0.9"", ""Sec-Ch-Ua"": ""\""Not=A?Brand\"";v=\""24\"", \""Chromium\"";v=\""140\"""", ""User-Agent"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"", ""Sec-Ch-Ua-Mobile"": ""?0"", ""Accept"": ""*/*"", ""Sec-Fetch-Site"": ""cross-site"", ""Sec-Fetch-Mode"": ""no-cors"", ""Sec-Fetch-Dest"": ""script"", ""Sec-Fetch-Storage-Access"": ""active"", ""Referer"": ""https://qldt.ptit.edu.vn/"", ""Accept-Encoding"": ""gzip, deflate, br"", ""Priority"": ""u=1""}","","GET /npm/apexcharts HTTP/2
+Host: cdn.jsdelivr.net
+Sec-Ch-Ua-Platform: ""Linux""
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: ""Not=A?Brand"";v=""24"", ""Chromium"";v=""140""
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+Sec-Ch-Ua-Mobile: ?0
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Sec-Fetch-Storage-Access: active
+Referer: https://qldt.ptit.edu.vn/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1","qldt_ptit_normal"
+"norm_qldt_ptit_000091","0","qldt_ptit_burp","https://qldt.ptit.edu.vn/runtime.f63d2338e6c40be6.js","GET","https://qldt.ptit.edu.vn/runtime.f63d2338e6c40be6.js","/runtime.f63d2338e6c40be6.js","","{""Host"": ""qldt.ptit.edu.vn"", ""Cookie"": ""PRESENT"", ""Origin"": ""https://qldt.ptit.edu.vn"", ""Sec-Ch-Ua-Platform"": ""\""Linux\"""", ""Accept-Language"": ""en-US,en;q=0.9"", ""Sec-Ch-Ua"": ""\""Not=A?Brand\"";v=\""24\"", \""Chromium\"";v=\""140\"""", ""User-Agent"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"", ""Sec-Ch-Ua-Mobile"": ""?0"", ""Accept"": ""*/*"", ""Sec-Fetch-Site"": ""same-origin"", ""Sec-Fetch-Mode"": ""cors"", ""Sec-Fetch-Dest"": ""script"", ""Referer"": ""https://qldt.ptit.edu.vn/public/"", ""Accept-Encoding"": ""gzip, deflate, br"", ""Priority"": ""u=1""}","","GET /runtime.f63d2338e6c40be6.js HTTP/2
+Host: qldt.ptit.edu.vn
+Cookie: PRESENT
+Origin: https://qldt.ptit.edu.vn
+Sec-Ch-Ua-Platform: ""Linux""
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: ""Not=A?Brand"";v=""24"", ""Chromium"";v=""140""
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+Sec-Ch-Ua-Mobile: ?0
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: script
+Referer: https://qldt.ptit.edu.vn/public/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1","qldt_ptit_normal"
+"norm_qldt_ptit_000092","0","qldt_ptit_burp","https://qldt.ptit.edu.vn/vendor.e482d879fd2db71a.js","GET","https://qldt.ptit.edu.vn/vendor.e482d879fd2db71a.js","/vendor.e482d879fd2db71a.js","","{""Host"": ""qldt.ptit.edu.vn"", ""Cookie"": ""PRESENT"", ""Origin"": ""https://qldt.ptit.edu.vn"", ""Sec-Ch-Ua-Platform"": ""\""Linux\"""", ""Accept-Language"": ""en-US,en;q=0.9"", ""Sec-Ch-Ua"": ""\""Not=A?Brand\"";v=\""24\"", \""Chromium\"";v=\""140\"""", ""User-Agent"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"", ""Sec-Ch-Ua-Mobile"": ""?0"", ""Accept"": ""*/*"", ""Sec-Fetch-Site"": ""same-origin"", ""Sec-Fetch-Mode"": ""cors"", ""Sec-Fetch-Dest"": ""script"", ""Referer"": ""https://qldt.ptit.edu.vn/public/"", ""Accept-Encoding"": ""gzip, deflate, br"", ""Priority"": ""u=1""}","","GET /vendor.e482d879fd2db71a.js HTTP/2
+Host: qldt.ptit.edu.vn
+Cookie: PRESENT
+Origin: https://qldt.ptit.edu.vn
+Sec-Ch-Ua-Platform: ""Linux""
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: ""Not=A?Brand"";v=""24"", ""Chromium"";v=""140""
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+Sec-Ch-Ua-Mobile: ?0
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: script
+Referer: https://qldt.ptit.edu.vn/public/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1","qldt_ptit_normal"
+"norm_qldt_ptit_000093","0","qldt_ptit_burp","https://qldt.ptit.edu.vn/main.727e93d63a9d7aa8.js","GET","https://qldt.ptit.edu.vn/main.727e93d63a9d7aa8.js","/main.727e93d63a9d7aa8.js","","{""Host"": ""qldt.ptit.edu.vn"", ""Cookie"": ""PRESENT"", ""Origin"": ""https://qldt.ptit.edu.vn"", ""Sec-Ch-Ua-Platform"": ""\""Linux\"""", ""Accept-Language"": ""en-US,en;q=0.9"", ""Sec-Ch-Ua"": ""\""Not=A?Brand\"";v=\""24\"", \""Chromium\"";v=\""140\"""", ""User-Agent"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"", ""Sec-Ch-Ua-Mobile"": ""?0"", ""Accept"": ""*/*"", ""Sec-Fetch-Site"": ""same-origin"", ""Sec-Fetch-Mode"": ""cors"", ""Sec-Fetch-Dest"": ""script"", ""Referer"": ""https://qldt.ptit.edu.vn/public/"", ""Accept-Encoding"": ""gzip, deflate, br"", ""Priority"": ""u=1""}","","GET /main.727e93d63a9d7aa8.js HTTP/2
+Host: qldt.ptit.edu.vn
+Cookie: PRESENT
+Origin: https://qldt.ptit.edu.vn
+Sec-Ch-Ua-Platform: ""Linux""
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: ""Not=A?Brand"";v=""24"", ""Chromium"";v=""140""
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+Sec-Ch-Ua-Mobile: ?0
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: script
+Referer: https://qldt.ptit.edu.vn/public/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1","qldt_ptit_normal"
+"norm_qldt_ptit_000094","0","qldt_ptit_burp","https://qldt.ptit.edu.vn/polyfills.0e6126b2e4b641ab.js","GET","https://qldt.ptit.edu.vn/polyfills.0e6126b2e4b641ab.js","/polyfills.0e6126b2e4b641ab.js","","{""Host"": ""qldt.ptit.edu.vn"", ""Cookie"": ""PRESENT"", ""Origin"": ""https://qldt.ptit.edu.vn"", ""Sec-Ch-Ua-Platform"": ""\""Linux\"""", ""Accept-Language"": ""en-US,en;q=0.9"", ""Sec-Ch-Ua"": ""\""Not=A?Brand\"";v=\""24\"", \""Chromium\"";v=\""140\"""", ""User-Agent"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"", ""Sec-Ch-Ua-Mobile"": ""?0"", ""Accept"": ""*/*"", ""Sec-Fetch-Site"": ""same-origin"", ""Sec-Fetch-Mode"": ""cors"", ""Sec-Fetch-Dest"": ""script"", ""Referer"": ""https://qldt.ptit.edu.vn/public/"", ""Accept-Encoding"": ""gzip, deflate, br"", ""Priority"": ""u=1""}","","GET /polyfills.0e6126b2e4b641ab.js HTTP/2
+Host: qldt.ptit.edu.vn
+Cookie: PRESENT
+Origin: https://qldt.ptit.edu.vn
+Sec-Ch-Ua-Platform: ""Linux""
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: ""Not=A?Brand"";v=""24"", ""Chromium"";v=""140""
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+Sec-Ch-Ua-Mobile: ?0
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: script
+Referer: https://qldt.ptit.edu.vn/public/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1","qldt_ptit_normal"
+"norm_qldt_ptit_000095","0","qldt_ptit_burp","https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js","GET","https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js","/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js","","{""Host"": ""cdn.jsdelivr.net"", ""Sec-Ch-Ua-Platform"": ""\""Linux\"""", ""Accept-Language"": ""en-US,en;q=0.9"", ""Sec-Ch-Ua"": ""\""Not=A?Brand\"";v=\""24\"", \""Chromium\"";v=\""140\"""", ""User-Agent"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"", ""Sec-Ch-Ua-Mobile"": ""?0"", ""Accept"": ""*/*"", ""Sec-Fetch-Site"": ""cross-site"", ""Sec-Fetch-Mode"": ""no-cors"", ""Sec-Fetch-Dest"": ""script"", ""Sec-Fetch-Storage-Access"": ""active"", ""Referer"": ""https://qldt.ptit.edu.vn/"", ""Accept-Encoding"": ""gzip, deflate, br"", ""Priority"": ""u=1""}","","GET /npm/@popperjs/core@2.9.2/dist/umd/popper.min.js HTTP/2
+Host: cdn.jsdelivr.net
+Sec-Ch-Ua-Platform: ""Linux""
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: ""Not=A?Brand"";v=""24"", ""Chromium"";v=""140""
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+Sec-Ch-Ua-Mobile: ?0
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Sec-Fetch-Storage-Access: active
+Referer: https://qldt.ptit.edu.vn/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1","qldt_ptit_normal"
+"norm_qldt_ptit_000096","0","qldt_ptit_burp","https://qldt.ptit.edu.vn/public/","GET","https://qldt.ptit.edu.vn/public/","/public/","","{""Host"": ""qldt.ptit.edu.vn"", ""Cookie"": ""PRESENT"", ""Sec-Ch-Ua"": ""\""Not=A?Brand\"";v=\""24\"", \""Chromium\"";v=\""140\"""", ""Sec-Ch-Ua-Mobile"": ""?0"", ""Sec-Ch-Ua-Platform"": ""\""Linux\"""", ""Accept-Language"": ""en-US,en;q=0.9"", ""Upgrade-Insecure-Requests"": ""1"", ""User-Agent"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"", ""Accept"": ""text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7"", ""Sec-Fetch-Site"": ""same-origin"", ""Sec-Fetch-Mode"": ""navigate"", ""Sec-Fetch-Dest"": ""document"", ""Referer"": ""https://qldt.ptit.edu.vn/"", ""Accept-Encoding"": ""gzip, deflate, br"", ""Priority"": ""u=0, i""}","","GET /public/ HTTP/2
+Host: qldt.ptit.edu.vn
+Cookie: PRESENT
+Sec-Ch-Ua: ""Not=A?Brand"";v=""24"", ""Chromium"";v=""140""
+Sec-Ch-Ua-Mobile: ?0
+Sec-Ch-Ua-Platform: ""Linux""
+Accept-Language: en-US,en;q=0.9
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Dest: document
+Referer: https://qldt.ptit.edu.vn/
+Accept-Encoding: gzip, deflate, br
+Priority: u=0, i","qldt_ptit_normal"
+"norm_qldt_ptit_000097","0","qldt_ptit_burp","https://qldt.ptit.edu.vn/api/web/w-geturlsaulogin","POST","https://qldt.ptit.edu.vn/api/web/w-geturlsaulogin","/api/web/w-geturlsaulogin","","{""Host"": ""qldt.ptit.edu.vn"", ""Cookie"": ""PRESENT"", ""Content-Length"": ""0"", ""Sec-Ch-Ua-Platform"": ""\""Linux\"""", ""Authorization"": ""PRESENT"", ""Idpc"": ""0"", ""Accept-Language"": ""en-US,en;q=0.9"", ""Sec-Ch-Ua"": ""\""Not=A?Brand\"";v=\""24\"", \""Chromium\"";v=\""140\"""", ""Sec-Ch-Ua-Mobile"": ""?0"", ""User-Agent"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"", ""Accept"": ""application/json, text/plain, */*"", ""Content-Type"": ""text/plain"", ""Ua"": ""LcO8w77DhlvDm0FHwowsPsOzw7DDhFvDnEFEw6heRMOkwpHDmivCqSwmw61XVcKKwpPCuyPCqzE9"", ""Origin"": ""https://qldt.ptit.edu.vn"", ""Sec-Fetch-Site"": ""same-origin"", ""Sec-Fetch-Mode"": ""cors"", ""Sec-Fetch-Dest"": ""empty"", ""Referer"": ""https://qldt.ptit.edu.vn/"", ""Accept-Encoding"": ""gzip, deflate, br"", ""Priority"": ""u=1, i""}","","POST /api/web/w-geturlsaulogin HTTP/2
+Host: qldt.ptit.edu.vn
+Cookie: PRESENT
+Content-Length: 0
+Sec-Ch-Ua-Platform: ""Linux""
+Authorization: PRESENT
+Idpc: 0
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: ""Not=A?Brand"";v=""24"", ""Chromium"";v=""140""
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+Accept: application/json, text/plain, */*
+Content-Type: text/plain
+Ua: LcO8w77DhlvDm0FHwowsPsOzw7DDhFvDnEFEw6heRMOkwpHDmivCqSwmw61XVcKKwpPCuyPCqzE9
+Origin: https://qldt.ptit.edu.vn
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://qldt.ptit.edu.vn/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1, i","qldt_ptit_normal"
+"norm_qldt_ptit_000098","0","qldt_ptit_burp","https://qldt.ptit.edu.vn/api/auth/authconfig","GET","https://qldt.ptit.edu.vn/api/auth/authconfig","/api/auth/authconfig","","{""Host"": ""qldt.ptit.edu.vn"", ""Cookie"": ""PRESENT"", ""Sec-Ch-Ua-Platform"": ""\""Linux\"""", ""Accept-Language"": ""en-US,en;q=0.9"", ""Sec-Ch-Ua"": ""\""Not=A?Brand\"";v=\""24\"", \""Chromium\"";v=\""140\"""", ""User-Agent"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"", ""Sec-Ch-Ua-Mobile"": ""?0"", ""Accept"": ""*/*"", ""Sec-Fetch-Site"": ""same-origin"", ""Sec-Fetch-Mode"": ""cors"", ""Sec-Fetch-Dest"": ""empty"", ""Referer"": ""https://qldt.ptit.edu.vn/"", ""Accept-Encoding"": ""gzip, deflate, br"", ""Priority"": ""u=0, i""}","","GET /api/auth/authconfig HTTP/2
+Host: qldt.ptit.edu.vn
+Cookie: PRESENT
+Sec-Ch-Ua-Platform: ""Linux""
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: ""Not=A?Brand"";v=""24"", ""Chromium"";v=""140""
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+Sec-Ch-Ua-Mobile: ?0
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://qldt.ptit.edu.vn/
+Accept-Encoding: gzip, deflate, br
+Priority: u=0, i","qldt_ptit_normal"
+"norm_qldt_ptit_000099","0","qldt_ptit_burp","https://qldt.ptit.edu.vn/main.js?v=1.0.0","GET","https://qldt.ptit.edu.vn/main.js?v=1.0.0","/main.js","v=1.0.0","{""Host"": ""qldt.ptit.edu.vn"", ""Cookie"": ""PRESENT"", ""Sec-Ch-Ua-Platform"": ""\""Linux\"""", ""Accept-Language"": ""en-US,en;q=0.9"", ""Sec-Ch-Ua"": ""\""Not=A?Brand\"";v=\""24\"", \""Chromium\"";v=\""140\"""", ""User-Agent"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"", ""Sec-Ch-Ua-Mobile"": ""?0"", ""Accept"": ""*/*"", ""Sec-Fetch-Site"": ""same-origin"", ""Sec-Fetch-Mode"": ""no-cors"", ""Sec-Fetch-Dest"": ""script"", ""Referer"": ""https://qldt.ptit.edu.vn/"", ""Accept-Encoding"": ""gzip, deflate, br"", ""Priority"": ""u=1""}","","GET /main.js?v=1.0.0 HTTP/2
+Host: qldt.ptit.edu.vn
+Cookie: PRESENT
+Sec-Ch-Ua-Platform: ""Linux""
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: ""Not=A?Brand"";v=""24"", ""Chromium"";v=""140""
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+Sec-Ch-Ua-Mobile: ?0
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://qldt.ptit.edu.vn/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1","qldt_ptit_normal"
+"norm_qldt_ptit_000100","0","qldt_ptit_burp","https://qldt.ptit.edu.vn/styles.css?v=1.0.0","GET","https://qldt.ptit.edu.vn/styles.css?v=1.0.0","/styles.css","v=1.0.0","{""Host"": ""qldt.ptit.edu.vn"", ""Cookie"": ""PRESENT"", ""Sec-Ch-Ua-Platform"": ""\""Linux\"""", ""Accept-Language"": ""en-US,en;q=0.9"", ""Sec-Ch-Ua"": ""\""Not=A?Brand\"";v=\""24\"", \""Chromium\"";v=\""140\"""", ""User-Agent"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"", ""Sec-Ch-Ua-Mobile"": ""?0"", ""Accept"": ""text/css,*/*;q=0.1"", ""Sec-Fetch-Site"": ""same-origin"", ""Sec-Fetch-Mode"": ""no-cors"", ""Sec-Fetch-Dest"": ""style"", ""Referer"": ""https://qldt.ptit.edu.vn/"", ""Accept-Encoding"": ""gzip, deflate, br"", ""Priority"": ""u=0""}","","GET /styles.css?v=1.0.0 HTTP/2
+Host: qldt.ptit.edu.vn
+Cookie: PRESENT
+Sec-Ch-Ua-Platform: ""Linux""
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: ""Not=A?Brand"";v=""24"", ""Chromium"";v=""140""
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+Sec-Ch-Ua-Mobile: ?0
+Accept: text/css,*/*;q=0.1
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: style
+Referer: https://qldt.ptit.edu.vn/
+Accept-Encoding: gzip, deflate, br
+Priority: u=0","qldt_ptit_normal"
+"norm_qldt_ptit_000101","0","qldt_ptit_burp","https://qldt.ptit.edu.vn/","GET","https://qldt.ptit.edu.vn/","/","","{""Host"": ""qldt.ptit.edu.vn"", ""Cookie"": ""PRESENT"", ""Accept-Language"": ""en-US,en;q=0.9"", ""Upgrade-Insecure-Requests"": ""1"", ""User-Agent"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"", ""Accept"": ""text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7"", ""Sec-Fetch-Site"": ""same-origin"", ""Sec-Fetch-Mode"": ""navigate"", ""Sec-Fetch-User"": ""?1"", ""Sec-Fetch-Dest"": ""document"", ""Sec-Ch-Ua"": ""\""Not=A?Brand\"";v=\""24\"", \""Chromium\"";v=\""140\"""", ""Sec-Ch-Ua-Mobile"": ""?0"", ""Sec-Ch-Ua-Platform"": ""\""Linux\"""", ""Referer"": ""https://qldt.ptit.edu.vn/"", ""Accept-Encoding"": ""gzip, deflate, br"", ""Priority"": ""u=0, i""}","","GET / HTTP/2
+Host: qldt.ptit.edu.vn
+Cookie: PRESENT
+Accept-Language: en-US,en;q=0.9
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Sec-Ch-Ua: ""Not=A?Brand"";v=""24"", ""Chromium"";v=""140""
+Sec-Ch-Ua-Mobile: ?0
+Sec-Ch-Ua-Platform: ""Linux""
+Referer: https://qldt.ptit.edu.vn/
+Accept-Encoding: gzip, deflate, br
+Priority: u=0, i","qldt_ptit_normal"
+"norm_qldt_ptit_000102","0","qldt_ptit_burp","https://qldt.ptit.edu.vn/api/pn-signin?code=eyJ1c2VybmFtZSI6IkIyM0RDQVQxNzQiLCJwYXNzd29yZCI6ImxvbmcgbG9uZzIwMDUiLCJ1cmkiOiJodHRwczovL3FsZHQucHRpdC5lZHUudm4vIy8ifQ==&gopage=&mgr=0","GET","https://qldt.ptit.edu.vn/api/pn-signin?code=eyJ1c2VybmFtZSI6IkIyM0RDQVQxNzQiLCJwYXNzd29yZCI6ImxvbmcgbG9uZzIwMDUiLCJ1cmkiOiJodHRwczovL3FsZHQucHRpdC5lZHUudm4vIy8ifQ==&gopage=&mgr=0","/api/pn-signin","code=eyJ1c2VybmFtZSI6IkIyM0RDQVQxNzQiLCJwYXNzd29yZCI6ImxvbmcgbG9uZzIwMDUiLCJ1cmkiOiJodHRwczovL3FsZHQucHRpdC5lZHUudm4vIy8ifQ==&gopage=&mgr=0","{""Host"": ""qldt.ptit.edu.vn"", ""Cookie"": ""PRESENT"", ""Sec-Ch-Ua"": ""\""Not=A?Brand\"";v=\""24\"", \""Chromium\"";v=\""140\"""", ""Sec-Ch-Ua-Mobile"": ""?0"", ""Sec-Ch-Ua-Platform"": ""\""Linux\"""", ""Accept-Language"": ""en-US,en;q=0.9"", ""Upgrade-Insecure-Requests"": ""1"", ""User-Agent"": ""Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"", ""Accept"": ""text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7"", ""Sec-Fetch-Site"": ""same-origin"", ""Sec-Fetch-Mode"": ""navigate"", ""Sec-Fetch-User"": ""?1"", ""Sec-Fetch-Dest"": ""document"", ""Referer"": ""https://qldt.ptit.edu.vn/"", ""Accept-Encoding"": ""gzip, deflate, br"", ""Priority"": ""u=0, i""}","","GET /api/pn-signin?code=eyJ1c2VybmFtZSI6IkIyM0RDQVQxNzQiLCJwYXNzd29yZCI6ImxvbmcgbG9uZzIwMDUiLCJ1cmkiOiJodHRwczovL3FsZHQucHRpdC5lZHUudm4vIy8ifQ==&gopage=&mgr=0 HTTP/2
+Host: qldt.ptit.edu.vn
+Cookie: PRESENT
+Sec-Ch-Ua: ""Not=A?Brand"";v=""24"", ""Chromium"";v=""140""
+Sec-Ch-Ua-Mobile: ?0
+Sec-Ch-Ua-Platform: ""Linux""
+Accept-Language: en-US,en;q=0.9
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Referer: https://qldt.ptit.edu.vn/
+Accept-Encoding: gzip, deflate, br
+Priority: u=0, i","qldt_ptit_normal"
